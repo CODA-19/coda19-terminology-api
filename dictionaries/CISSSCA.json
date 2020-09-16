@@ -1,0 +1,2458 @@
+{
+  "labName": [],
+  "drugName": [],
+  "drugFrequency": [],
+  "cultureName": [],
+  "cultureResultStatus": [],
+  "imagingName": [
+    {
+      "raw_string_lower": "8309",
+      "site": "CISSSCA",
+      "raw_description": "Écho-doppler transoesophagienne"
+    },
+    {
+      "raw_string_lower": "8357",
+      "site": "CISSSCA",
+      "raw_description": "Doppler veineux périphérique d'un seul membre sup."
+    },
+    {
+      "raw_string_lower": "94186",
+      "site": "CISSSCA",
+      "raw_description": "Angio Ponction pleurale"
+    },
+    {
+      "raw_string_lower": "8380",
+      "site": "CISSSCA",
+      "raw_description": "Doppler veineux peripherique / membre inferieur"
+    },
+    {
+      "raw_string_lower": "8067g",
+      "site": "CISSSCA",
+      "raw_description": "Main gauche"
+    },
+    {
+      "raw_string_lower": "8579",
+      "site": "CISSSCA",
+      "raw_description": "IRM cholangiographie sans contraste"
+    },
+    {
+      "raw_string_lower": "02931",
+      "site": "CISSSCA",
+      "raw_description": "Bloc foraminal  deux racines ou plus"
+    },
+    {
+      "raw_string_lower": "3004tho",
+      "site": "CISSSCA",
+      "raw_description": "TDM Biopsie/cytologie thoracique"
+    },
+    {
+      "raw_string_lower": "8576bdor",
+      "site": "CISSSCA",
+      "raw_description": "IRM col. dorsale sans et avec contraste"
+    },
+    {
+      "raw_string_lower": "8337dg",
+      "site": "CISSSCA",
+      "raw_description": "Echo seins droit et gauche (incl. les aisselles)"
+    },
+    {
+      "raw_string_lower": "8080g",
+      "site": "CISSSCA",
+      "raw_description": "Hanche gauche"
+    },
+    {
+      "raw_string_lower": "8275lom",
+      "site": "CISSSCA",
+      "raw_description": "TDM rachis lombaire sans contraste"
+    },
+    {
+      "raw_string_lower": "8053",
+      "site": "CISSSCA",
+      "raw_description": "Serie scoliotique 3 incidences ou plus"
+    },
+    {
+      "raw_string_lower": "8350",
+      "site": "CISSSCA",
+      "raw_description": "Doppler des carotides"
+    },
+    {
+      "raw_string_lower": "8575msd",
+      "site": "CISSSCA",
+      "raw_description": "IRM membre superieur droit sans contraste"
+    },
+    {
+      "raw_string_lower": "8268atap",
+      "site": "CISSSCA",
+      "raw_description": "TDM ANGIO THORACIQUE ABDOMINAL PELVIEN C+"
+    },
+    {
+      "raw_string_lower": "8100",
+      "site": "CISSSCA",
+      "raw_description": "Poumons",
+      "loinc_reference_url": "https://loinc.org/36554-4",
+      "loinc_code": "36554-4",
+      "display_string": "chest_x_ray"
+    },
+    {
+      "raw_string_lower": "8325",
+      "site": "CISSSCA",
+      "raw_description": "Echo abdominale limitee"
+    },
+    {
+      "raw_string_lower": "8381",
+      "site": "CISSSCA",
+      "raw_description": "Doppler renal (uni ou bilaterale)"
+    },
+    {
+      "raw_string_lower": "8275sac",
+      "site": "CISSSCA",
+      "raw_description": "TDM sacrum sans contraste"
+    },
+    {
+      "raw_string_lower": "8127",
+      "site": "CISSSCA",
+      "raw_description": "Colonne cervicale 3 incidences ou moins"
+    },
+    {
+      "raw_string_lower": "8585c",
+      "site": "CISSSCA",
+      "raw_description": "IRM Angio cou sans contraste ( 1 manip.)"
+    },
+    {
+      "raw_string_lower": "8066g",
+      "site": "CISSSCA",
+      "raw_description": "Poignet gauche"
+    },
+    {
+      "raw_string_lower": "3006abd",
+      "site": "CISSSCA",
+      "raw_description": "Angio Biopsie/cytologie abdomen"
+    },
+    {
+      "raw_string_lower": "9454",
+      "site": "CISSSCA",
+      "raw_description": "Angio remplacement catheter biliaire"
+    },
+    {
+      "raw_string_lower": "01092",
+      "site": "CISSSCA",
+      "raw_description": "inj. médic. capsule/gaine/tendon/fascia m. inf"
+    },
+    {
+      "raw_string_lower": "8144",
+      "site": "CISSSCA",
+      "raw_description": "Revision de films suite à la mammo"
+    },
+    {
+      "raw_string_lower": "8335",
+      "site": "CISSSCA",
+      "raw_description": "Echo de surface - autre region"
+    },
+    {
+      "raw_string_lower": "8087d",
+      "site": "CISSSCA",
+      "raw_description": "Pied et/ou talon droit"
+    },
+    {
+      "raw_string_lower": "83696",
+      "site": "CISSSCA",
+      "raw_description": "Doppler portal et/ou greffon hépatique"
+    },
+    {
+      "raw_string_lower": "8073b",
+      "site": "CISSSCA",
+      "raw_description": "Complementaire bilat DX"
+    },
+    {
+      "raw_string_lower": "8010",
+      "site": "CISSSCA",
+      "raw_description": "Crane 3 incidences ou moins"
+    },
+    {
+      "raw_string_lower": "8570",
+      "site": "CISSSCA",
+      "raw_description": "IRM tete sans contraste"
+    },
+    {
+      "raw_string_lower": "9448",
+      "site": "CISSSCA",
+      "raw_description": "Angio inst.de filtre endoveineux par catheterisme"
+    },
+    {
+      "raw_string_lower": "8262",
+      "site": "CISSSCA",
+      "raw_description": "TDM thorax avec contraste (incluant surrenales)"
+    },
+    {
+      "raw_string_lower": "8576dor",
+      "site": "CISSSCA",
+      "raw_description": "IRM col. dorsale sans contraste"
+    },
+    {
+      "raw_string_lower": "8255an",
+      "site": "CISSSCA",
+      "raw_description": "TDM ANGIO thorax et abd. avec contraste (2 manip.)"
+    },
+    {
+      "raw_string_lower": "8102",
+      "site": "CISSSCA",
+      "raw_description": "Scopie thorax"
+    },
+    {
+      "raw_string_lower": "9400",
+      "site": "CISSSCA",
+      "raw_description": "Installation ou changement PICC Line"
+    },
+    {
+      "raw_string_lower": "8120aicd",
+      "site": "CISSSCA",
+      "raw_description": "Arthro et infiltration cheville droite"
+    },
+    {
+      "raw_string_lower": "8441t",
+      "site": "CISSSCA",
+      "raw_description": "Tomosynthese du sein bilaterale (examen de base)"
+    },
+    {
+      "raw_string_lower": "8352",
+      "site": "CISSSCA",
+      "raw_description": "Doppler arteriel peripherique un seul membre sup."
+    },
+    {
+      "raw_string_lower": "8590bmid",
+      "site": "CISSSCA",
+      "raw_description": "IRM membre inferieur droit sans et avec contraste"
+    },
+    {
+      "raw_string_lower": "8159",
+      "site": "CISSSCA",
+      "raw_description": "Repas baryte simple contraste + Grele"
+    },
+    {
+      "raw_string_lower": "8048d",
+      "site": "CISSSCA",
+      "raw_description": "Mammo droite DIAGNOSTIQUE"
+    },
+    {
+      "raw_string_lower": "8293",
+      "site": "CISSSCA",
+      "raw_description": "TDM thorax - abdomen - pelvien sans contraste"
+    },
+    {
+      "raw_string_lower": "80msd",
+      "site": "CISSSCA",
+      "raw_description": "Membre superieur droit"
+    },
+    {
+      "raw_string_lower": "8380bilinf",
+      "site": "CISSSCA",
+      "raw_description": "Doppler veineux membre inferieur bilatéral"
+    },
+    {
+      "raw_string_lower": "8255",
+      "site": "CISSSCA",
+      "raw_description": "TDM thorax et abdomen avec contraste"
+    },
+    {
+      "raw_string_lower": "8574r",
+      "site": "CISSSCA",
+      "raw_description": "irm rectum sans contraste"
+    },
+    {
+      "raw_string_lower": "8069d3",
+      "site": "CISSSCA",
+      "raw_description": "Majeur droit -3ieme doigt"
+    },
+    {
+      "raw_string_lower": "8062d",
+      "site": "CISSSCA",
+      "raw_description": "Epaule droite"
+    },
+    {
+      "raw_string_lower": "8308",
+      "site": "CISSSCA",
+      "raw_description": "Echo endovaginale ajouter a echo obst."
+    },
+    {
+      "raw_string_lower": "8120aigg",
+      "site": "CISSSCA",
+      "raw_description": "Arthro et infiltration genou gauche"
+    },
+    {
+      "raw_string_lower": "8369",
+      "site": "CISSSCA",
+      "raw_description": "Doppler portal et/ou greffon hepatique"
+    },
+    {
+      "raw_string_lower": "0217s1",
+      "site": "CISSSCA",
+      "raw_description": "Bloc facettaire 1 site"
+    },
+    {
+      "raw_string_lower": "9437",
+      "site": "CISSSCA",
+      "raw_description": "Embolisation vaisseaux additionnels (max.4)"
+    },
+    {
+      "raw_string_lower": "8339lim",
+      "site": "CISSSCA",
+      "raw_description": "Echo examen limité creux poplité, déchirure"
+    },
+    {
+      "raw_string_lower": "8059",
+      "site": "CISSSCA",
+      "raw_description": "Colonne lombaire 4 incidences ou moins"
+    },
+    {
+      "raw_string_lower": "1268",
+      "site": "CISSSCA",
+      "raw_description": "TDM abdomen et pelvien sans et avec contraste"
+    },
+    {
+      "raw_string_lower": "8403ab",
+      "site": "CISSSCA",
+      "raw_description": "Angio selective abdominale"
+    },
+    {
+      "raw_string_lower": "8571",
+      "site": "CISSSCA",
+      "raw_description": "IRM cou sans contraste"
+    },
+    {
+      "raw_string_lower": "8442t",
+      "site": "CISSSCA",
+      "raw_description": "Tomosynthese du sein unilaterale (exam. compl.)"
+    },
+    {
+      "raw_string_lower": "8270ct",
+      "site": "CISSSCA",
+      "raw_description": "TDM ENTEROSCAN"
+    },
+    {
+      "raw_string_lower": "8115g",
+      "site": "CISSSCA",
+      "raw_description": "Hemithorax gauche"
+    },
+    {
+      "raw_string_lower": "8332sg",
+      "site": "CISSSCA",
+      "raw_description": "Echographie de surface membre supérieur gauche"
+    },
+    {
+      "raw_string_lower": "9458",
+      "site": "CISSSCA",
+      "raw_description": "Nephrostomie percutanee unilaterale"
+    },
+    {
+      "raw_string_lower": "8024p",
+      "site": "CISSSCA",
+      "raw_description": "ATM au panogramme"
+    },
+    {
+      "raw_string_lower": "80485gdia",
+      "site": "CISSSCA",
+      "raw_description": "Agrandissement sein G par masse Diagnostique"
+    },
+    {
+      "raw_string_lower": "8321",
+      "site": "CISSSCA",
+      "raw_description": "Echo pelvienne transvesicale"
+    },
+    {
+      "raw_string_lower": "8277msd",
+      "site": "CISSSCA",
+      "raw_description": "TDM membre superieur droit sans contraste"
+    },
+    {
+      "raw_string_lower": "8267bas",
+      "site": "CISSSCA",
+      "raw_description": "TDM bassin sans contraste"
+    },
+    {
+      "raw_string_lower": "8380b",
+      "site": "CISSSCA",
+      "raw_description": "Doppler veineux MI + creux poplité"
+    },
+    {
+      "raw_string_lower": "8063d",
+      "site": "CISSSCA",
+      "raw_description": "Humerus droit"
+    },
+    {
+      "raw_string_lower": "80485ddia",
+      "site": "CISSSCA",
+      "raw_description": "Agrandissement sein D par masse Diagnosstique"
+    },
+    {
+      "raw_string_lower": "8573",
+      "site": "CISSSCA",
+      "raw_description": "IRM abdomen sans contraste"
+    },
+    {
+      "raw_string_lower": "8079na",
+      "site": "CISSSCA",
+      "raw_description": "Mammo depistage 35-49 et 70 ans et +"
+    },
+    {
+      "raw_string_lower": "8590mid",
+      "site": "CISSSCA",
+      "raw_description": "IRM membre inférieur droit sans contraste"
+    },
+    {
+      "raw_string_lower": "8337bx",
+      "site": "CISSSCA",
+      "raw_description": "Echo et biopsies au trocat seins droit et gauche"
+    },
+    {
+      "raw_string_lower": "94716",
+      "site": "CISSSCA",
+      "raw_description": "Echo biopsie sein (trocart) sites subsequents"
+    },
+    {
+      "raw_string_lower": "8390",
+      "site": "CISSSCA",
+      "raw_description": "Echo eval. retard croissance -2 foetus 25 sem.et +"
+    },
+    {
+      "raw_string_lower": "8072",
+      "site": "CISSSCA",
+      "raw_description": "Supplémentaire unilat DX"
+    },
+    {
+      "raw_string_lower": "8085g",
+      "site": "CISSSCA",
+      "raw_description": "Jambe gauche"
+    },
+    {
+      "raw_string_lower": "94724",
+      "site": "CISSSCA",
+      "raw_description": "TDM drainage kyste ou abces thoracique"
+    },
+    {
+      "raw_string_lower": "8590mig",
+      "site": "CISSSCA",
+      "raw_description": "IRM membre inferieur gauche sans contraste"
+    },
+    {
+      "raw_string_lower": "8570borb",
+      "site": "CISSSCA",
+      "raw_description": "IRM orbites sans et avec contraste"
+    },
+    {
+      "raw_string_lower": "8575eg",
+      "site": "CISSSCA",
+      "raw_description": "IRM epaule gauche sans contraste"
+    },
+    {
+      "raw_string_lower": "8266",
+      "site": "CISSSCA",
+      "raw_description": "TDM pelvien avec contraste"
+    },
+    {
+      "raw_string_lower": "8441t",
+      "site": "CISSSCA",
+      "raw_description": "Tomosynthese bilatérale avec tomo"
+    },
+    {
+      "raw_string_lower": "8443t",
+      "site": "CISSSCA",
+      "raw_description": "Tomosynthese bilaterale PQDCS (50-69) avec tomo"
+    },
+    {
+      "raw_string_lower": "8088d",
+      "site": "CISSSCA",
+      "raw_description": "Pied droit avec mise en charge -ajouter mod 06-11"
+    },
+    {
+      "raw_string_lower": "8318",
+      "site": "CISSSCA",
+      "raw_description": "Echo obst. 13 sem. et plus - 2 foetus"
+    },
+    {
+      "raw_string_lower": "8279atm",
+      "site": "CISSSCA",
+      "raw_description": "TDM articulations temporo-maxillaires"
+    },
+    {
+      "raw_string_lower": "8182",
+      "site": "CISSSCA",
+      "raw_description": "Pancreatographie"
+    },
+    {
+      "raw_string_lower": "93006",
+      "site": "CISSSCA",
+      "raw_description": "Angio autre drainage"
+    },
+    {
+      "raw_string_lower": "8330bx",
+      "site": "CISSSCA",
+      "raw_description": "Echo thyroide + biopsie"
+    },
+    {
+      "raw_string_lower": "8579a",
+      "site": "CISSSCA",
+      "raw_description": "IRM cholangiographie avec contraste"
+    },
+    {
+      "raw_string_lower": "8577cd",
+      "site": "CISSSCA",
+      "raw_description": "IRM col. cervicale et dorsale sans contraste"
+    },
+    {
+      "raw_string_lower": "8110",
+      "site": "CISSSCA",
+      "raw_description": "Coccyx"
+    },
+    {
+      "raw_string_lower": "30132d",
+      "site": "CISSSCA",
+      "raw_description": "Echo mise en place harpon sein droit"
+    },
+    {
+      "raw_string_lower": "8425",
+      "site": "CISSSCA",
+      "raw_description": "Angio fermeture arterielle (angio-seal)"
+    },
+    {
+      "raw_string_lower": "8123",
+      "site": "CISSSCA",
+      "raw_description": "Massif facial 3 incidences ou moins"
+    },
+    {
+      "raw_string_lower": "8080d",
+      "site": "CISSSCA",
+      "raw_description": "Hanche droite"
+    },
+    {
+      "raw_string_lower": "05961",
+      "site": "CISSSCA",
+      "raw_description": "Scopie Ponction lombaire"
+    },
+    {
+      "raw_string_lower": "8075",
+      "site": "CISSSCA",
+      "raw_description": "Articulations acromioclaviculaires"
+    },
+    {
+      "raw_string_lower": "8066d",
+      "site": "CISSSCA",
+      "raw_description": "Poignet droit"
+    },
+    {
+      "raw_string_lower": "8005mib",
+      "site": "CISSSCA",
+      "raw_description": "TDM membre inférieur bilatéral"
+    },
+    {
+      "raw_string_lower": "8279",
+      "site": "CISSSCA",
+      "raw_description": "TDM massif facial sans contraste"
+    },
+    {
+      "raw_string_lower": "9483c",
+      "site": "CISSSCA",
+      "raw_description": "Dilatation ureterale bilat./inst. double J (SOP)"
+    },
+    {
+      "raw_string_lower": "81666",
+      "site": "CISSSCA",
+      "raw_description": "Angio cholangio percutanée transhépatique"
+    },
+    {
+      "raw_string_lower": "8330",
+      "site": "CISSSCA",
+      "raw_description": "Echo face et/ou cou"
+    },
+    {
+      "raw_string_lower": "94726",
+      "site": "CISSSCA",
+      "raw_description": "Angio drainage kyste ou abces thoracique"
+    },
+    {
+      "raw_string_lower": "8570a",
+      "site": "CISSSCA",
+      "raw_description": "IRM tete avec contraste"
+    },
+    {
+      "raw_string_lower": "80485gpq",
+      "site": "CISSSCA",
+      "raw_description": "Agrandissement sein G par masse PQDCS"
+    },
+    {
+      "raw_string_lower": "8023",
+      "site": "CISSSCA",
+      "raw_description": "Maxillaire inferieur"
+    },
+    {
+      "raw_string_lower": "8187c",
+      "site": "CISSSCA",
+      "raw_description": "Uretrographie ou cystographie retrograde (SOP)"
+    },
+    {
+      "raw_string_lower": "8128",
+      "site": "CISSSCA",
+      "raw_description": "Colonne cervicale 4 incidences ou plus"
+    },
+    {
+      "raw_string_lower": "8068g",
+      "site": "CISSSCA",
+      "raw_description": "Main et poignet gauches"
+    },
+    {
+      "raw_string_lower": "8297",
+      "site": "CISSSCA",
+      "raw_description": "TDM scanographie"
+    },
+    {
+      "raw_string_lower": "8130aiaa",
+      "site": "CISSSCA",
+      "raw_description": "Arthro et infiltration autre articulation"
+    },
+    {
+      "raw_string_lower": "8292",
+      "site": "CISSSCA",
+      "raw_description": "TDM thorax - abdomen - pelvien avec contraste"
+    },
+    {
+      "raw_string_lower": "8052",
+      "site": "CISSSCA",
+      "raw_description": "Colonne lombaire 5 incidences ou plus"
+    },
+    {
+      "raw_string_lower": "8069g2",
+      "site": "CISSSCA",
+      "raw_description": "Index gauche -2ieme doigt"
+    },
+    {
+      "raw_string_lower": "1292",
+      "site": "CISSSCA",
+      "raw_description": "TDM thorax-abdomen-pelvien sans et avec contraste"
+    },
+    {
+      "raw_string_lower": "8069g5",
+      "site": "CISSSCA",
+      "raw_description": "Auriculaire gauche -5ieme doigt"
+    },
+    {
+      "raw_string_lower": "8055",
+      "site": "CISSSCA",
+      "raw_description": "Bassin -3 incidences ou plus"
+    },
+    {
+      "raw_string_lower": "8060d",
+      "site": "CISSSCA",
+      "raw_description": "Clavicule droite"
+    },
+    {
+      "raw_string_lower": "9421",
+      "site": "CISSSCA",
+      "raw_description": "Angio verification position catheter non vasc."
+    },
+    {
+      "raw_string_lower": "6005",
+      "site": "CISSSCA",
+      "raw_description": "Extraction (et dilatation) de calcul coralliforme"
+    },
+    {
+      "raw_string_lower": "8269",
+      "site": "CISSSCA",
+      "raw_description": "TDM abdomen et pelvien sans contraste"
+    },
+    {
+      "raw_string_lower": "1262",
+      "site": "CISSSCA",
+      "raw_description": "TDM thorax sans et avec contraste"
+    },
+    {
+      "raw_string_lower": "8274cer",
+      "site": "CISSSCA",
+      "raw_description": "TDM rachis cervical avec contraste"
+    },
+    {
+      "raw_string_lower": "8260anc",
+      "site": "CISSSCA",
+      "raw_description": "TDM ANGIO carotidienne avec contraste (2 manip.)"
+    },
+    {
+      "raw_string_lower": "9817",
+      "site": "CISSSCA",
+      "raw_description": "Formulaire CRID"
+    },
+    {
+      "raw_string_lower": "8401e",
+      "site": "CISSSCA",
+      "raw_description": "Angio insertion catheter et injection"
+    },
+    {
+      "raw_string_lower": "83356",
+      "site": "CISSSCA",
+      "raw_description": "Echo de surface (autre région)"
+    },
+    {
+      "raw_string_lower": "9450",
+      "site": "CISSSCA",
+      "raw_description": "Angio drainage percut. transhep. voies biliaires"
+    },
+    {
+      "raw_string_lower": "8256",
+      "site": "CISSSCA",
+      "raw_description": "TDM thorax et abdomen sans contraste"
+    },
+    {
+      "raw_string_lower": "8005mid",
+      "site": "CISSSCA",
+      "raw_description": "TDM membre inférieur droit sans contraste"
+    },
+    {
+      "raw_string_lower": "0217s4",
+      "site": "CISSSCA",
+      "raw_description": "Bloc facettaire 4 sites"
+    },
+    {
+      "raw_string_lower": "9436",
+      "site": "CISSSCA",
+      "raw_description": "Embolisation 1er vaisseau catheterise"
+    },
+    {
+      "raw_string_lower": "8266bas",
+      "site": "CISSSCA",
+      "raw_description": "TDM bassin avec contraste"
+    },
+    {
+      "raw_string_lower": "8090d2",
+      "site": "CISSSCA",
+      "raw_description": "Deuxieme orteil droit"
+    },
+    {
+      "raw_string_lower": "9458c",
+      "site": "CISSSCA",
+      "raw_description": "Nephrostomie percutanee unilaterale (SOP)"
+    },
+    {
+      "raw_string_lower": "9456",
+      "site": "CISSSCA",
+      "raw_description": "Angio gastrostomie percutanee "
+    },
+    {
+      "raw_string_lower": "80484dia",
+      "site": "CISSSCA",
+      "raw_description": "Mammo par inc.compl. (profil,ax...) Diagnostique"
+    },
+    {
+      "raw_string_lower": "3002hep",
+      "site": "CISSSCA",
+      "raw_description": "Echo Biopsie/cytologie hepatique"
+    },
+    {
+      "raw_string_lower": "9482",
+      "site": "CISSSCA",
+      "raw_description": "Angioplastie inst. endoprothese aorte stent graff"
+    },
+    {
+      "raw_string_lower": "8083g",
+      "site": "CISSSCA",
+      "raw_description": "Femur gauche"
+    },
+    {
+      "raw_string_lower": "8577bcd",
+      "site": "CISSSCA",
+      "raw_description": "IRM col. cervicale et dorsale C- et C+"
+    },
+    {
+      "raw_string_lower": "8156",
+      "site": "CISSSCA",
+      "raw_description": "Grele"
+    },
+    {
+      "raw_string_lower": "8261",
+      "site": "CISSSCA",
+      "raw_description": "TDM cou sans contraste"
+    },
+    {
+      "raw_string_lower": "8084d",
+      "site": "CISSSCA",
+      "raw_description": "Genou droit et/ou rotule"
+    },
+    {
+      "raw_string_lower": "1260",
+      "site": "CISSSCA",
+      "raw_description": "TDM cou sans et avec contraste"
+    },
+    {
+      "raw_string_lower": "04301",
+      "site": "CISSSCA",
+      "raw_description": "Infil. med. muscle/capsule/gaine/tendon/fascia m.s"
+    },
+    {
+      "raw_string_lower": "8084g",
+      "site": "CISSSCA",
+      "raw_description": "Genou gauche et/ou rotule"
+    },
+    {
+      "raw_string_lower": "9222",
+      "site": "CISSSCA",
+      "raw_description": "Procedure de suirveillance patient hospitalise"
+    },
+    {
+      "raw_string_lower": "8353",
+      "site": "CISSSCA",
+      "raw_description": "Doppler hyperthermie reactionnelle"
+    },
+    {
+      "raw_string_lower": "80485dna",
+      "site": "CISSSCA",
+      "raw_description": "Agrandissement sein D par masse 35-49 et 70 et +"
+    },
+    {
+      "raw_string_lower": "01246",
+      "site": "CISSSCA",
+      "raw_description": "Angio drainage kyste ou abces membre"
+    },
+    {
+      "raw_string_lower": "8278sin",
+      "site": "CISSSCA",
+      "raw_description": "TDM sinus avec contraste"
+    },
+    {
+      "raw_string_lower": "8077",
+      "site": "CISSSCA",
+      "raw_description": "Cephalometrie"
+    },
+    {
+      "raw_string_lower": "9452",
+      "site": "CISSSCA",
+      "raw_description": "Angio mise en place endoprothese biliaire"
+    },
+    {
+      "raw_string_lower": "8323endo",
+      "site": "CISSSCA",
+      "raw_description": "Echo obst.0 a 12 sem.1 foetus voie endo sans cl.n."
+    },
+    {
+      "raw_string_lower": "8090g2",
+      "site": "CISSSCA",
+      "raw_description": "Deuxieme orteil gauche"
+    },
+    {
+      "raw_string_lower": "8276-1",
+      "site": "CISSSCA",
+      "raw_description": "Manipulation d'images articulations C+"
+    },
+    {
+      "raw_string_lower": "8005mid",
+      "site": "CISSSCA",
+      "raw_description": "TDM membre inferieur droit sans contraste"
+    },
+    {
+      "raw_string_lower": "8064d",
+      "site": "CISSSCA",
+      "raw_description": "Coude droit"
+    },
+    {
+      "raw_string_lower": "8573a",
+      "site": "CISSSCA",
+      "raw_description": "IRM abdomen avec contraste"
+    },
+    {
+      "raw_string_lower": "8186c",
+      "site": "CISSSCA",
+      "raw_description": "Pyelographie retrograde ou antegrade (SOP)"
+    },
+    {
+      "raw_string_lower": "8323etendo",
+      "site": "CISSSCA",
+      "raw_description": "Echo obst. 0 a 12 sem. trans et endo"
+    },
+    {
+      "raw_string_lower": "8570cai",
+      "site": "CISSSCA",
+      "raw_description": "IRM conduits auditifs internes sans contraste"
+    },
+    {
+      "raw_string_lower": "8354",
+      "site": "CISSSCA",
+      "raw_description": "Doppler tapis roulant"
+    },
+    {
+      "raw_string_lower": "8345hu",
+      "site": "CISSSCA",
+      "raw_description": "Echo abd. et pelv. de l'urg. ou hosp."
+    },
+    {
+      "raw_string_lower": "8101",
+      "site": "CISSSCA",
+      "raw_description": "Sacrum"
+    },
+    {
+      "raw_string_lower": "8190",
+      "site": "CISSSCA",
+      "raw_description": "Cystographie mictionnelle"
+    },
+    {
+      "raw_string_lower": "8571b",
+      "site": "CISSSCA",
+      "raw_description": "IRM cou sans et avec contraste"
+    },
+    {
+      "raw_string_lower": "8403ge",
+      "site": "CISSSCA",
+      "raw_description": "Angio selective gerbe aortique"
+    },
+    {
+      "raw_string_lower": "07161",
+      "site": "CISSSCA",
+      "raw_description": "Endoprothese autre que vasculaire"
+    },
+    {
+      "raw_string_lower": "9432",
+      "site": "CISSSCA",
+      "raw_description": "Angioplastie inst. endoprothese vasculaire"
+    },
+    {
+      "raw_string_lower": "82856",
+      "site": "CISSSCA",
+      "raw_description": "Thermoablation ou cryablation radiofreq -1e cible"
+    },
+    {
+      "raw_string_lower": "8085d",
+      "site": "CISSSCA",
+      "raw_description": "Jambe droite"
+    },
+    {
+      "raw_string_lower": "8380",
+      "site": "CISSSCA",
+      "raw_description": "Doppler veineux phériphérique un seul membre inf."
+    },
+    {
+      "raw_string_lower": "8575msg",
+      "site": "CISSSCA",
+      "raw_description": "IRM membre superieur gauche sans contraste"
+    },
+    {
+      "raw_string_lower": "8093",
+      "site": "CISSSCA",
+      "raw_description": "Age osseux -mains et autres"
+    },
+    {
+      "raw_string_lower": "8065d",
+      "site": "CISSSCA",
+      "raw_description": "Avant-bras droit"
+    },
+    {
+      "raw_string_lower": "1258ant",
+      "site": "CISSSCA",
+      "raw_description": "TDM ANGIO tete C- et C+  ( 2 manip.)"
+    },
+    {
+      "raw_string_lower": "8403cg",
+      "site": "CISSSCA",
+      "raw_description": "Angio selective carotide gauche"
+    },
+    {
+      "raw_string_lower": "8069d4",
+      "site": "CISSSCA",
+      "raw_description": "Annulaire droit -4ieme doigt"
+    },
+    {
+      "raw_string_lower": "8166",
+      "site": "CISSSCA",
+      "raw_description": "Cholangiographie transhepatique"
+    },
+    {
+      "raw_string_lower": "8285-3",
+      "site": "CISSSCA",
+      "raw_description": "Manipulations d'images 3 quarts d'heure"
+    },
+    {
+      "raw_string_lower": "05966",
+      "site": "CISSSCA",
+      "raw_description": "Angio Ponction lombaire"
+    },
+    {
+      "raw_string_lower": "8345",
+      "site": "CISSSCA",
+      "raw_description": "Echo abdominale et pelvienne complete"
+    },
+    {
+      "raw_string_lower": "8576lom",
+      "site": "CISSSCA",
+      "raw_description": "IRM col. lombaire sans contraste"
+    },
+    {
+      "raw_string_lower": "3006os",
+      "site": "CISSSCA",
+      "raw_description": "Angio Biopsie/cytologie osseuse"
+    },
+    {
+      "raw_string_lower": "8056",
+      "site": "CISSSCA",
+      "raw_description": "Bassin -2 incidences"
+    },
+    {
+      "raw_string_lower": "02536",
+      "site": "CISSSCA",
+      "raw_description": "Angio Ponction articulaire ou bourse"
+    },
+    {
+      "raw_string_lower": "8275cer",
+      "site": "CISSSCA",
+      "raw_description": "TDM rachis cervical sans contraste"
+    },
+    {
+      "raw_string_lower": "80483gdia",
+      "site": "CISSSCA",
+      "raw_description": "Mammo gauche (localisee) par masse Diagnostique"
+    },
+    {
+      "raw_string_lower": "8367",
+      "site": "CISSSCA",
+      "raw_description": "Doppler systeme porte"
+    },
+    {
+      "raw_string_lower": "3002gan",
+      "site": "CISSSCA",
+      "raw_description": "Echo Biopsie/cytologie ganglion"
+    },
+    {
+      "raw_string_lower": "8069g4",
+      "site": "CISSSCA",
+      "raw_description": "Annulaire gauche -4ieme doigt"
+    },
+    {
+      "raw_string_lower": "9420",
+      "site": "CISSSCA",
+      "raw_description": "Angio exerese cath. non vasculaires (drains)"
+    },
+    {
+      "raw_string_lower": "8175t",
+      "site": "CISSSCA",
+      "raw_description": "Présence sop sans scopie sans image"
+    },
+    {
+      "raw_string_lower": "82852",
+      "site": "CISSSCA",
+      "raw_description": "Thermoablation par radiofrequence - 1ere cible"
+    },
+    {
+      "raw_string_lower": "8574asi",
+      "site": "CISSSCA",
+      "raw_description": "IRM art. sacro-iliaques sans contraste"
+    },
+    {
+      "raw_string_lower": "8073",
+      "site": "CISSSCA",
+      "raw_description": "Supplementaire bilat DX"
+    },
+    {
+      "raw_string_lower": "8332sg",
+      "site": "CISSSCA",
+      "raw_description": "Echo de surface membre supérieur gauche"
+    },
+    {
+      "raw_string_lower": "8303",
+      "site": "CISSSCA",
+      "raw_description": "Echo cardiaque"
+    },
+    {
+      "raw_string_lower": "02532",
+      "site": "CISSSCA",
+      "raw_description": "Echo Ponction articulaire"
+    },
+    {
+      "raw_string_lower": "8114eg",
+      "site": "CISSSCA",
+      "raw_description": "Arthro epaule gauche"
+    },
+    {
+      "raw_string_lower": "8152",
+      "site": "CISSSCA",
+      "raw_description": "Abdomen incidences multiples"
+    },
+    {
+      "raw_string_lower": "8055c",
+      "site": "CISSSCA",
+      "raw_description": "Bassin - bilan pre-op"
+    },
+    {
+      "raw_string_lower": "8258",
+      "site": "CISSSCA",
+      "raw_description": "TDM tete avec contraste"
+    },
+    {
+      "raw_string_lower": "8263",
+      "site": "CISSSCA",
+      "raw_description": "TDM thorax sans contraste (incluant surrenales)"
+    },
+    {
+      "raw_string_lower": "8069d1",
+      "site": "CISSSCA",
+      "raw_description": "Pouce droit -1er doigt"
+    },
+    {
+      "raw_string_lower": "8575ed",
+      "site": "CISSSCA",
+      "raw_description": "IRM epaule droite sans contraste"
+    },
+    {
+      "raw_string_lower": "8130aisi",
+      "site": "CISSSCA",
+      "raw_description": "Arthro et  infiltration sacro-iliaque sous scopie"
+    },
+    {
+      "raw_string_lower": "8060g",
+      "site": "CISSSCA",
+      "raw_description": "Clavicule gauche"
+    },
+    {
+      "raw_string_lower": "8274-1",
+      "site": "CISSSCA",
+      "raw_description": "Manipulation d'images colonne 1 quart heure C+"
+    },
+    {
+      "raw_string_lower": "impcd",
+      "site": "CISSSCA",
+      "raw_description": "Importation CD images extérieures"
+    },
+    {
+      "raw_string_lower": "8067d",
+      "site": "CISSSCA",
+      "raw_description": "Main droite"
+    },
+    {
+      "raw_string_lower": "8136",
+      "site": "CISSSCA",
+      "raw_description": "Cine de deglutition avec autre professionnel"
+    },
+    {
+      "raw_string_lower": "8278",
+      "site": "CISSSCA",
+      "raw_description": "TDM massif facial avec contraste"
+    },
+    {
+      "raw_string_lower": "8005mig",
+      "site": "CISSSCA",
+      "raw_description": "TDM membre inférieur gauche sans contraste"
+    },
+    {
+      "raw_string_lower": "6006",
+      "site": "CISSSCA",
+      "raw_description": "Extraction (et dilatation) de calcul pyelique"
+    },
+    {
+      "raw_string_lower": "8317endo",
+      "site": "CISSSCA",
+      "raw_description": "Echo obst. 13 et plus. 1 foetus + endo"
+    },
+    {
+      "raw_string_lower": "8275dor",
+      "site": "CISSSCA",
+      "raw_description": "TDM rachis dorsal sans contraste"
+    },
+    {
+      "raw_string_lower": "6015",
+      "site": "CISSSCA",
+      "raw_description": "Extraction (et dilatation) calcul uretere lombaire"
+    },
+    {
+      "raw_string_lower": "9401",
+      "site": "CISSSCA",
+      "raw_description": "Verification position catheter veineux inj. cont."
+    },
+    {
+      "raw_string_lower": "8087g",
+      "site": "CISSSCA",
+      "raw_description": "Pied et/ou talon gauche"
+    },
+    {
+      "raw_string_lower": "8053cc",
+      "site": "CISSSCA",
+      "raw_description": "Colonne complete"
+    },
+    {
+      "raw_string_lower": "3006tho",
+      "site": "CISSSCA",
+      "raw_description": "Angio Biopsie/cytologie thoracique"
+    },
+    {
+      "raw_string_lower": "8183",
+      "site": "CISSSCA",
+      "raw_description": "Extraction de bris calcaire"
+    },
+    {
+      "raw_string_lower": "3004ver",
+      "site": "CISSSCA",
+      "raw_description": "TDM Biopsie/cytologie vertebrale"
+    },
+    {
+      "raw_string_lower": "8368",
+      "site": "CISSSCA",
+      "raw_description": "Doppler renal et/ou greffon renal"
+    },
+    {
+      "raw_string_lower": "8326as",
+      "site": "CISSSCA",
+      "raw_description": "Echo abdominale + divers de surface"
+    },
+    {
+      "raw_string_lower": "9494",
+      "site": "CISSSCA",
+      "raw_description": "Angioplastie seule sur meme vaisseau"
+    },
+    {
+      "raw_string_lower": "8443t",
+      "site": "CISSSCA",
+      "raw_description": "Tomosynthese du sein bilaterale (exam. compl.)"
+    },
+    {
+      "raw_string_lower": "9403",
+      "site": "CISSSCA",
+      "raw_description": "Inst. ou changement catheter perm. tunnelise"
+    },
+    {
+      "raw_string_lower": "05613d",
+      "site": "CISSSCA",
+      "raw_description": "Echo Cytoponction sein D aiguille fine (par masse)"
+    },
+    {
+      "raw_string_lower": "8373",
+      "site": "CISSSCA",
+      "raw_description": "Echo obst. limitee (age foetal, loc. placenta...)"
+    },
+    {
+      "raw_string_lower": "8267",
+      "site": "CISSSCA",
+      "raw_description": "TDM pelvien sans contraste"
+    },
+    {
+      "raw_string_lower": "01242",
+      "site": "CISSSCA",
+      "raw_description": "Echo drainage kyste/abces membre"
+    },
+    {
+      "raw_string_lower": "8051",
+      "site": "CISSSCA",
+      "raw_description": "Serie scoliotique 2 incidences ou moins"
+    },
+    {
+      "raw_string_lower": "8074g",
+      "site": "CISSSCA",
+      "raw_description": "Omoplate gauche"
+    },
+    {
+      "raw_string_lower": "8061",
+      "site": "CISSSCA",
+      "raw_description": "Phlebographie"
+    },
+    {
+      "raw_string_lower": "8345ext",
+      "site": "CISSSCA",
+      "raw_description": "Echo abd. et pelv. externe"
+    },
+    {
+      "raw_string_lower": "05086",
+      "site": "CISSSCA",
+      "raw_description": "Angio drainage kyste ou abces mediastin"
+    },
+    {
+      "raw_string_lower": "8036",
+      "site": "CISSSCA",
+      "raw_description": "Panoramique dentaire"
+    },
+    {
+      "raw_string_lower": "8232mam",
+      "site": "CISSSCA",
+      "raw_description": "Tomographie mammaire"
+    },
+    {
+      "raw_string_lower": "8321ps",
+      "site": "CISSSCA",
+      "raw_description": "Echo pelvienne + divers de surface"
+    },
+    {
+      "raw_string_lower": "82866",
+      "site": "CISSSCA",
+      "raw_description": "Thermoablation par radiofrequence - cible supp."
+    },
+    {
+      "raw_string_lower": "8285-1",
+      "site": "CISSSCA",
+      "raw_description": "Manipulations d'images 1 quart d'heure"
+    },
+    {
+      "raw_string_lower": "8008anmi",
+      "site": "CISSSCA",
+      "raw_description": "TDM ANGIO membre inférieur 2 manipulations"
+    },
+    {
+      "raw_string_lower": "8088g",
+      "site": "CISSSCA",
+      "raw_description": "Pied gauche avec mise en charge -ajouter mod06-11"
+    },
+    {
+      "raw_string_lower": "8065g",
+      "site": "CISSSCA",
+      "raw_description": "Avant-bras gauche"
+    },
+    {
+      "raw_string_lower": "8403",
+      "site": "CISSSCA",
+      "raw_description": "Angio selective par vaisseau"
+    },
+    {
+      "raw_string_lower": "8090g5",
+      "site": "CISSSCA",
+      "raw_description": "Cinquieme orteil gauche"
+    },
+    {
+      "raw_string_lower": "8403cer",
+      "site": "CISSSCA",
+      "raw_description": "Angio selective cerebrale"
+    },
+    {
+      "raw_string_lower": "8268an",
+      "site": "CISSSCA",
+      "raw_description": "TDM ANGIO abd. et  pelv.avec contraste (2 manip)"
+    },
+    {
+      "raw_string_lower": "94712sg",
+      "site": "CISSSCA",
+      "raw_description": "Echo Biopsie trocart sein gauche"
+    },
+    {
+      "raw_string_lower": "1264",
+      "site": "CISSSCA",
+      "raw_description": "TDM abdomen sans et avec contraste"
+    },
+    {
+      "raw_string_lower": "8031",
+      "site": "CISSSCA",
+      "raw_description": "Nez"
+    },
+    {
+      "raw_string_lower": "8058",
+      "site": "CISSSCA",
+      "raw_description": "Articulations sacro-iliaques"
+    },
+    {
+      "raw_string_lower": "8344",
+      "site": "CISSSCA",
+      "raw_description": "Echo etude profil biophysique seul - 1 foetus"
+    },
+    {
+      "raw_string_lower": "9447",
+      "site": "CISSSCA",
+      "raw_description": "Extraction corps etrangers intravasc. cath. brise"
+    },
+    {
+      "raw_string_lower": "9299",
+      "site": "CISSSCA",
+      "raw_description": "Procedure de surveillance patient externe"
+    },
+    {
+      "raw_string_lower": "8124",
+      "site": "CISSSCA",
+      "raw_description": "Massif facial 4 incidences ou plus"
+    },
+    {
+      "raw_string_lower": "8329bx",
+      "site": "CISSSCA",
+      "raw_description": "Echo prost. transrectale (doppler) et biopsie"
+    },
+    {
+      "raw_string_lower": "8324",
+      "site": "CISSSCA",
+      "raw_description": "Echo obst. 0 a 12 sem.2 foetus voie transv sans cn"
+    },
+    {
+      "raw_string_lower": "8339id",
+      "site": "CISSSCA",
+      "raw_description": "Echo de surface membre inférieur droit"
+    },
+    {
+      "raw_string_lower": "81826",
+      "site": "CISSSCA",
+      "raw_description": "Pancréatographie"
+    },
+    {
+      "raw_string_lower": "8333d",
+      "site": "CISSSCA",
+      "raw_description": "Echo sein droit (incluant l'aisselle)"
+    },
+    {
+      "raw_string_lower": "8323",
+      "site": "CISSSCA",
+      "raw_description": "Echo obst. 0 a 12 sem. 1 foetus sans clarté nucale"
+    },
+    {
+      "raw_string_lower": "30132g",
+      "site": "CISSSCA",
+      "raw_description": "Echo mise en place harpon  sein gauche"
+    },
+    {
+      "raw_string_lower": "8339ig",
+      "site": "CISSSCA",
+      "raw_description": "Echo de surface membre inférieur gauche"
+    },
+    {
+      "raw_string_lower": "8259",
+      "site": "CISSSCA",
+      "raw_description": "TDM tete sans contraste"
+    },
+    {
+      "raw_string_lower": "8570tc",
+      "site": "CISSSCA",
+      "raw_description": "IRM tete + col. cervicale sans contraste"
+    },
+    {
+      "raw_string_lower": "80483gpq",
+      "site": "CISSSCA",
+      "raw_description": "Mammo gauche (localisee) par masse PQDCS"
+    },
+    {
+      "raw_string_lower": "8333cridg",
+      "site": "CISSSCA",
+      "raw_description": "Echo CRID sein gauche (incluant l'aisselle)"
+    },
+    {
+      "raw_string_lower": "8572",
+      "site": "CISSSCA",
+      "raw_description": "IRM thorax sans contraste"
+    },
+    {
+      "raw_string_lower": "8037",
+      "site": "CISSSCA",
+      "raw_description": "Tissus mous du cou ou cavum"
+    },
+    {
+      "raw_string_lower": "8057",
+      "site": "CISSSCA",
+      "raw_description": "Sacrum et coccyx"
+    },
+    {
+      "raw_string_lower": "0108",
+      "site": "CISSSCA",
+      "raw_description": "Inj.medic. sous fluoro dans bourse ou artic.m.inf"
+    },
+    {
+      "raw_string_lower": "8357",
+      "site": "CISSSCA",
+      "raw_description": "Doppler veineux peripherique un seul membre sup."
+    },
+    {
+      "raw_string_lower": "8106",
+      "site": "CISSSCA",
+      "raw_description": "Poumons 3 incidences ou plus"
+    },
+    {
+      "raw_string_lower": "8120aihd",
+      "site": "CISSSCA",
+      "raw_description": "Arthro et infiltration hanche droite"
+    },
+    {
+      "raw_string_lower": "9459",
+      "site": "CISSSCA",
+      "raw_description": "Nephrostomie percutanee bilaterale"
+    },
+    {
+      "raw_string_lower": "8332sd",
+      "site": "CISSSCA",
+      "raw_description": "Echo de surface membre supérieur droit"
+    },
+    {
+      "raw_string_lower": "02004",
+      "site": "CISSSCA",
+      "raw_description": "TDM Autre ponction"
+    },
+    {
+      "raw_string_lower": "8063g",
+      "site": "CISSSCA",
+      "raw_description": "Humerus gauche"
+    },
+    {
+      "raw_string_lower": "8055a",
+      "site": "CISSSCA",
+      "raw_description": "Bassin et articulations sacro-iliaques"
+    },
+    {
+      "raw_string_lower": "8120aihg",
+      "site": "CISSSCA",
+      "raw_description": "Arthro et infiltration hanche gauche"
+    },
+    {
+      "raw_string_lower": "8334",
+      "site": "CISSSCA",
+      "raw_description": "Echo testicule - les deux"
+    },
+    {
+      "raw_string_lower": "9460",
+      "site": "CISSSCA",
+      "raw_description": "Remplacement catheter nephrostomie"
+    },
+    {
+      "raw_string_lower": "8345aps",
+      "site": "CISSSCA",
+      "raw_description": "Echo abd. pelv. + divers de surface"
+    },
+    {
+      "raw_string_lower": "6008",
+      "site": "CISSSCA",
+      "raw_description": "Extraction (et dilatation) de calcul caliciel"
+    },
+    {
+      "raw_string_lower": "8570tcd",
+      "site": "CISSSCA",
+      "raw_description": "IRM tete + col. cerv. et dorsale sans contraste"
+    },
+    {
+      "raw_string_lower": "8309",
+      "site": "CISSSCA",
+      "raw_description": "Echo doppler trans oesophagienne"
+    },
+    {
+      "raw_string_lower": "8102s",
+      "site": "CISSSCA",
+      "raw_description": "Scopie thorax avec images"
+    },
+    {
+      "raw_string_lower": "8574",
+      "site": "CISSSCA",
+      "raw_description": "IRM pelvis ou bassin sans contrate"
+    },
+    {
+      "raw_string_lower": "94752b",
+      "site": "CISSSCA",
+      "raw_description": "Echo drainage d'ascite + echo abd limitee"
+    },
+    {
+      "raw_string_lower": "8285-2",
+      "site": "CISSSCA",
+      "raw_description": "Manipulations d'images 2 quarts d'heure"
+    },
+    {
+      "raw_string_lower": "8279sin",
+      "site": "CISSSCA",
+      "raw_description": "TDM sinus sans contraste"
+    },
+    {
+      "raw_string_lower": "8282",
+      "site": "CISSSCA",
+      "raw_description": "Serie metastatique ou osseuse-11 inc. ou plus"
+    },
+    {
+      "raw_string_lower": "8323",
+      "site": "CISSSCA",
+      "raw_description": "Echo obst.0 a 12 sem.1foetus voie transv sans cl.n"
+    },
+    {
+      "raw_string_lower": "8260",
+      "site": "CISSSCA",
+      "raw_description": "TDM cou avec contraste"
+    },
+    {
+      "raw_string_lower": "8339id",
+      "site": "CISSSCA",
+      "raw_description": "Echographie de surface membre inférieur droit"
+    },
+    {
+      "raw_string_lower": "8126",
+      "site": "CISSSCA",
+      "raw_description": "Sinus 4 incidences ou plus"
+    },
+    {
+      "raw_string_lower": "8590gg",
+      "site": "CISSSCA",
+      "raw_description": "IRM genou gauche sans contraste"
+    },
+    {
+      "raw_string_lower": "94713g",
+      "site": "CISSSCA",
+      "raw_description": "Mammo biopsie mammotome sein gauche"
+    },
+    {
+      "raw_string_lower": "8054",
+      "site": "CISSSCA",
+      "raw_description": "Bassin -1 incidence"
+    },
+    {
+      "raw_string_lower": "8104",
+      "site": "CISSSCA",
+      "raw_description": "Supplementaire bilat PQ"
+    },
+    {
+      "raw_string_lower": "8331",
+      "site": "CISSSCA",
+      "raw_description": "Echo surface thoracique"
+    },
+    {
+      "raw_string_lower": "8186",
+      "site": "CISSSCA",
+      "raw_description": "Pyelographie retrograde ou antegrade"
+    },
+    {
+      "raw_string_lower": "94752",
+      "site": "CISSSCA",
+      "raw_description": "Echo drainage d'ascite "
+    },
+    {
+      "raw_string_lower": "94182",
+      "site": "CISSSCA",
+      "raw_description": "Echo Ponction pleurale"
+    },
+    {
+      "raw_string_lower": "8381",
+      "site": "CISSSCA",
+      "raw_description": "Doppler renal (uni ou bilateral)"
+    },
+    {
+      "raw_string_lower": "8577dl",
+      "site": "CISSSCA",
+      "raw_description": "IRM col. dorsale et lombaire sans contraste"
+    },
+    {
+      "raw_string_lower": "0217s5",
+      "site": "CISSSCA",
+      "raw_description": "Bloc facettaire 5 sites"
+    },
+    {
+      "raw_string_lower": "8035",
+      "site": "CISSSCA",
+      "raw_description": "TDM coloscopie virtuelle (AP et PA)"
+    },
+    {
+      "raw_string_lower": "8279cai",
+      "site": "CISSSCA",
+      "raw_description": "TDM c.a.i. ou mastoides sans contraste"
+    },
+    {
+      "raw_string_lower": "30133d",
+      "site": "CISSSCA",
+      "raw_description": "Mammo mise en place harpon sein droit"
+    },
+    {
+      "raw_string_lower": "9449",
+      "site": "CISSSCA",
+      "raw_description": "Cholecystostomie percutanee pour drainage externe"
+    },
+    {
+      "raw_string_lower": "8090d3",
+      "site": "CISSSCA",
+      "raw_description": "Troisieme orteil droit"
+    },
+    {
+      "raw_string_lower": "8048g",
+      "site": "CISSSCA",
+      "raw_description": "Mammo gauche DIAGNOSTIQUE"
+    },
+    {
+      "raw_string_lower": "08242",
+      "site": "CISSSCA",
+      "raw_description": "Annulation examen avec rapport"
+    },
+    {
+      "raw_string_lower": "8086g",
+      "site": "CISSSCA",
+      "raw_description": "Cheville gauche"
+    },
+    {
+      "raw_string_lower": "8099",
+      "site": "CISSSCA",
+      "raw_description": "Mammo radio piece biopsique"
+    },
+    {
+      "raw_string_lower": "8062g",
+      "site": "CISSSCA",
+      "raw_description": "Epaule gauche"
+    },
+    {
+      "raw_string_lower": "9416",
+      "site": "CISSSCA",
+      "raw_description": "Angio exerese catheters autres que Port-a-cath"
+    },
+    {
+      "raw_string_lower": "8576blom",
+      "site": "CISSSCA",
+      "raw_description": "IRM col. lombaire sans et avec contraste"
+    },
+    {
+      "raw_string_lower": "8115dg",
+      "site": "CISSSCA",
+      "raw_description": "Hemithorax droit et gauche"
+    },
+    {
+      "raw_string_lower": "8585t",
+      "site": "CISSSCA",
+      "raw_description": "IRM Angio tete sans contraste ( 1 manip.)"
+    },
+    {
+      "raw_string_lower": "8326emi",
+      "site": "CISSSCA",
+      "raw_description": "Echo abdominal pour maladie inflammatoire"
+    },
+    {
+      "raw_string_lower": "8150",
+      "site": "CISSSCA",
+      "raw_description": "Abdomen simple"
+    },
+    {
+      "raw_string_lower": "8282p",
+      "site": "CISSSCA",
+      "raw_description": "Etude du squelette -pediatrie"
+    },
+    {
+      "raw_string_lower": "8580b",
+      "site": "CISSSCA",
+      "raw_description": "IRM seins sans et avec contraste"
+    },
+    {
+      "raw_string_lower": "8339lim",
+      "site": "CISSSCA",
+      "raw_description": "Echo examen limite (kyste poplite, dechirure ...)"
+    },
+    {
+      "raw_string_lower": "8574bp",
+      "site": "CISSSCA",
+      "raw_description": "IRM prostate sans et avec contraste"
+    },
+    {
+      "raw_string_lower": "8440t",
+      "site": "CISSSCA",
+      "raw_description": "Tomosynthèse unilatérale avec tomo"
+    },
+    {
+      "raw_string_lower": "8267asi",
+      "site": "CISSSCA",
+      "raw_description": "TDM articulations sacro-iliaques sans contraste"
+    },
+    {
+      "raw_string_lower": "8440t",
+      "site": "CISSSCA",
+      "raw_description": "Tomosynthèse unilatérale (examen de base )"
+    },
+    {
+      "raw_string_lower": "8115d",
+      "site": "CISSSCA",
+      "raw_description": "Hemithorax droit"
+    },
+    {
+      "raw_string_lower": "02531",
+      "site": "CISSSCA",
+      "raw_description": "Scopie Ponction articulaire ou bourse"
+    },
+    {
+      "raw_string_lower": "94722",
+      "site": "CISSSCA",
+      "raw_description": "Echo drainage thoracique"
+    },
+    {
+      "raw_string_lower": "8013",
+      "site": "CISSSCA",
+      "raw_description": "Crane 4 incidences ou plus"
+    },
+    {
+      "raw_string_lower": "8405",
+      "site": "CISSSCA",
+      "raw_description": "Angio arterio peripherique"
+    },
+    {
+      "raw_string_lower": "8360",
+      "site": "CISSSCA",
+      "raw_description": "Doppler arteriel peripherique un seul membre inf."
+    },
+    {
+      "raw_string_lower": "8175",
+      "site": "CISSSCA",
+      "raw_description": "Scopie 15 minutes SANS IMAGE (+ 07-11 au besoin)"
+    },
+    {
+      "raw_string_lower": "8403re",
+      "site": "CISSSCA",
+      "raw_description": "Angio selective renale"
+    },
+    {
+      "raw_string_lower": "8049",
+      "site": "CISSSCA",
+      "raw_description": "Mammo bilaterale DIAGNOSTIQUE"
+    },
+    {
+      "raw_string_lower": "0708c",
+      "site": "CISSSCA",
+      "raw_description": "Dilatation ureterale unilat./inst. double J (SOP)"
+    },
+    {
+      "raw_string_lower": "30133g",
+      "site": "CISSSCA",
+      "raw_description": "Mammo mise en place harpon sein gauche"
+    },
+    {
+      "raw_string_lower": "8042",
+      "site": "CISSSCA",
+      "raw_description": "Colonne dorsale"
+    },
+    {
+      "raw_string_lower": "3004os",
+      "site": "CISSSCA",
+      "raw_description": "TDM Biopsie/cytologie osseuse"
+    },
+    {
+      "raw_string_lower": "80484pq",
+      "site": "CISSSCA",
+      "raw_description": "Mammo par inc.compl. (profil,ax...) PQDCS"
+    },
+    {
+      "raw_string_lower": "8577bdl",
+      "site": "CISSSCA",
+      "raw_description": "IRM col. dorsale et lombaire C- et C+"
+    },
+    {
+      "raw_string_lower": "8232",
+      "site": "CISSSCA",
+      "raw_description": "Tomographie"
+    },
+    {
+      "raw_string_lower": "8312",
+      "site": "CISSSCA",
+      "raw_description": "Echo obst. 0 a 12 sem. etude grossesse multiple"
+    },
+    {
+      "raw_string_lower": "8069g3",
+      "site": "CISSSCA",
+      "raw_description": "Majeur gauche -3ieme doigt"
+    },
+    {
+      "raw_string_lower": "8069d5",
+      "site": "CISSSCA",
+      "raw_description": "Auriculaire droit -5ieme doigt"
+    },
+    {
+      "raw_string_lower": "9422",
+      "site": "CISSSCA",
+      "raw_description": "Angio drainage percutane ext. voies biliaires"
+    },
+    {
+      "raw_string_lower": "94736",
+      "site": "CISSSCA",
+      "raw_description": "Angio drainage kyste ou abces abdominal"
+    },
+    {
+      "raw_string_lower": "8277-1",
+      "site": "CISSSCA",
+      "raw_description": "Manipulations d'images articulation C-"
+    },
+    {
+      "raw_string_lower": "8574br",
+      "site": "CISSSCA",
+      "raw_description": "IRM rectum sans et avec contraste"
+    },
+    {
+      "raw_string_lower": "8030",
+      "site": "CISSSCA",
+      "raw_description": "Oeil recherche de corps etrangers"
+    },
+    {
+      "raw_string_lower": "8133",
+      "site": "CISSSCA",
+      "raw_description": "Cine de deglutition -pharynx et oesophage"
+    },
+    {
+      "raw_string_lower": "804842na",
+      "site": "CISSSCA",
+      "raw_description": "Clichés supplémentaires bilat NA"
+    },
+    {
+      "raw_string_lower": "0217s3",
+      "site": "CISSSCA",
+      "raw_description": "Bloc facettaire 3 sites"
+    },
+    {
+      "raw_string_lower": "8574b",
+      "site": "CISSSCA",
+      "raw_description": "IRM pelvis ou bassin sans et avec contrate"
+    },
+    {
+      "raw_string_lower": "8403cd",
+      "site": "CISSSCA",
+      "raw_description": "Angio selective carotide droite"
+    },
+    {
+      "raw_string_lower": "8091b",
+      "site": "CISSSCA",
+      "raw_description": "Bilan des membres inferieurs (goniometrie)"
+    },
+    {
+      "raw_string_lower": "8117",
+      "site": "CISSSCA",
+      "raw_description": "Sternum"
+    },
+    {
+      "raw_string_lower": "8083d",
+      "site": "CISSSCA",
+      "raw_description": "Femur droit"
+    },
+    {
+      "raw_string_lower": "8590mig",
+      "site": "CISSSCA",
+      "raw_description": "IRM membre inférieur gauche sans contraste"
+    },
+    {
+      "raw_string_lower": "8149",
+      "site": "CISSSCA",
+      "raw_description": "Lavement baryte simple contraste"
+    },
+    {
+      "raw_string_lower": "8069g1",
+      "site": "CISSSCA",
+      "raw_description": "Pouce gauche -1er doigt"
+    },
+    {
+      "raw_string_lower": "8114aied",
+      "site": "CISSSCA",
+      "raw_description": "Arthro et infiltration epaule droite"
+    },
+    {
+      "raw_string_lower": "8274lom",
+      "site": "CISSSCA",
+      "raw_description": "TDM rachis lombaire avec contraste"
+    },
+    {
+      "raw_string_lower": "8570b",
+      "site": "CISSSCA",
+      "raw_description": "IRM tete sans et avec contraste"
+    },
+    {
+      "raw_string_lower": "8343",
+      "site": "CISSSCA",
+      "raw_description": "Echo abd. et pelv. pour appendicite et recherches"
+    },
+    {
+      "raw_string_lower": "8333g",
+      "site": "CISSSCA",
+      "raw_description": "Echo sein gauche (incluant l'aisselle)"
+    },
+    {
+      "raw_string_lower": "8277msg",
+      "site": "CISSSCA",
+      "raw_description": "TDM membre superieur gauche sans contraste"
+    },
+    {
+      "raw_string_lower": "83586",
+      "site": "CISSSCA",
+      "raw_description": "Doppler périphérique localisé/analyse de fréquence"
+    },
+    {
+      "raw_string_lower": "8268",
+      "site": "CISSSCA",
+      "raw_description": "TDM abdomen et pelvien avec contraste"
+    },
+    {
+      "raw_string_lower": "8278orb",
+      "site": "CISSSCA",
+      "raw_description": "TDM orbites avec contraste"
+    },
+    {
+      "raw_string_lower": "8317",
+      "site": "CISSSCA",
+      "raw_description": "Echo obst. 13 sem. et plus - 1 foetus"
+    },
+    {
+      "raw_string_lower": "8069d2",
+      "site": "CISSSCA",
+      "raw_description": "Index droit -2ieme doigt"
+    },
+    {
+      "raw_string_lower": "94734",
+      "site": "CISSSCA",
+      "raw_description": "TDM drainage kyste ou abces abdominal"
+    },
+    {
+      "raw_string_lower": "8576bcerv",
+      "site": "CISSSCA",
+      "raw_description": "IRM col. cervicale sans et avec contraste"
+    },
+    {
+      "raw_string_lower": "8590gd",
+      "site": "CISSSCA",
+      "raw_description": "IRM genou droit sans contraste"
+    },
+    {
+      "raw_string_lower": "8572b",
+      "site": "CISSSCA",
+      "raw_description": "IRM thorax sans et avec contraste"
+    },
+    {
+      "raw_string_lower": "8578cdl",
+      "site": "CISSSCA",
+      "raw_description": "IRM col. cervico-dorso-lombaire C-"
+    },
+    {
+      "raw_string_lower": "8576cerv",
+      "site": "CISSSCA",
+      "raw_description": "IRM col. cervicale sans contraste"
+    },
+    {
+      "raw_string_lower": "8079",
+      "site": "CISSSCA",
+      "raw_description": "Mammo depistage 50-69 ans PQDCS"
+    },
+    {
+      "raw_string_lower": "8262ant",
+      "site": "CISSSCA",
+      "raw_description": "TDM ANGIO thoracique ( 2 manip.)"
+    },
+    {
+      "raw_string_lower": "8008anmi",
+      "site": "CISSSCA",
+      "raw_description": "TDM ANGIO membre inferieur ( 2 manip.)"
+    },
+    {
+      "raw_string_lower": "8326",
+      "site": "CISSSCA",
+      "raw_description": "Echo abdominale complete"
+    },
+    {
+      "raw_string_lower": "9337",
+      "site": "CISSSCA",
+      "raw_description": "Sphincterotomie"
+    },
+    {
+      "raw_string_lower": "8586tc",
+      "site": "CISSSCA",
+      "raw_description": "IRM Angio tete et cou C- ( 1 manip.)"
+    },
+    {
+      "raw_string_lower": "8314",
+      "site": "CISSSCA",
+      "raw_description": "Echo eval. retard croissance -1 foetus 25 sem.et +"
+    },
+    {
+      "raw_string_lower": "8276anms",
+      "site": "CISSSCA",
+      "raw_description": "TDM ANGIO membre superieur ( 2 manip.)"
+    },
+    {
+      "raw_string_lower": "8357bilats",
+      "site": "CISSSCA",
+      "raw_description": "Doppler veineux étude bilaterale superieur"
+    },
+    {
+      "raw_string_lower": "8028",
+      "site": "CISSSCA",
+      "raw_description": "CE Rech et local Corps étranger"
+    },
+    {
+      "raw_string_lower": "8337",
+      "site": "CISSSCA",
+      "raw_description": "Echo seins droit et gauche (incluant l'aisselle)"
+    },
+    {
+      "raw_string_lower": "8317gr",
+      "site": "CISSSCA",
+      "raw_description": "Écho obstétrique 32 à 35 semaines"
+    },
+    {
+      "raw_string_lower": "8262em",
+      "site": "CISSSCA",
+      "raw_description": "TDM embolie pulmonaire ( 1 manip.)"
+    },
+    {
+      "raw_string_lower": "8008mid",
+      "site": "CISSSCA",
+      "raw_description": "TDM membre inférieur droit avec contraste"
+    },
+    {
+      "raw_string_lower": "8064g",
+      "site": "CISSSCA",
+      "raw_description": "Coude gauche"
+    },
+    {
+      "raw_string_lower": "8074d",
+      "site": "CISSSCA",
+      "raw_description": "Omoplate droite"
+    },
+    {
+      "raw_string_lower": "0217s2",
+      "site": "CISSSCA",
+      "raw_description": "Bloc facettaire 2 sites"
+    },
+    {
+      "raw_string_lower": "8125",
+      "site": "CISSSCA",
+      "raw_description": "Sinus 3 incidences ou moins"
+    },
+    {
+      "raw_string_lower": "8265",
+      "site": "CISSSCA",
+      "raw_description": "TDM abdomen sans contraste"
+    },
+    {
+      "raw_string_lower": "8590bmig",
+      "site": "CISSSCA",
+      "raw_description": "IRM membre inferieur gauche sans et avec contraste"
+    },
+    {
+      "raw_string_lower": "9483",
+      "site": "CISSSCA",
+      "raw_description": "Dilatation ureterale bilaterale/inst. double J"
+    },
+    {
+      "raw_string_lower": "8323endo",
+      "site": "CISSSCA",
+      "raw_description": "Echo obst. 0 a 12 sem. par voie endovaginale"
+    },
+    {
+      "raw_string_lower": "94712sd",
+      "site": "CISSSCA",
+      "raw_description": "Echo Biopsie trocart sein droit"
+    },
+    {
+      "raw_string_lower": "8090g1",
+      "site": "CISSSCA",
+      "raw_description": "Premier orteil gauche"
+    },
+    {
+      "raw_string_lower": "8299",
+      "site": "CISSSCA",
+      "raw_description": "TDM Polytrauma "
+    },
+    {
+      "raw_string_lower": "8175",
+      "site": "CISSSCA",
+      "raw_description": "Scopie 15 minutes SANS IMAGE(+ 07-11au besoin)"
+    },
+    {
+      "raw_string_lower": "8575beg",
+      "site": "CISSSCA",
+      "raw_description": "IRM epaule gauche sans et avec contraste"
+    },
+    {
+      "raw_string_lower": "8090d4",
+      "site": "CISSSCA",
+      "raw_description": "Quatrieme orteil droit"
+    },
+    {
+      "raw_string_lower": "1258",
+      "site": "CISSSCA",
+      "raw_description": "TDM tete sans et avec contraste"
+    },
+    {
+      "raw_string_lower": "9461",
+      "site": "CISSSCA",
+      "raw_description": "Angio retrait de filtre endoveineux"
+    },
+    {
+      "raw_string_lower": "3006rein",
+      "site": "CISSSCA",
+      "raw_description": "Angio Biopsie/cytologie rein"
+    },
+    {
+      "raw_string_lower": "8303",
+      "site": "CISSSCA",
+      "raw_description": "Échographie cardiaque sans effort"
+    },
+    {
+      "raw_string_lower": "8068d",
+      "site": "CISSSCA",
+      "raw_description": "Main et poignet droits"
+    },
+    {
+      "raw_string_lower": "8090d1",
+      "site": "CISSSCA",
+      "raw_description": "Premier orteil droit"
+    },
+    {
+      "raw_string_lower": "8573b",
+      "site": "CISSSCA",
+      "raw_description": "IRM abdomen sans et avec contraste"
+    },
+    {
+      "raw_string_lower": "8154",
+      "site": "CISSSCA",
+      "raw_description": "Repas baryte simple contraste"
+    },
+    {
+      "raw_string_lower": "83256",
+      "site": "CISSSCA",
+      "raw_description": "Echo abdomen limité"
+    },
+    {
+      "raw_string_lower": "8157",
+      "site": "CISSSCA",
+      "raw_description": "Oesophage (gorgee barytee)"
+    },
+    {
+      "raw_string_lower": "94756",
+      "site": "CISSSCA",
+      "raw_description": "Angio drainage d'ascite"
+    },
+    {
+      "raw_string_lower": "3006hep",
+      "site": "CISSSCA",
+      "raw_description": "Angio Biopsie/cytologie hepatique"
+    },
+    {
+      "raw_string_lower": "8086d",
+      "site": "CISSSCA",
+      "raw_description": "Cheville droite"
+    },
+    {
+      "raw_string_lower": "94716sa",
+      "site": "CISSSCA",
+      "raw_description": "Echo Biopsie trocart site additionnel meme cote"
+    },
+    {
+      "raw_string_lower": "8441a",
+      "site": "CISSSCA",
+      "raw_description": "TDM angio autre region"
+    },
+    {
+      "raw_string_lower": "8570bst",
+      "site": "CISSSCA",
+      "raw_description": "IRM selle turcique sans et avec contraste"
+    },
+    {
+      "raw_string_lower": "8334",
+      "site": "CISSSCA",
+      "raw_description": "Echo testicules - (toujours les deux testicules)"
+    },
+    {
+      "raw_string_lower": "8214",
+      "site": "CISSSCA",
+      "raw_description": "Fistulographie"
+    }
+  ],
+  "observationNameUnit": [],
+  "pcrSite": [
+    {
+      "raw_string_lower": "lavage bronchique ou bronchoalvéolaire (lba)",
+      "display_string": "bronchoalveolar_lavage",
+      "snomed_code": "258607008",
+      "site": "CISSSCA",
+      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/258607008"
+    },
+    {
+      "raw_string_lower": "nasopharynx",
+      "display_string": "nasopharyngeal_swab",
+      "snomed_code": "258500001",
+      "site": "CISSSCA",
+      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/258500001"
+    },
+    {
+      "raw_string_lower": "écouvillonnage nasopharynx et oropharyngé ",
+      "display_string": "nasopharyngeal_swab",
+      "snomed_code": "258500001",
+      "site": "CISSSCA",
+      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/258500001"
+    },
+    {
+      "raw_string_lower": "gorge/nez",
+      "display_string": "nasopharyngeal_swab",
+      "snomed_code": "258500001",
+      "site": "CISSSCA",
+      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/258500001"
+    },
+    {
+      "raw_string_lower": "lavage nasopharyngé",
+      "display_string": "nasopharyngeal_lavage",
+      "snomed_code": "258411007",
+      "site": "CISSSCA",
+      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/258411007"
+    },
+    {
+      "raw_string_lower": "non-indiqué",
+      "display_string": "unspecified",
+      "snomed_code": "n/a",
+      "site": "CISSSCA"
+    },
+    {
+      "raw_string_lower": "sécrétions endotrachéales",
+      "display_string": "endotracheal_aspirate",
+      "snomed_code": "445447003",
+      "site": "CISSSCA",
+      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/445447003"
+    },
+    {
+      "raw_string_lower": "s endetrachiale",
+      "display_string": "endotracheal_aspirate",
+      "snomed_code": "445447003",
+      "site": "CISSSCA",
+      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/445447003"
+    },
+    {
+      "raw_string_lower": "non spécifié",
+      "display_string": "unspecified",
+      "snomed_code": "n/a",
+      "site": "CISSSCA"
+    },
+    {
+      "raw_string_lower": "non fourni",
+      "display_string": "unspecified",
+      "snomed_code": "n/a",
+      "site": "CISSSCA"
+    },
+    {
+      "raw_string_lower": "non mentionné",
+      "display_string": "unspecified",
+      "snomed_code": "n/a",
+      "site": "CISSSCA"
+    },
+    {
+      "raw_string_lower": "endotracheal",
+      "display_string": "endotracheal_aspirate",
+      "snomed_code": "445447003",
+      "site": "CISSSCA",
+      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/445447003"
+    },
+    {
+      "raw_string_lower": "gorge/nasoph",
+      "display_string": "nasopharyngeal_swab",
+      "snomed_code": "258500001",
+      "site": "CISSSCA",
+      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/258500001"
+    },
+    {
+      "raw_string_lower": "autre",
+      "display_string": "other",
+      "snomed_code": "n/a",
+      "site": "CISSSCA"
+    },
+    {
+      "raw_string_lower": "expectorations",
+      "display_string": "expectorated_sputum",
+      "snomed_code": "119334006",
+      "site": "CISSSCA",
+      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/119334006"
+    },
+    {
+      "raw_string_lower": "non indiqué",
+      "display_string": "unspecified",
+      "snomed_code": "n/a",
+      "site": "CISSSCA"
+    },
+    {
+      "raw_string_lower": "gorge/naso",
+      "display_string": "nasopharyngeal_swab",
+      "snomed_code": "258500001",
+      "site": "CISSSCA",
+      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/258500001"
+    },
+    {
+      "raw_string_lower": "¸gorge/nez",
+      "display_string": "nasopharyngeal_swab",
+      "snomed_code": "258500001",
+      "site": "CISSSCA",
+      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/258500001"
+    },
+    {
+      "raw_string_lower": "endothrachéale",
+      "display_string": "endotracheal_aspirate",
+      "snomed_code": "445447003",
+      "site": "CISSSCA",
+      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/445447003"
+    },
+    {
+      "raw_string_lower": "non indique.",
+      "display_string": "unspecified",
+      "snomed_code": "n/a",
+      "site": "CISSSCA"
+    },
+    {
+      "raw_string_lower": "gorge",
+      "display_string": "oropharyngeal_swab",
+      "snomed_code": "461911000124106",
+      "site": "CISSSCA",
+      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/461911000124106"
+    },
+    {
+      "raw_string_lower": "non-précisé",
+      "display_string": "unspecified",
+      "snomed_code": "n/a",
+      "site": "CISSSCA"
+    },
+    {
+      "raw_string_lower": "endotrachéal",
+      "display_string": "endotracheal_aspirate",
+      "snomed_code": "445447003",
+      "site": "CISSSCA",
+      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/445447003"
+    },
+    {
+      "raw_string_lower": "non indique",
+      "display_string": "unspecified",
+      "snomed_code": "n/a",
+      "site": "CISSSCA"
+    },
+    {
+      "raw_string_lower": "nez",
+      "display_string": "nasopharyngeal_swab",
+      "snomed_code": "258500001",
+      "site": "CISSSCA",
+      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/258500001"
+    },
+    {
+      "raw_string_lower": "naso",
+      "display_string": "nasal_swab",
+      "snomed_code": "871810001",
+      "site": "CISSSCA",
+      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/871810001"
+    },
+    {
+      "raw_string_lower": "non-spécifié",
+      "display_string": "unspecified",
+      "snomed_code": "n/a",
+      "site": "CISSSCA"
+    },
+    {
+      "raw_string_lower": "gorge/nasoph.",
+      "display_string": "nasopharyngeal_swab",
+      "snomed_code": "258500001",
+      "site": "CISSSCA",
+      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/258500001"
+    },
+    {
+      "raw_string_lower": "¸gorge/nasoph.",
+      "display_string": "nasopharyngeal_swab",
+      "snomed_code": "258500001",
+      "site": "CISSSCA",
+      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/258500001"
+    }
+  ],
+  "pcrResultStatus": [],
+  "drugRoute": [],
+  "pcrName": [
+    {
+      "raw_string_lower": "cov9",
+      "display_string": "sars_cov2",
+      "loinc_code": "94500-6",
+      "site": "CISSSCA",
+      "loinc_reference_url": "https://loinc.org/94500-6"
+    },
+    {
+      "raw_string_lower": "covid",
+      "display_string": "sars_cov2",
+      "loinc_code": "94500-6",
+      "site": "CISSSCA",
+      "loinc_reference_url": "https://loinc.org/94500-6"
+    },
+    {
+      "raw_string_lower": "cov",
+      "display_string": "sars_cov2",
+      "loinc_code": "94500-6",
+      "site": "CISSSCA",
+      "loinc_reference_url": "https://loinc.org/94500-6"
+    },
+    {
+      "raw_string_lower": "cov1",
+      "display_string": "sars_cov2",
+      "loinc_code": "94500-6",
+      "site": "CISSSCA",
+      "loinc_reference_url": "https://loinc.org/94500-6"
+    },
+    {
+      "raw_string_lower": "covre",
+      "display_string": "sars_cov2",
+      "loinc_code": "94500-6",
+      "site": "CISSSCA",
+      "loinc_reference_url": "https://loinc.org/94500-6"
+    }
+  ],
+  "unitType": []
+}

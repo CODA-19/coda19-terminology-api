@@ -1,0 +1,24 @@
+{
+  "name": "terminology",
+  "version": "1.0.0",
+  "description": "Terminology API for CODA-19.",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CODA-19/terminology.git"
+  },
+  "author": "Louis Mullie",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/CODA-19/terminology/issues"
+  },
+  "homepage": "https://github.com/CODA-19/terminology#readme",
+  "dependencies": {
+    "got": "^11.6.2",
+    "p-queue": "^6.6.1",
+    "serialize-error": "^7.0.1"
+  }
+}

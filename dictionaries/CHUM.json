@@ -1,0 +1,3644 @@
+{
+  "pcrName": [
+    {
+      "raw_string_lower": "herpès",
+      "display_string": "herpes_simplex_virus",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "l. monocytogenes",
+      "display_string": "listeria_monocytogenes",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "influenza b",
+      "display_string": "influenza_b",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "vzv",
+      "display_string": "varicella_zoster_virus",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "covid",
+      "display_string": "sars_cov2",
+      "loinc_code": "94500-6",
+      "site": "CHUM",
+      "loinc_reference_url": "https://loinc.org/94500-6"
+    },
+    {
+      "raw_string_lower": "gonocoque",
+      "display_string": "gonorrhea",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "virus jc",
+      "display_string": "jc_virus",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "rsv",
+      "display_string": "respiratory_syncytial_virus",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "vbk",
+      "display_string": "bk_virus",
+      "loinc_code": "42587-6",
+      "site": "CHUM",
+      "loinc_reference_url": "https://loinc.org/42587-6"
+    },
+    {
+      "raw_string_lower": "chlamydia",
+      "display_string": "chlamydia",
+      "loinc_code": "35729-3",
+      "site": "CHUM",
+      "loinc_reference_url": "https://loinc.org/35729-3"
+    },
+    {
+      "raw_string_lower": "influenza a",
+      "display_string": "influenza_a",
+      "site": "CHUM"
+    }
+  ],
+  "drugRoute": [
+    {
+      "raw_string_lower": "vaginale",
+      "display_string": "vagin",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "i.m.",
+      "display_string": "im",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "i.m./i.v./s.c.",
+      "display_string": "im/iv/sc",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "dans loeil droit",
+      "display_string": "i-ocul",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "rince-bouche",
+      "display_string": "buccal",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "en injection locale",
+      "display_string": "i-epidermal",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "en gargarisme",
+      "display_string": "buccal",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "i.v. perfusion",
+      "display_string": "iv",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "sous la langue",
+      "display_string": "sl",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "dans oreille gauche",
+      "display_string": "otic",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "dans le dialysat",
+      "display_string": "hemo",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "par voie centrale",
+      "display_string": "iv",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "transmucosale",
+      "display_string": "t-mucos",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "voir directives",
+      "display_string": "unknown",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "en inhalation orale",
+      "display_string": "respir",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "sous-cutané:",
+      "display_string": "sc",
+      "snomed_code": "34206005",
+      "site": "CHUM",
+      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/34206005"
+    },
+    {
+      "raw_string_lower": "en aérosol",
+      "display_string": "respir",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "ophthalmique",
+      "display_string": "i-ocul",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "dans les narines",
+      "display_string": "nasal",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "épidurale",
+      "display_string": "epidur",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "mini-perfuseur",
+      "display_string": "iv",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "dans les yeux",
+      "display_string": "i-ocul",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "sous-cutané",
+      "display_string": "sc",
+      "snomed_code": "34206005",
+      "site": "CHUM",
+      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/34206005"
+    },
+    {
+      "raw_string_lower": "i.v. / s.c.",
+      "display_string": "iv/sc",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "i.v.",
+      "display_string": "iv",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "i.v. soluté",
+      "display_string": "iv",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "irr.nasale",
+      "display_string": "nasal",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "per os ou sublingual",
+      "display_string": "po/sl",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "en compresses",
+      "display_string": "topic",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "transdermale",
+      "display_string": "t-dermal",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "intra-rachidienne",
+      "display_string": "i-spinal",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "i.m. / s.c.",
+      "display_string": "im/sc",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "perfusion s.c.",
+      "display_string": "sc",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "buccale",
+      "display_string": "buccal",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "i.m. / i.v.",
+      "display_string": "im/iv",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "nébulisation orale",
+      "display_string": "respir",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "nasale",
+      "display_string": "nasal",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "dans les oreilles",
+      "display_string": "otic",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "orale(s)",
+      "display_string": "po",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "via jéjunostomie",
+      "display_string": "ng",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "via levin",
+      "display_string": "ng",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "transdermique",
+      "display_string": "t-dermal",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "dans une narine",
+      "display_string": "nasal",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "via tube nasogastro.",
+      "display_string": "ng",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "dans oreille droite",
+      "display_string": "otic",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "en appl. locale",
+      "display_string": "topic",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "sublinguale",
+      "display_string": "sl",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "intra-rectal",
+      "display_string": "rectal",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "per os",
+      "display_string": "po",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "intra-pleurale",
+      "display_string": "i-pleural",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "infiltration",
+      "display_string": "infil",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "via gastrostomie",
+      "display_string": "ng",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "cathéter",
+      "display_string": "iv",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "i.v. tubulure",
+      "display_string": "iv",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "dans loeil gauche",
+      "display_string": "i-ocul",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "intra-dermique",
+      "display_string": "i-dermal",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "topique",
+      "display_string": "topic",
+      "site": "CHUM"
+    }
+  ],
+  "cultureResultStatus": [
+    {
+      "raw_string_lower": "pos",
+      "result_display_string": "positive",
+      "status_display_string": "resulted",
+      "result_snomed_code": "10828004",
+      "status_fhir_code": "final",
+      "site": "CHUM",
+      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/10828004"
+    },
+    {
+      "raw_string_lower": "neg",
+      "result_display_string": "negative",
+      "status_display_string": "resulted",
+      "result_snomed_code": "260385009",
+      "status_fhir_code": "final",
+      "site": "CHUM",
+      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/260385009"
+    }
+  ],
+  "unitType": [
+    {
+      "raw_string_lower": "13sm",
+      "display_string": "high_dependency_unit",
+      "fhir_code": "HU",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "7hdb",
+      "display_string": "hd_inpatient_ward",
+      "fhir_code": "CHR",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "18n",
+      "display_string": "inpatient_ward",
+      "fhir_code": "HU",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "1hlr",
+      "display_string": "hd_inpatient_ward",
+      "fhir_code": "CHR",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "17s",
+      "display_string": "inpatient_ward",
+      "fhir_code": "HU",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "19",
+      "display_string": "inpatient_ward",
+      "fhir_code": "HU",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "12n",
+      "display_string": "inpatient_ward",
+      "fhir_code": "HU",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "ccjo",
+      "display_string": "day_surgery_unit",
+      "fhir_code": "HU",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "ccj1",
+      "display_string": "day_surgery_unit",
+      "fhir_code": "HU",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "01cj",
+      "display_string": "day_surgery_unit",
+      "fhir_code": "HU",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "celj",
+      "display_string": "inpatient_ward",
+      "fhir_code": "HU",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "09n",
+      "display_string": "intensive_care_unit",
+      "fhir_code": "ICU",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "17n",
+      "display_string": "inpatient_ward",
+      "fhir_code": "HU",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "11nt",
+      "display_string": "inpatient_ward",
+      "fhir_code": "HU",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "08nc",
+      "display_string": "coronary_care_unit",
+      "fhir_code": "CCU",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "11ni",
+      "display_string": "high_dependency_unit",
+      "fhir_code": "HU",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "09sn",
+      "display_string": "inpatient_ward",
+      "fhir_code": "HU",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "12s",
+      "display_string": "inpatient_ward",
+      "fhir_code": "HU",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "2hlr",
+      "display_string": "hd_inpatient_ward",
+      "fhir_code": "CHR",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "10n",
+      "display_string": "intensive_care_unit",
+      "fhir_code": "ICU",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "ccj2",
+      "display_string": "day_surgery_unit",
+      "fhir_code": "HU",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "09s",
+      "display_string": "inpatient_ward",
+      "fhir_code": "HU",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "11np",
+      "display_string": "inpatient_ward",
+      "fhir_code": "HU",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "13n",
+      "display_string": "inpatient_ward",
+      "fhir_code": "HU",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "5hlr",
+      "display_string": "hd_inpatient_ward",
+      "fhir_code": "CHR",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "19s",
+      "display_string": "inpatient_ward",
+      "fhir_code": "HU",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "08s",
+      "display_string": "palliative_care_unit",
+      "fhir_code": "HU",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "16s",
+      "display_string": "inpatient_ward",
+      "fhir_code": "HU",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "cec1",
+      "display_string": "inpatient_ward",
+      "fhir_code": "HU",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "19n",
+      "display_string": "inpatient_ward",
+      "fhir_code": "HU",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "chem",
+      "display_string": "cardiac_catheterization_lab",
+      "fhir_code": "CATH",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "15s",
+      "display_string": "inpatient_ward",
+      "fhir_code": "HU",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "09sb",
+      "display_string": "inpatient_ward",
+      "fhir_code": "HU",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "14s",
+      "display_string": "inpatient_ward",
+      "fhir_code": "HU",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "cbi ",
+      "display_string": "[skip]",
+      "fhir_code": "[skip]",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "13s",
+      "display_string": "inpatient_ward",
+      "fhir_code": "HU",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "05cj",
+      "display_string": "day_surgery_unit",
+      "fhir_code": "HU",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "15sm",
+      "display_string": "high_dependency_unit",
+      "fhir_code": "HU",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "14n",
+      "display_string": "inpatient_ward",
+      "fhir_code": "HU",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "cec2",
+      "display_string": "inpatient_ward",
+      "fhir_code": "HU",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "16n",
+      "display_string": "inpatient_ward",
+      "fhir_code": "HU",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "04cj",
+      "display_string": "day_surgery_unit",
+      "fhir_code": "HU",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "er",
+      "display_string": "emergency_room",
+      "fhir_code": "ER",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "15n",
+      "display_string": "inpatient_ward",
+      "fhir_code": "HU",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "6hlr",
+      "display_string": "hd_inpatient_ward",
+      "fhir_code": "CHR",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "13nm",
+      "display_string": "high_dependency_unit",
+      "fhir_code": "HU",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "4hlr",
+      "display_string": "hd_inpatient_ward",
+      "fhir_code": "CHR",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "11ny",
+      "display_string": "inpatient_ward",
+      "fhir_code": "HU",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "6hdb",
+      "display_string": "hd_inpatient_ward",
+      "fhir_code": "CHR",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "11s",
+      "display_string": "inpatient_ward",
+      "fhir_code": "HU",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "5hdb",
+      "display_string": "hd_inpatient_ward",
+      "fhir_code": "CHR",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "09sa",
+      "display_string": "inpatient_ward",
+      "fhir_code": "HU",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "18s",
+      "display_string": "inpatient_ward",
+      "fhir_code": "HU",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "17sm",
+      "display_string": "high_dependency_unit",
+      "fhir_code": "HU",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "10s",
+      "display_string": "intensive_care_unit",
+      "fhir_code": "ICU",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUM"
+    }
+  ],
+  "observationNameUnit": [
+    {
+      "raw_string_lower": "diastolic",
+      "name_loinc_code": "8462-4",
+      "unit_ucum_code": "mm[Hg]",
+      "ucum_reference_url": "https://ucum.org/ucum.html",
+      "site": "CHUM",
+      "loinc_reference_url": "https://loinc.org/8462-4"
+    },
+    {
+      "raw_string_lower": "systolic",
+      "name_loinc_code": "8480-6",
+      "unit_ucum_code": "mm[Hg]",
+      "ucum_reference_url": "https://ucum.org/ucum.html",
+      "site": "CHUM",
+      "loinc_reference_url": "https://loinc.org/8480-6"
+    },
+    {
+      "raw_string_lower": "sat_o2",
+      "name_loinc_code": "59408-5",
+      "unit_ucum_code": "%",
+      "ucum_reference_url": "https://ucum.org/ucum.html",
+      "site": "CHUM",
+      "loinc_reference_url": "https://loinc.org/59408-5"
+    },
+    {
+      "raw_string_lower": "tension_systol",
+      "name_loinc_code": "8480-6",
+      "unit_ucum_code": "mm[Hg]",
+      "ucum_reference_url": "https://ucum.org/ucum.html",
+      "site": "CHUM",
+      "loinc_reference_url": "https://loinc.org/8480-6"
+    },
+    {
+      "raw_string_lower": "sat o2 art",
+      "name_loinc_code": "59408-5",
+      "unit_ucum_code": "%",
+      "ucum_reference_url": "https://ucum.org/ucum.html",
+      "site": "CHUM",
+      "loinc_reference_url": "https://loinc.org/59408-5"
+    },
+    {
+      "raw_string_lower": "resp",
+      "name_loinc_code": "9279-1",
+      "unit_ucum_code": "/min",
+      "ucum_reference_url": "https://ucum.org/ucum.html",
+      "site": "CHUM",
+      "loinc_reference_url": "https://loinc.org/9279-1"
+    },
+    {
+      "raw_string_lower": "weight",
+      "name_loinc_code": "29463-7",
+      "unit_ucum_code": "kg",
+      "ucum_reference_url": "https://ucum.org/ucum.html",
+      "site": "CHUM",
+      "loinc_reference_url": "https://loinc.org/29463-7"
+    },
+    {
+      "raw_string_lower": "sao2",
+      "name_loinc_code": "59408-5",
+      "unit_ucum_code": "%",
+      "ucum_reference_url": "https://ucum.org/ucum.html",
+      "site": "CHUM",
+      "loinc_reference_url": "https://loinc.org/59408-5"
+    },
+    {
+      "raw_string_lower": "pouls",
+      "name_loinc_code": "8867-4",
+      "unit_ucum_code": "/min",
+      "ucum_reference_url": "https://ucum.org/ucum.html",
+      "site": "CHUM",
+      "loinc_reference_url": "https://loinc.org/8867-4"
+    },
+    {
+      "raw_string_lower": "tempob",
+      "name_loinc_code": "8310-5",
+      "unit_ucum_code": "Cel",
+      "ucum_reference_url": "https://ucum.org/ucum.html",
+      "site": "CHUM",
+      "loinc_reference_url": "https://loinc.org/8310-5"
+    },
+    {
+      "raw_string_lower": "tension_diastol",
+      "name_loinc_code": "8462-4",
+      "unit_ucum_code": "mm[Hg]",
+      "ucum_reference_url": "https://ucum.org/ucum.html",
+      "site": "CHUM",
+      "loinc_reference_url": "https://loinc.org/8462-4"
+    },
+    {
+      "raw_string_lower": "température",
+      "name_loinc_code": "8310-5",
+      "unit_ucum_code": "Cel",
+      "ucum_reference_url": "https://ucum.org/ucum.html",
+      "site": "CHUM",
+      "loinc_reference_url": "https://loinc.org/8310-5"
+    },
+    {
+      "raw_string_lower": "oxygen",
+      "name_loinc_code": "59408-5",
+      "unit_ucum_code": "%",
+      "ucum_reference_url": "https://ucum.org/ucum.html",
+      "site": "CHUM",
+      "loinc_reference_url": "https://loinc.org/59408-5"
+    },
+    {
+      "raw_string_lower": "height",
+      "name_loinc_code": "8302-2",
+      "unit_ucum_code": "cm",
+      "ucum_reference_url": "https://ucum.org/ucum.html",
+      "site": "CHUM",
+      "loinc_reference_url": "https://loinc.org/8302-2"
+    },
+    {
+      "raw_string_lower": "pulse",
+      "name_loinc_code": "8867-4",
+      "unit_ucum_code": "/min",
+      "ucum_reference_url": "https://ucum.org/ucum.html",
+      "site": "CHUM",
+      "loinc_reference_url": "https://loinc.org/8867-4"
+    },
+    {
+      "raw_string_lower": "temperature",
+      "name_loinc_code": "8310-5",
+      "unit_ucum_code": "Cel",
+      "ucum_reference_url": "https://ucum.org/ucum.html",
+      "site": "CHUM",
+      "loinc_reference_url": "https://loinc.org/8310-5"
+    },
+    {
+      "raw_string_lower": "temp",
+      "name_loinc_code": "8310-5",
+      "unit_ucum_code": "Cel",
+      "ucum_reference_url": "https://ucum.org/ucum.html",
+      "site": "CHUM",
+      "loinc_reference_url": "https://loinc.org/8310-5"
+    },
+    {
+      "raw_string_lower": "rythme_resp",
+      "name_loinc_code": "9279-1",
+      "unit_ucum_code": "/min",
+      "ucum_reference_url": "https://ucum.org/ucum.html",
+      "site": "CHUM",
+      "loinc_reference_url": "https://loinc.org/9279-1"
+    },
+    {
+      "raw_string_lower": "respob",
+      "name_loinc_code": "9279-1",
+      "unit_ucum_code": "/min",
+      "ucum_reference_url": "https://ucum.org/ucum.html",
+      "site": "CHUM",
+      "loinc_reference_url": "https://loinc.org/9279-1"
+    }
+  ],
+  "imagingName": [],
+  "drugFrequency": [
+    {
+      "raw_string_lower": "q12",
+      "display_string": "q12h",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "q4",
+      "display_string": "q4h",
+      "fhir_code": "Q4H",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/GTSAbbreviation/cs.html",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "acpiv",
+      "display_string": "cond",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "selh",
+      "display_string": "cond",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "cvvhprot",
+      "display_string": "cond",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "p;prn",
+      "display_string": "cond",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "q1",
+      "display_string": "q1h",
+      "fhir_code": "Q1H",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "instid",
+      "display_string": "tid",
+      "fhir_code": "TID",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/GTSAbbreviation/cs.html",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "2-3fpjp",
+      "display_string": "bid-tid",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "qh",
+      "display_string": "die",
+      "fhir_code": "QD",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/GTSAbbreviation/cs.html",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "qmois",
+      "display_string": "1x monthly",
+      "fhir_code": "MO",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/GTSAbbreviation/cs.html",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "q15",
+      "display_string": "q15h",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "q10",
+      "display_string": "q10h",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "q19",
+      "display_string": "q19h",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "insam",
+      "display_string": "die",
+      "fhir_code": "AM",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/GTSAbbreviation/cs.html",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "q1j",
+      "display_string": "q1j",
+      "fhir_code": "QD",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/GTSAbbreviation/cs.html",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "6fj2-21",
+      "display_string": "6x daily",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "lmjs21;lmjvs9;lmmej9;dmjs19;dmjs21;dmjs8;dlmev21;dlmev9",
+      "display_string": "4x weekly",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "1dose",
+      "display_string": "1x",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "q5",
+      "display_string": "q5h",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "tqpa",
+      "display_string": "cond",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "inspm",
+      "display_string": "die",
+      "fhir_code": "QD",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/GTSAbbreviation/cs.html",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "protp",
+      "display_string": "cond",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "selc",
+      "display_string": "cond ",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "test",
+      "display_string": "cond",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "q10min",
+      "display_string": "q10min",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "1-2fpjp",
+      "display_string": "die-bid",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "hs",
+      "display_string": "die",
+      "fhir_code": "BED",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/GTSAbbreviation/cs.html",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "vaccin",
+      "display_string": "1x",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "6fj8-22",
+      "display_string": "6x daily",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "postdial",
+      "display_string": "cond",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "6fj2-21",
+      "display_string": "6x daily",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "d10;d12;d21;d6;d7;d9",
+      "display_string": "1x weekly",
+      "fhir_code": "WK",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/GTSAbbreviation/cs.html",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "6fs-d9;6fs-j21;6fs-l9;6fs-m9;6fs-me9;6fs-s9;6fs-v21",
+      "display_string": "6x weekly",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "q1-2",
+      "display_string": "q1-2h",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "q9",
+      "display_string": "q9h",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "gluco1/2",
+      "display_string": "cond",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "lmev10;lmev12;lmev17;lmev21;lmv9;mjs17;mjs21;mjs9;lmev9;mmej9;dvs9",
+      "display_string": "3x weekly",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "induc",
+      "display_string": "1x",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "insmi",
+      "display_string": "die",
+      "fhir_code": "QD",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/GTSAbbreviation/cs.html",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "tqp",
+      "display_string": "cond",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "directiv",
+      "display_string": "cond",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "q6",
+      "display_string": "q6h",
+      "fhir_code": "Q6H",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/GTSAbbreviation/cs.html",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "bid",
+      "display_string": "bid",
+      "fhir_code": "BID",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/GTSAbbreviation/cs.html",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "q14",
+      "display_string": "q14h",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "perf",
+      "display_string": "perf",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "q24",
+      "display_string": "q24h",
+      "fhir_code": "QD",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/GTSAbbreviation/cs.html",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "lmmejv10;lmmejv9;lmmevs9;lmejvs9;dljvs9",
+      "display_string": "5x weekly",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "epidb",
+      "display_string": "cond",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "q2",
+      "display_string": "q2h",
+      "fhir_code": "Q2H",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/GTSAbbreviation/cs.html",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "j10;j21;j6;j7;j9",
+      "display_string": "1x weekly",
+      "fhir_code": "WK",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/GTSAbbreviation/cs.html",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "s10;s21;s6;s7;s9",
+      "display_string": "1x weekly",
+      "fhir_code": "WK",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/GTSAbbreviation/cs.html",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "lj10;lj21;lj9;lme21;lme9;lv21;lv9;mes9;mev9;mj21;mj9;ms9;mv10;mv9;mme9;dme9;ds19",
+      "display_string": "2x weekly",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "induc0",
+      "display_string": "1x",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "q7",
+      "display_string": "q7h",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "q13",
+      "display_string": "q13h",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "me10;me21;me6;me7;me9",
+      "display_string": "1x weekly",
+      "fhir_code": "WK",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/GTSAbbreviation/cs.html",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "q17",
+      "display_string": "q17h",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "cejour",
+      "display_string": "1x",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "q5min",
+      "display_string": "q5min",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "q16",
+      "display_string": "q16h",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "pnuit",
+      "display_string": "die",
+      "fhir_code": "QD",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/GTSAbbreviation/cs.html",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "q15min",
+      "display_string": "q15min",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "q1-4",
+      "display_string": "q1-4h",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "6fj6-21",
+      "display_string": "6x daily",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "m10;m17;m21;m6;m7;m9],1x weekly\"",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "6fj6-21",
+      "display_string": "6x daily",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "tqpp",
+      "display_string": "cond",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "die",
+      "display_string": "die",
+      "fhir_code": "QD",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/GTSAbbreviation/cs.html",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "3-4fpjp",
+      "display_string": "tid-qid",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "q2-3",
+      "display_string": "q2-3h",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "prot",
+      "display_string": "cond",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "postculo",
+      "display_string": "cond",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "6fj8-22",
+      "display_string": "6x daily",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "2-4fpjp",
+      "display_string": "bid-qid",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "insampm",
+      "display_string": "bid",
+      "fhir_code": "BID",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/GTSAbbreviation/cs.html",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "q8",
+      "display_string": "q8h",
+      "fhir_code": "Q8H",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/GTSAbbreviation/cs.html",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "v10;v21;v6;v7;v9:  urn \"1x weekly\"",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "q2j",
+      "display_string": "q2j",
+      "fhir_code": "QOD",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/GTSAbbreviation/cs.html",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "qid",
+      "display_string": "qid",
+      "fhir_code": "QID",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/GTSAbbreviation/cs.html",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "l10;l19;l21;l6;l7;l9",
+      "display_string": "1x weekly",
+      "fhir_code": "WK",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/GTSAbbreviation/cs.html",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "culots",
+      "display_string": "cond",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "q3",
+      "display_string": "q3h",
+      "fhir_code": "Q3H",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/GTSAbbreviation/cs.html",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "tid",
+      "display_string": "tid",
+      "fhir_code": "TID",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/GTSAbbreviation/cs.html",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "q3j",
+      "display_string": "q3j",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "ins820",
+      "display_string": "bid",
+      "fhir_code": "BID",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/GTSAbbreviation/cs.html",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "q4-6",
+      "display_string": "q4-6h",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "prechim",
+      "display_string": "cond",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "appel",
+      "display_string": "1x",
+      "site": "CHUM"
+    }
+  ],
+  "cultureName": [
+    {
+      "raw_string_lower": "culture virale",
+      "site": "CHUM",
+      "display_string": "viral_culture"
+    },
+    {
+      "raw_string_lower": "culture bact.",
+      "site": "CHUM",
+      "display_string": "bacterial_culture"
+    },
+    {
+      "raw_string_lower": "myco/f lytic",
+      "site": "CHUM",
+      "display_string": "mycobacterial_fungal_culture"
+    }
+  ],
+  "pcrSite": [],
+  "drugName": [
+    {
+      "raw_string_lower": "indacaterol caps.inh 75 mcg *ensaposs*",
+      "display_string": "indacaterol",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "lenalidomide caps 25 mg *ensaposs*",
+      "display_string": "lenalidomide",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "tiotropium inh   *ensaposs*",
+      "display_string": "tiotropium",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "bupivacaine 0,1% dans nacl 0,9%",
+      "display_string": "bupivacaine 0.1%",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "viread (tenofovir disoproxil)",
+      "display_string": "tenofovir disoproxil",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "doxycycline (p.a.s.)",
+      "display_string": "doxycyline",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "cyclosporine *neoral*",
+      "display_string": "cyclosporine",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "methylprednisolone *solu-medrol*",
+      "display_string": "methylprednisolone",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "filgrastim ** grastofil **",
+      "display_string": "filgrastim",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "mycophenolate sodique *myfortic*",
+      "display_string": "mycophenolate sodium",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "tiotropium caps.inh 18 mcg  *ensaposs*",
+      "display_string": "tiotropium",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "pyridoxine (vitamine b6)",
+      "display_string": "vitamin b6",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "foscarnet (p.a.s.)",
+      "display_string": "foscarnet",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "bupivacaine 0,1%+fentanyl 2 mcg/ml dans nacl 0,9%",
+      "display_string": "bupivacaine 0.1% + fentanyl 2 mcg/ml",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "acide acetylsalicylique",
+      "display_string": "aspirin",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "mofetil mycophenolate *cellcept*",
+      "display_string": "mycophenolate mofetil",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "nicardipine (p.a.s)",
+      "display_string": "nicardipine",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "glycopyrronium bromure",
+      "display_string": "glycopyrronium bromide",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "fer gluconate *ferrlecit*",
+      "display_string": "fer gluconate",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "filgrastim ** neupogen **",
+      "display_string": "filgrastim",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "rifampine (p.a.s.)",
+      "display_string": "rifampin",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "formoterol inh 12 mcg/inh *ensaposs*",
+      "display_string": "formoterol",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "lipides (intralipid)",
+      "display_string": "lipid injectable emulsion",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "lenalidomide caps 5 mg *ensaposs*",
+      "display_string": "lenalidomide",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "novorapid (aspart)",
+      "display_string": "insulin aspart",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "phenylephrine inj 50 mcg/ml (seringue)",
+      "display_string": "phenylephrine",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "zoledronique acide (aclasta)",
+      "display_string": "zoledronic acid",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "tresiba (degludec)",
+      "display_string": "insulin degludec",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "nitroprussiate ** nipride **",
+      "display_string": "nitroprussiate",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "indacaterol inh *ensaposs*",
+      "display_string": "indacaterol",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "methylprednisolone *depo-medrol*",
+      "display_string": "methylprednisolone",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "apidra (glulisine)",
+      "display_string": "insulin glulisine",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "cholecalciferol (vitamine d3)",
+      "display_string": "vitamin d3",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "bupivacaine 0,0625%+fentanyl 2 mcg/ml dans nacl 0,9%",
+      "display_string": "bupivacaine 0.0625% + fentanyl 2 mcg/ml",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "toujeo (glargine)",
+      "display_string": "insulin glargine",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "humalog mix 25 (lispro+lispro-protamine)",
+      "display_string": "insulin lispro/lispro-protamine",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "etomidate (p.a.s.)",
+      "display_string": "etomidate",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "ergocalciferol (vitamine d)",
+      "display_string": "vitamin d",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "lantus (glargine)",
+      "display_string": "insulin glargine",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "sodium chlorure 0,9% sans pvc",
+      "display_string": "sodium chloride 0.9%",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "salmeterol/fluticasone inh 25+125 mcg/inh *en",
+      "display_string": "salmeterol/fluticasone",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "hydrocortisone *solu-cortef*",
+      "display_string": "hydrocortisone",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "clevidipine (p.a.s)",
+      "display_string": "clevidipine",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "lipides (smoflipid)",
+      "display_string": "lipid injectable emulsion",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "folinique acide (leucovorin)",
+      "display_string": "folinic acid",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "salbutamol inh 100 mcg/dose *ensaposs*",
+      "display_string": "salbutamol",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "midazolam inj 1 mg/ml (100 ml)",
+      "display_string": "midazolam",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "glycopyrronium bromure caps.inh 50 mcg   *ens",
+      "display_string": "glycopyrronium bromide",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "humalog (lispro)",
+      "display_string": "insulin lispro",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "oligo-elements (cr/cu/ma/zn/se/i)",
+      "display_string": "oligo-elements",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "atgam 0,05 mg/ml (5 ml)",
+      "display_string": "anti-thymocyte globulin",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "bupivacaine 0,0625% dans nacl 0,9%",
+      "display_string": "bupivacaine 0,0625%",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "dextrose 5% sans pvc",
+      "display_string": "dextrose 5%",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "stalevo 75/18,75/200 mg",
+      "display_string": "levodopa/carbidopa/entacapone 75/18.75/200 mg",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "ascorbique acide (vit. c)",
+      "display_string": "vitamin c",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "tocopheryle  (vit e)",
+      "display_string": "vitamin e",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "levemir (detemir)",
+      "display_string": "insulin detemir",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "norepinephrine inj 8mg/ns minisac (258ml) *si",
+      "display_string": "norepinephrine",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "clotrimazole 0,5%/hydrocortisone 0,5%",
+      "display_string": "clotrimazole 0.5%/hydrocortisone 0.5%",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "morphine ds nacl 0.9% (acp)",
+      "display_string": "morphine",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "sevelamer carbonate pd.orale 0.8g sachets **",
+      "display_string": "sevelamer carbonate",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "infliximab ** inflectra **",
+      "display_string": "infliximab",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "bupivacaine 0,125% dans nacl 0,9%",
+      "display_string": "bupivacaine 0.125%",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "infliximab ** remicade **",
+      "display_string": "infliximab",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "basaglar (glargine)",
+      "display_string": "insulin glargine",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "novomix (aspart+aspart-protamine)",
+      "display_string": "insulin aspart/aspart-protamine",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "tuberculine derivee (ppd)",
+      "display_string": "tuberculin",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "formoterol/mometasone inh 5+200mcg/inh*zenhal",
+      "display_string": "formoterol/mometasone",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "#lopinavir+ritonavir co 200+50 mg",
+      "display_string": "lopinavir/ritonavir",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "zoledronate (zometa)",
+      "display_string": "zoledronate",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "phytonadione (vit k)",
+      "display_string": "vitamin k",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "thiamine (vit b1)",
+      "display_string": "vitamin b1",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "prasugrel (p.a.s.)",
+      "display_string": "prasugrel",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "sodium chlorure 0,9%",
+      "display_string": "sodium chloride 0.9%",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "vemlidy (tenofovir alafenamide)",
+      "display_string": "tenofovir alafenamide",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "#lopinavir+ritonavir co 80+20 mg/ml (160 ml",
+      "display_string": "lopinavir+ritonavir",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "dextromethorphane (sans sucre)",
+      "display_string": "dextromethorphan",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "amphetamines (sels mixtes)",
+      "display_string": "amphetamines (mixed salts)",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "stalevo 150/37,5/200 mg",
+      "display_string": "levodopa/carbidopa/entacapone 150/37.5/200 mg",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "hydromorphone ds nacl 0.9% (acp)",
+      "display_string": "hydromorphone",
+      "site": "CHUM"
+    }
+  ],
+  "pcrResultStatus": [
+    {
+      "raw_string_lower": "rapp. numérisé",
+      "result_display_string": "n/a",
+      "status_display_string": "resulted",
+      "result_snomed_code": "82334004",
+      "status_fhir_code": "unknown",
+      "fhir_reference_url": "https://www.hl7.org/fhir/valueset-observation-status.html",
+      "site": "CHUM",
+      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/82334004"
+    },
+    {
+      "raw_string_lower": "non détecté",
+      "result_display_string": "negative",
+      "status_display_string": "resulted",
+      "result_snomed_code": "260385009",
+      "status_fhir_code": "final",
+      "fhir_reference_url": "https://www.hl7.org/fhir/valueset-observation-status.html",
+      "site": "CHUM",
+      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/260385009"
+    },
+    {
+      "raw_string_lower": "non valide",
+      "result_display_string": "n/a",
+      "status_display_string": "cancelled",
+      "result_snomed_code": "82334004",
+      "status_fhir_code": "cancelled",
+      "fhir_reference_url": "https://www.hl7.org/fhir/valueset-observation-status.html",
+      "site": "CHUM",
+      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/82334004"
+    },
+    {
+      "raw_string_lower": "annulé",
+      "result_display_string": "n/a",
+      "status_display_string": "cancelled",
+      "result_snomed_code": "82334004",
+      "status_fhir_code": "cancelled",
+      "fhir_reference_url": "https://www.hl7.org/fhir/valueset-observation-status.html",
+      "site": "CHUM",
+      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/82334004"
+    },
+    {
+      "raw_string_lower": "test annulé",
+      "result_display_string": "n/a",
+      "status_display_string": "cancelled",
+      "result_snomed_code": "82334004",
+      "status_fhir_code": "cancelled",
+      "fhir_reference_url": "https://www.hl7.org/fhir/valueset-observation-status.html",
+      "site": "CHUM",
+      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/82334004"
+    },
+    {
+      "raw_string_lower": "négatif",
+      "result_display_string": "negative",
+      "status_display_string": "resulted",
+      "result_snomed_code": "260385009",
+      "status_fhir_code": "final",
+      "fhir_reference_url": "https://www.hl7.org/fhir/valueset-observation-status.html",
+      "site": "CHUM",
+      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/260385009"
+    },
+    {
+      "raw_string_lower": "positif",
+      "result_display_string": "positive",
+      "status_display_string": "resulted",
+      "result_snomed_code": "10828004",
+      "status_fhir_code": "final",
+      "fhir_reference_url": "https://www.hl7.org/fhir/valueset-observation-status.html",
+      "site": "CHUM",
+      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/10828004"
+    },
+    {
+      "raw_string_lower": "en attente",
+      "result_display_string": "n/a",
+      "status_display_string": "pending",
+      "result_snomed_code": "82334004",
+      "status_fhir_code": "registered",
+      "fhir_reference_url": "https://www.hl7.org/fhir/valueset-observation-status.html",
+      "site": "CHUM",
+      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/82334004"
+    }
+  ],
+  "labName": [
+    {
+      "raw_string_lower": "anti-transglutaminase (iga)",
+      "display_string": "anti_transglutaminase",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "normétan. 24 h",
+      "display_string": "normetanephrine_24h",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "éthanol",
+      "display_string": "ethanol",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "b2 microglob.",
+      "display_string": "beta2_microglobulin",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "décompte cell.tot. lba",
+      "display_string": "cell_count",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "métanéphrine",
+      "display_string": "metanephrine",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "digoxine",
+      "display_string": "digoxin",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "sm",
+      "display_string": "sm",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "albumine, liq.",
+      "display_string": "albumin",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "protéines urine",
+      "display_string": "total_protein",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "6pgd quantit.",
+      "display_string": "g6pd_quantitative",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "po2 vein ecmo",
+      "display_string": "po2",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "cryoglobuline",
+      "display_string": "cryoglobulin",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "tobra post dose",
+      "display_string": "tobramycin_post_dose",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "pic mono. 1 %",
+      "display_string": "monoclonal_peak_percent",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "carboxyhb vein",
+      "display_string": "carboxyhemoglobin",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "haptoglobine, élec.",
+      "display_string": "haptoglobin",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "épinéphrine",
+      "display_string": "epinephrine",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "c3",
+      "display_string": "c3",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "magnésium",
+      "display_string": "magnesium",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "gl.blancs l.ple",
+      "display_string": "white_blood_cell_count",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "oxycodone qual. (mict.)",
+      "display_string": "oxycodone",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "d-dimère",
+      "display_string": "d_dimer",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "myélocyte # (man)",
+      "display_string": "myelocyte_count",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "créatinine, liq.",
+      "display_string": "creatinine",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "iga",
+      "display_string": "iga",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "albumine, urine",
+      "display_string": "albumin",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "anti-thyroglobuline (sér.)",
+      "display_string": "anti_thyroglobulin",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "m3_asper.fumig.",
+      "display_string": "aspergillus_antibodies",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "acétaminophène",
+      "display_string": "acetaminophen",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "protéines (lcr)",
+      "display_string": "total_protein",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "acide lac.art. ser.",
+      "display_string": "lactic_acid",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "anti-microsomiaux (anti-tpo)",
+      "display_string": "anti_tpo)",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "sodium",
+      "display_string": "sodium",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "transthyrétine",
+      "display_string": "transthyretin",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "igg",
+      "display_string": "igg",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "amylase, liq.",
+      "display_string": "amylase",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "phosphore, mict.",
+      "display_string": "phosphate",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "phénytoïne",
+      "display_string": "phenytoin",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "hb semi-quantitatif",
+      "display_string": "hemoglobin_semiquant",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "ld, liq.",
+      "display_string": "lactate_dehydrogenase",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "staclot-la: buffer",
+      "display_string": "staclot_la_buffer",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "a-1-antitryps. %",
+      "display_string": "alpha1_antitrypsin_percent",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "hco3 actuel (v)",
+      "display_string": "bicarbonate",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "blaste # (man)",
+      "display_string": "blast_count",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "procalcitonine",
+      "display_string": "procalcitonin",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "ca 15-3",
+      "display_string": "cancer_antigen_15_3",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "fructo/prot",
+      "display_string": "fructosamine_prot",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "rvvt confirme",
+      "display_string": "rvvt_confirmation",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "transferrine %",
+      "display_string": "transferrine_saturation",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "vanco post dose",
+      "display_string": "vancomycin_post_dose",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "enz.conversion",
+      "display_string": "angiotensin_converting_enzyme",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "ca 19-9",
+      "display_string": "cancer_antigen_19_9",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "facteur vii",
+      "display_string": "factor_vii",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "cd16+56 absolu",
+      "display_string": "cd16_56_count",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "anti héparine",
+      "display_string": "anti_heparin",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "gamma glob. %",
+      "display_string": "gamma_globulin_percent",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "urée",
+      "display_string": "urea",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "éthanol (p)",
+      "display_string": "ethanol",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "hsv-1 index",
+      "display_string": "anti_hsv1_igg",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "c3/iga %",
+      "display_string": "c3/iga %",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "prolactine",
+      "display_string": "prolactin",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "sat o2 art ecmo",
+      "display_string": "o2_sat",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "mono #",
+      "display_string": "monocyte_count",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "hco3 art ecmo",
+      "display_string": "bicarbonate",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "carboxyhb art",
+      "display_string": "carboxyhemoglobin",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "arn-hcv/copies",
+      "display_string": "hcv_rna",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "triglycérides",
+      "display_string": "triglycerides",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "métamyélocyte # (man)",
+      "display_string": "metamyelocyte_count",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "f.rhumatoïde",
+      "display_string": "rheumatoid_factor",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "lactate sg tot",
+      "display_string": "total_lactate",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "lipase.",
+      "display_string": "lipase",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "sat o2 art",
+      "display_string": "o2_sat",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "gl.blancs l.bio",
+      "display_string": "white_blood_cell_count",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "ethyl glucuron.",
+      "display_string": "ethyl_glucuronide",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "stab # (man)",
+      "display_string": "stab_count",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "vgm",
+      "display_string": "mean_corpuscular_volume",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "hbs ag quantitatif",
+      "display_string": "hbv_sag",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "pth intacte",
+      "display_string": "intact_pth",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "ggt",
+      "display_string": "gamma_glutamyl_transferase",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "ebv-vca igm ind",
+      "display_string": "anti_ebv_vca_igm",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "créatinine urine",
+      "display_string": "creatinine",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "dopamine",
+      "display_string": "dopamine",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "cd3 absolu",
+      "display_string": "cd3_count",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "a.lactique (rés.prélim.)",
+      "display_string": "lactic_acid_prelim",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "anti dna unité",
+      "display_string": "anti_dna",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "anticardio.igg",
+      "display_string": "anticardiolipin_igg",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "staclot-la: phospho",
+      "display_string": "staclot_la_phospho",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "lamotrigine",
+      "display_string": "lamotrigine",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "gl.blancs lcr",
+      "display_string": "white_blood_cell_count",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "scl70",
+      "display_string": "anti_scl70_igg",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "rétic#",
+      "display_string": "reticulocyte_count",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "memb. basale glom.",
+      "display_string": "anti_gbm_igg",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "shbg",
+      "display_string": "sex_hormone_binding_globulin",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "pco2 veineux tc",
+      "display_string": "pco2",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "cortisol (s)",
+      "display_string": "cortisol",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "nt pro-bnp",
+      "display_string": "nt_pro_bnp",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "norépiné. 24 h",
+      "display_string": "norepinephrine_24h",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "salicylates",
+      "display_string": "salicylates",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "fructosamine",
+      "display_string": "fructosamine",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "arn vih-1/log",
+      "display_string": "hiv1_rna_log",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "rvvt 1:1",
+      "display_string": "rvvt_11",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "glucose ac",
+      "display_string": "glucose",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "acides biliaires",
+      "display_string": "biliary_acids",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "pic mono. 1",
+      "display_string": "monoclonal_peak",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "anti-récep.tsh",
+      "display_string": "anti_tshr",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "fibrinogène imm.",
+      "display_string": "fibrinogen",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "rnp",
+      "display_string": "anti_rnp_igg",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "a1 antitrypsine",
+      "display_string": "alpha_1_antitrypsin",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "fibrinogène",
+      "display_string": "fibrinogen",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "osmolalité urine",
+      "display_string": "osmolality",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "k seringue",
+      "display_string": "potassium",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "créatinine,mict.",
+      "display_string": "creatinine",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "ca ionisé act.",
+      "display_string": "ionized_calcium",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "bilirubine dir.",
+      "display_string": "direct_bilirubin",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "albumine, élec.",
+      "display_string": "albumin",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "norépinéphrine",
+      "display_string": "norepinephrine",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "excès base art ecmo",
+      "display_string": "base_excess",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "ca ion.(ph:7.4).",
+      "display_string": "ionized_calcium_ph74",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "rénine",
+      "display_string": "renin",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "mono-macro lba",
+      "display_string": "mono_macro_count",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "ac. valproïque",
+      "display_string": "valproic_acid",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "neutro #",
+      "display_string": "neutrophil_count",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "lympho #",
+      "display_string": "lymphocyte_count",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "excès base vein ecmo",
+      "display_string": "base_excess",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "toxo igm(index)",
+      "display_string": "anti_toxoplasma_igm",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "gl.rou.l.asc",
+      "display_string": "red_blood_cell_count",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "calcitonine",
+      "display_string": "calcitonin",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "% éosino.urin.",
+      "display_string": "urinary_eosinophil_percent",
+      "loinc_code": "12210-1",
+      "site": "CHUM",
+      "loinc_url_computed": "https://loinc.org/12210-1"
+    },
+    {
+      "raw_string_lower": "dopamine 24 h",
+      "display_string": "dopamine_24h",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "rubéole igg val",
+      "display_string": "anti_rubella_igg",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "créatinine 24 h",
+      "display_string": "creatinine",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "gl.rou. l.bio",
+      "display_string": "red_blood_cell_count",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "thyroglobuline",
+      "display_string": "thyroglobulin",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "ac fac.intrins.",
+      "display_string": "anti_intrinsic_factor",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "ssb",
+      "display_string": "anti_ssb",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "normétanéphrine",
+      "display_string": "normetanephrine",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "po2 tc",
+      "display_string": "po2",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "tsh",
+      "display_string": "thyroid_stimulating_hormone",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "vitamine a",
+      "display_string": "vitamin_a",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "cholestérol",
+      "display_string": "cholesterol",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "cmv (charge virale)",
+      "display_string": "cmv_rna",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "facteur v",
+      "display_string": "factor_v",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "hdl-cholestérol",
+      "display_string": "hdl_cholesterol",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "ostéocalcine",
+      "display_string": "osteocalcin",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "amylase, mict.",
+      "display_string": "amylase",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "glucose adbd",
+      "display_string": "glucose",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "anti-hbs unités",
+      "display_string": "anti_hbs",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "fer sérique",
+      "display_string": "serum_iron",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "cyclos. pré-dose",
+      "display_string": "cyclosporin_pre_dose",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "chlorure, mict.",
+      "display_string": "chloride",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "albumine-u mict.",
+      "display_string": "albumin",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "protéines tot.mict.",
+      "display_string": "total_protein",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "ammoniac",
+      "display_string": "ammonia",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "gl.rou. l.périt",
+      "display_string": "red_blood_cell_count",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "métan. 24 h",
+      "display_string": "metanephrine_24h",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "glucose, liq.",
+      "display_string": "glucose",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "gl.blancs l.asc",
+      "display_string": "white_blood_cell_count",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "vanco pré dose",
+      "display_string": "vancomycin_pre_dose",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "indice alb/créa",
+      "display_string": "albumin_creatinine_ratio",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "ckmb masse",
+      "display_string": "ck_mb",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "a2-macroglob. %",
+      "display_string": "alpha2_macroglobulin_percent",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "haptoglobine %",
+      "display_string": "haptoglobin_percent",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "cd8 absolu",
+      "display_string": "cd8_count",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "aldostérone sér.",
+      "display_string": "aldosterone",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "po2 art ecmo",
+      "display_string": "po2",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "testostérone t",
+      "display_string": "total_testosterone",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "ld",
+      "display_string": "lactate_dehydrogenase",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "facteur ii",
+      "display_string": "factor_ii",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "antigène prost.",
+      "display_string": "prostate_specific_antigen",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "cgmh",
+      "display_string": "mean_corpuscular_hemoglobin_concentration",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "1-25(oh)2-vit.d",
+      "display_string": "1_25_oh_vitamin_d",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "hsv-2 index",
+      "display_string": "anti_hsv2_igg",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "cyclo.2 h post-d",
+      "display_string": "cyclosporin_2h_post_dose",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "protéines totales",
+      "display_string": "total_protein",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "neutro % lba",
+      "display_string": "neutrophil_count",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "c4",
+      "display_string": "c4",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "phosphatase alc.",
+      "display_string": "alkaline_phosphatase",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "chlorure",
+      "display_string": "chloride",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "vancomycine",
+      "display_string": "vancomycin",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "excès de base",
+      "display_string": "base_excess",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "bilirubine tot.",
+      "display_string": "total_bilirubin",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "pco2 tc",
+      "display_string": "pco2",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "mono # (man)",
+      "display_string": "monocyte_count",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "transferrine, élec.",
+      "display_string": "transferrin",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "normétanéphrine libre",
+      "display_string": "free_normetanephrine",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "arn-hcv/log",
+      "display_string": "hcv_rna_log",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "lithium",
+      "display_string": "lithium",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "excès de base (v)",
+      "display_string": "base_excess",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "t.céph.(1:1)",
+      "display_string": "partial_thromboplastin_time_11",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "prot u/créat u",
+      "display_string": "protein_creatinine_ratio",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "t4 libre",
+      "display_string": "free_t4",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "gb",
+      "display_string": "white_blood_cell_count",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "non-hdl cholest",
+      "display_string": "non_hdl_cholesterol",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "na seringue",
+      "display_string": "sodium",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "pco2 vein ecmo",
+      "display_string": "pco2",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "k, selles",
+      "display_string": "potassium",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "transferrine",
+      "display_string": "transferrin",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "a-1-glycoprot. %",
+      "display_string": "alpha1_glycoprotein_percent",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "protéine c réac.",
+      "display_string": "c_reactive_protein",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "phénobarbital",
+      "display_string": "phenobarbital",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "osm.calc.selles",
+      "display_string": "osmolality",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "tgmh",
+      "display_string": "mean_corpuscular_hemoglobin",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "t.thrombine",
+      "display_string": "thrombin_time",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "vitamine b12",
+      "display_string": "vitamin_b12",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "neutro # (man)",
+      "display_string": "neutrophil_count",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "baso # (man)",
+      "display_string": "basophil_count",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "facteur ix",
+      "display_string": "factor_ix",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "ebna1 igg index",
+      "display_string": "anti_ebna1_igg",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "glucose (lcr)",
+      "display_string": "glucose",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "vitamine e",
+      "display_string": "vitamin_e",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "cd19 absolu",
+      "display_string": "cd19_count",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "cl seringue",
+      "display_string": "chloride",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "prot.s libre ag",
+      "display_string": "free_prostate_specific_antigen",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "act. anti-xa rivaro.",
+      "display_string": "anti_xa_rivaro_activity",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "ck (au)",
+      "display_string": "creatine_kinase",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "glucose",
+      "display_string": "glucose",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "act.anti-xa hép.std",
+      "display_string": "anti_xa",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "anticardio.igm",
+      "display_string": "anticardiolipin_igm",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "calcium, mict.",
+      "display_string": "calcium",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "magnésium, mict",
+      "display_string": "magnesium",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "a1-antitrypsine, élec",
+      "display_string": "alpha1_antitrypsin",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "rvvt dépistage",
+      "display_string": "rvvt_screen",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "ac.anti thyroglobuline",
+      "display_string": "anti_thyroglobulin",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "urée, mict.",
+      "display_string": "urea",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "lambda libre",
+      "display_string": "free_lambda",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "c-anca pr3 val.",
+      "display_string": "c_anca_pr3",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "hb",
+      "display_string": "hemoglobin",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "bilirubine ind.",
+      "display_string": "indirect_bilirubin",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "b2-glycopro.igg",
+      "display_string": "beta2_glycoprotein",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "c télopeptide s",
+      "display_string": "c_telopeptide",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "hb plasmat. dosage",
+      "display_string": "plasma_hemoglobin",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "g6pd quantit.",
+      "display_string": "g6pd_quantitative",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "cmv igm index",
+      "display_string": "cmv_igm",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "anti-hcv s/co",
+      "display_string": "anti_hcv",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "ca 125",
+      "display_string": "cancer_antigen_125",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "peptide-c",
+      "display_string": "c_peptide",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "t.céphaline sec",
+      "display_string": "partial_thromboplastin_time",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "gr",
+      "display_string": "red_blood_cell_count",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "acide lactique",
+      "display_string": "lactic_acid",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "osmolalité calculée",
+      "display_string": "osmolality",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "baso #",
+      "display_string": "basophil_count",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "bilirubine directe, liquide",
+      "display_string": "direct_bilirubin",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "promyélocyte # (man)",
+      "display_string": "promyelocyte_count",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "calcium total",
+      "display_string": "total_calcium",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "gl.bl l.périt",
+      "display_string": "white_blood_cell_count",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "chlorure, liq.",
+      "display_string": "chloride",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "chlorure (lcr)",
+      "display_string": "chloride",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "éosino # (man)",
+      "display_string": "manual_eosinophil_count",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "co2 total",
+      "display_string": "bicarbonate",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "facteur viii",
+      "display_string": "factor_viii",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "gap anion.",
+      "display_string": "anion_gap",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "toxoplasma igg",
+      "display_string": "anti_toxoplasma_igg",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "potassium, mict.",
+      "display_string": "potassium",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "homocystéine",
+      "display_string": "homocysteine",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "anticorps anti-gad",
+      "display_string": "anti_gad",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "cenp-b",
+      "display_string": "cenp_b",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "albumine-u 24 h",
+      "display_string": "albumin",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "ptt-la (1:1)",
+      "display_string": "ptt_lupus_anticoagulant_11",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "triglycérides, liq.",
+      "display_string": "triglycerides",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "ige",
+      "display_string": "ige",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "hb l.bio",
+      "display_string": "hemoglobin",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "t3 libre",
+      "display_string": "free_t3",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "lympho % lba",
+      "display_string": "lymphocyte_count",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "globulines",
+      "display_string": "globulins",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "hco3 actuel",
+      "display_string": "bicarbonate",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "25(oh)-vit. d",
+      "display_string": "25_oh_vitamin_d",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "ptt-la",
+      "display_string": "ptt_lupus_anticoagulant",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "éosino lba %",
+      "display_string": "eosinophil_percent",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "éosino #",
+      "display_string": "eosinophil_count",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "hco3 vein ecmo",
+      "display_string": "bicarbonate",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "métanéphrine libre",
+      "display_string": "free_metanephrine",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "acth",
+      "display_string": "adrenocorticotropic_hormone",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "méthémoglob art",
+      "display_string": "methemoglobin",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "benzo. (urine)*",
+      "display_string": "benzodiazepines",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "a2-macroglob., élec",
+      "display_string": "alpha2_macroglobulin",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "troponine-t hs",
+      "display_string": "hs_troponin_t",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "pco2 art ecmo",
+      "display_string": "pco2",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "acide urique",
+      "display_string": "uric_acid",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "igm",
+      "display_string": "igm",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "b-hcg résultat prélim.",
+      "display_string": "beta_hcg",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "gamma globuline, élec",
+      "display_string": "gamma_globulin",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "ferritine",
+      "display_string": "ferritin",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "potassium",
+      "display_string": "potassium",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "épinéphrine 24h",
+      "display_string": "epinephrine_24h",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "méthémoglob vein",
+      "display_string": "methemoglobin",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "ast",
+      "display_string": "aspartate_aminotransferase",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "dhea-so4",
+      "display_string": "dhea_so4",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "créatinine",
+      "display_string": "creatinine",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "gl.rou. lcr",
+      "display_string": "red_blood_cell_count",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "sodium veineux",
+      "display_string": "sodium",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "tropt hs sous réserve",
+      "display_string": "hs_troponin_t",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "tacrolimus",
+      "display_string": "tacrolimus",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "lympho # (man)",
+      "display_string": "lymphocyte_count",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "act. anti-xa bpm",
+      "display_string": "anti_xa_bpm_activity",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "albumine %",
+      "display_string": "albumin_percent",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "bilirubine, liq.",
+      "display_string": "total_bilirubin",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "nb cellules/ml",
+      "display_string": "total_cell_count",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "alt",
+      "display_string": "alanine_aminotransferase",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "fsh",
+      "display_string": "follicle_stimulating_hormone",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "anti-ccp igg",
+      "display_string": "anti_ccp_igg",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "phosphore",
+      "display_string": "phosphate",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "sat o2 vein",
+      "display_string": "o2_sat",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "vs",
+      "display_string": "erythrocyte_sedimentation_rate",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "protéines, liq.",
+      "display_string": "total_protein",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "albumine",
+      "display_string": "albumin",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "plt",
+      "display_string": "platelet_count",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "protéines 24 h",
+      "display_string": "total_protein",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "acide folique",
+      "display_string": "folic_acid",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "sodium, mict.",
+      "display_string": "sodium",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "plt sur lame",
+      "display_string": "manual_platelet_count",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "chlorure veineux",
+      "display_string": "chloride",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "hbv dna",
+      "display_string": "hbv_dna",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "carbamazépine",
+      "display_string": "carbamazepine",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "sat o2 vein ecmo",
+      "display_string": "o2_sat",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "a.foetoprotéine",
+      "display_string": "alpha_fetoprotein",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "kappa libre",
+      "display_string": "free_kappa",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "lh",
+      "display_string": "luteinizing_hormone",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "benzo. totales*",
+      "display_string": "benzodiazepines",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "ldl-c (calc)",
+      "display_string": "ldl_cholesterol",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "ssa",
+      "display_string": "anti_ssa",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "arn vih-1",
+      "display_string": "hiv1_rna",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "éthanol (ur)",
+      "display_string": "ethanol",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "po2 veineux tc",
+      "display_string": "po2",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "varicelle igg index",
+      "display_string": "anti_vzv_igg",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "atiii fonc.",
+      "display_string": "antithrombin_iii",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "sodium, selles",
+      "display_string": "sodium",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "p-anca mpo val.",
+      "display_string": "p_anca_mpo",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "parvo b19 igg index",
+      "display_string": "anti_parvo_b19_igg",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "calcium total corrigé",
+      "display_string": "corrected_total_calcium",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "vpm",
+      "display_string": "mean_platelet_volume",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "ag carcino emb.",
+      "display_string": "carcinoembryonic_antigen",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "haptoglobine",
+      "display_string": "haptoglobin",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "potassium veineux",
+      "display_string": "potassium",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "b-hcg (quant.)",
+      "display_string": "beta_hcg",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "a-1-glycoprot., élec",
+      "display_string": "alpha1_glycoprotein",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "cmv igg unités",
+      "display_string": "cmv_igg",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "voriconazole",
+      "display_string": "voriconazole",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "anti jo-1",
+      "display_string": "anti_jo1",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "cd4 absolu",
+      "display_string": "cd4_count",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "céruloplasmine",
+      "display_string": "ceruloplasmin",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "c3/iga",
+      "display_string": "c3/iga",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "gl.rou. l.ple",
+      "display_string": "red_blood_cell_count",
+      "site": "CHUM"
+    },
+    {
+      "raw_string_lower": "osmo. (plasma)",
+      "display_string": "osmolality",
+      "site": "CHUM"
+    }
+  ]
+}
