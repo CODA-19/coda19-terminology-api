@@ -1,11 +1,13 @@
 const fs = require('fs')
 const GSR = require('google-search-results-nodejs')
-
-SERPAPI_KEY = 'ADD KEY HERE'
+const tokenizer = require('sbd')
+const rp = require('request-promise')
+const $ = require('cheerio')
+const { execSync } = require('child_process')
 
 async function searchApi(query) {
   
-  const client = new GSR.GoogleSearchResults(SERPAPI_KEY)
+  const client = new GSR.GoogleSearchResults('46f06a883a5026bcd722df355da6d0180a14305ec383e3a9e747f4e202e46bbc')
 
   const params = {
     engine: 'google',
@@ -30,10 +32,9 @@ async function search(query) {
         'Empty showing fixed spelling results') {
       return []
     }
-    return results.organic_results
+    return results.organic_results || []
   } catch (err) {
-    console.log(err)
-    return {}
+    return []
   }
 }
 
@@ -43,15 +44,7 @@ async function main(inFile, outFile) {
   
   for (let loincElement of loincElements) {
       
-    let bodySite
-      
-    if (loincElement.includes('mict') || loincElement.includes('urin')) {
-      bodySite = 'urine'
-    } else {
-      bodySite = 'blood'
-    }
-    
-    let results = await search(`${loincElement} ${bodySite} site: https://loinc.org`)
+    let results = await search(`${loincElement} site: https://loinc.org`)
     
     let url
     let title
@@ -75,4 +68,4 @@ async function main(inFile, outFile) {
   
 }
 
-main('./lab_names.json', './labs_mapped.csv')
+main('./imaging_names.json', './imaging_mapped.csv')
