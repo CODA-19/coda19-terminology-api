@@ -51,7 +51,7 @@ async function main(inFile, outFile) {
       bodySite = 'blood'
     }
     
-    let results = await search(`${loincElement} ${bodySite} site: https://loinc.org`)
+    let results = await search(`${loincElement} ${bodySite} site:https://loinc.org`)
     
     let url
     let title

@@ -1,13 +1,11 @@
 const fs = require('fs')
 const GSR = require('google-search-results-nodejs')
-const tokenizer = require('sbd')
-const rp = require('request-promise')
-const $ = require('cheerio')
-const { execSync } = require('child_process')
+
+SERPAPI_KEY = 'ADD KEY HERE'
 
 async function searchApi(query) {
   
-  const client = new GSR.GoogleSearchResults('46f06a883a5026bcd722df355da6d0180a14305ec383e3a9e747f4e202e46bbc')
+  const client = new GSR.GoogleSearchResults(SERPAPI_KEY)
 
   const params = {
     engine: 'google',
