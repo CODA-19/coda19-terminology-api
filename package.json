@@ -18,6 +18,7 @@
   "homepage": "https://github.com/CODA-19/terminology#readme",
   "dependencies": {
     "got": "^11.6.2",
+    "lodash": "^4.17.20",
     "p-queue": "^6.6.1",
     "serialize-error": "^7.0.1"
   }

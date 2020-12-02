@@ -10,6 +10,7 @@ class Fetcher extends Airtable {
       ["PCRName", {}],
       ["PCRResultStatus", {}],
       ["PCRSite", {}],
+      ["LabSite", {}],
       ["LabName", {}],
       ["ObservationNameUnit", {}],
       ["CultureName", {}],
