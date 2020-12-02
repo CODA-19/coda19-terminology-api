@@ -1,351 +1,4 @@
 {
-  "pcrResultStatus": [
-    {
-      "raw_string_lower": "annulée ?parti simplexa ?parti simplexa :",
-      "site": "CISSSCA"
-    },
-    {
-      "raw_string_lower": "n  non détecté",
-      "site": "CISSSCA"
-    },
-    {
-      "raw_string_lower": ": résultat indéterminé",
-      "site": "CISSSCA"
-    },
-    {
-      "raw_string_lower": "indéterminé",
-      "result_display_string": "n/a",
-      "status_display_string": "unspecified",
-      "result_snomed_code": "82334004",
-      "status_fhir_code": "unknown",
-      "fhir_reference_url": "https://www.hl7.org/fhir/valueset-observation-status.html",
-      "site": "CISSSCA",
-      "reviewed_by": [
-        "Johann"
-      ],
-      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/82334004"
-    },
-    {
-      "raw_string_lower": "recherche de sars-cov-2 (agent de la covid-19): résultat",
-      "site": "CISSSCA"
-    },
-    {
-      "raw_string_lower": "non détecté",
-      "site": "CISSSCA"
-    },
-    {
-      "raw_string_lower": "no  non détecté",
-      "site": "CISSSCA"
-    },
-    {
-      "raw_string_lower": "resultat",
-      "site": "CISSSCA"
-    },
-    {
-      "raw_string_lower": "détecté",
-      "result_display_string": "positive",
-      "status_display_string": "resulted",
-      "result_snomed_code": "10828004",
-      "status_fhir_code": "final",
-      "fhir_reference_url": "https://www.hl7.org/fhir/valueset-observation-status.html",
-      "site": "CISSSCA",
-      "reviewed_by": [
-        "Johann"
-      ],
-      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/10828004"
-    },
-    {
-      "raw_string_lower": "non-détecté",
-      "result_display_string": "negative",
-      "status_display_string": "resulted",
-      "result_snomed_code": "260385009",
-      "status_fhir_code": "final",
-      "fhir_reference_url": "https://www.hl7.org/fhir/valueset-observation-status.html",
-      "site": "CISSSCA",
-      "reviewed_by": [
-        "Johann"
-      ],
-      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/260385009"
-    }
-  ],
-  "pcrSite": [
-    {
-      "raw_string_lower": "lavage bronchique ou bronchoalvéolaire (lba)",
-      "display_string": "bronchoalveolar_lavage",
-      "snomed_code": "258607008",
-      "site": "CISSSCA",
-      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/258607008"
-    },
-    {
-      "raw_string_lower": "nasopharynx",
-      "display_string": "nasopharyngeal_swab",
-      "snomed_code": "258500001",
-      "site": "CISSSCA",
-      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/258500001"
-    },
-    {
-      "raw_string_lower": "écouvillonnage nasopharynx et oropharyngé ",
-      "display_string": "nasopharyngeal_swab",
-      "snomed_code": "258500001",
-      "site": "CISSSCA",
-      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/258500001"
-    },
-    {
-      "raw_string_lower": "gorge/nez",
-      "display_string": "nasopharyngeal_swab",
-      "snomed_code": "258500001",
-      "site": "CISSSCA",
-      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/258500001"
-    },
-    {
-      "raw_string_lower": "lavage nasopharyngé",
-      "display_string": "nasopharyngeal_lavage",
-      "snomed_code": "258411007",
-      "site": "CISSSCA",
-      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/258411007"
-    },
-    {
-      "raw_string_lower": "non-indiqué",
-      "display_string": "unspecified",
-      "snomed_code": "n/a",
-      "site": "CISSSCA"
-    },
-    {
-      "raw_string_lower": "sécrétions endotrachéales",
-      "display_string": "endotracheal_aspirate",
-      "snomed_code": "445447003",
-      "site": "CISSSCA",
-      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/445447003"
-    },
-    {
-      "raw_string_lower": "s endetrachiale",
-      "display_string": "endotracheal_aspirate",
-      "snomed_code": "445447003",
-      "site": "CISSSCA",
-      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/445447003"
-    },
-    {
-      "raw_string_lower": "gargarisme",
-      "display_string": "gargle",
-      "site": "CISSSCA"
-    },
-    {
-      "raw_string_lower": "non spécifié",
-      "display_string": "unspecified",
-      "snomed_code": "n/a",
-      "site": "CISSSCA"
-    },
-    {
-      "raw_string_lower": "non fourni",
-      "display_string": "unspecified",
-      "snomed_code": "n/a",
-      "site": "CISSSCA"
-    },
-    {
-      "raw_string_lower": "non mentionné",
-      "display_string": "unspecified",
-      "snomed_code": "n/a",
-      "site": "CISSSCA"
-    },
-    {
-      "raw_string_lower": "endotracheal",
-      "display_string": "endotracheal_aspirate",
-      "snomed_code": "445447003",
-      "site": "CISSSCA",
-      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/445447003"
-    },
-    {
-      "raw_string_lower": "gorge/nasoph",
-      "display_string": "nasopharyngeal_swab",
-      "snomed_code": "258500001",
-      "site": "CISSSCA",
-      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/258500001"
-    },
-    {
-      "raw_string_lower": "autre",
-      "display_string": "other",
-      "snomed_code": "n/a",
-      "site": "CISSSCA"
-    },
-    {
-      "raw_string_lower": "écouvillonnage nasopharynx et oropharyngé",
-      "display_string": "nasopharyngeal_swab",
-      "snomed_code": "258500001",
-      "site": "CISSSCA",
-      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/258500001"
-    },
-    {
-      "raw_string_lower": "expectorations",
-      "display_string": "expectorated_sputum",
-      "snomed_code": "119334006",
-      "site": "CISSSCA",
-      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/119334006"
-    },
-    {
-      "raw_string_lower": "non indiqué",
-      "display_string": "unspecified",
-      "snomed_code": "n/a",
-      "site": "CISSSCA"
-    },
-    {
-      "raw_string_lower": "gorge/naso",
-      "display_string": "nasopharyngeal_swab",
-      "snomed_code": "258500001",
-      "site": "CISSSCA",
-      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/258500001"
-    },
-    {
-      "raw_string_lower": "¸gorge/nez",
-      "display_string": "nasopharyngeal_swab",
-      "snomed_code": "258500001",
-      "site": "CISSSCA",
-      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/258500001"
-    },
-    {
-      "raw_string_lower": "endothrachéale",
-      "display_string": "endotracheal_aspirate",
-      "snomed_code": "445447003",
-      "site": "CISSSCA",
-      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/445447003"
-    },
-    {
-      "raw_string_lower": "non indique.",
-      "display_string": "unspecified",
-      "snomed_code": "n/a",
-      "site": "CISSSCA"
-    },
-    {
-      "raw_string_lower": "gorge",
-      "display_string": "oropharyngeal_swab",
-      "snomed_code": "461911000124106",
-      "site": "CISSSCA",
-      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/461911000124106"
-    },
-    {
-      "raw_string_lower": "non-précisé",
-      "display_string": "unspecified",
-      "snomed_code": "n/a",
-      "site": "CISSSCA"
-    },
-    {
-      "raw_string_lower": "endotrachéal",
-      "display_string": "endotracheal_aspirate",
-      "snomed_code": "445447003",
-      "site": "CISSSCA",
-      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/445447003"
-    },
-    {
-      "raw_string_lower": "non indique",
-      "display_string": "unspecified",
-      "snomed_code": "n/a",
-      "site": "CISSSCA"
-    },
-    {
-      "raw_string_lower": "nez",
-      "display_string": "nasopharyngeal_swab",
-      "snomed_code": "258500001",
-      "site": "CISSSCA",
-      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/258500001"
-    },
-    {
-      "raw_string_lower": "naso",
-      "display_string": "nasal_swab",
-      "snomed_code": "871810001",
-      "site": "CISSSCA",
-      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/871810001"
-    },
-    {
-      "raw_string_lower": "non-spécifié",
-      "display_string": "unspecified",
-      "snomed_code": "n/a",
-      "site": "CISSSCA"
-    },
-    {
-      "raw_string_lower": "gorge/nasoph.",
-      "display_string": "nasopharyngeal_swab",
-      "snomed_code": "258500001",
-      "site": "CISSSCA",
-      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/258500001"
-    },
-    {
-      "raw_string_lower": "¸gorge/nasoph.",
-      "display_string": "nasopharyngeal_swab",
-      "snomed_code": "258500001",
-      "site": "CISSSCA",
-      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/258500001"
-    }
-  ],
-  "drugRoute": [],
-  "drugFrequency": [],
-  "labSite": [],
-  "cultureResultStatus": [],
-  "unitType": [],
-  "labName": [],
-  "cultureName": [],
-  "pcrName": [
-    {
-      "raw_string_lower": "cov9",
-      "display_string": "sars_cov2",
-      "loinc_code": "94500-6",
-      "site": "CISSSCA",
-      "reviewed_by": [
-        "Johann"
-      ],
-      "loinc_reference_url": "https://loinc.org/94500-6"
-    },
-    {
-      "raw_string_lower": "covid",
-      "display_string": "sars_cov2",
-      "loinc_code": "94500-6",
-      "site": "CISSSCA",
-      "reviewed_by": [
-        "Johann"
-      ],
-      "loinc_reference_url": "https://loinc.org/94500-6"
-    },
-    {
-      "raw_string_lower": "cov",
-      "display_string": "sars_cov2",
-      "loinc_code": "94500-6",
-      "site": "CISSSCA",
-      "reviewed_by": [
-        "Johann"
-      ],
-      "loinc_reference_url": "https://loinc.org/94500-6"
-    },
-    {
-      "raw_string_lower": "sars-cov-2",
-      "display_string": "sars_cov2",
-      "loinc_code": "94500-6",
-      "site": "CISSSCA",
-      "reviewed_by": [
-        "Johann"
-      ],
-      "loinc_reference_url": "https://loinc.org/94500-6"
-    },
-    {
-      "raw_string_lower": "cov1",
-      "display_string": "sars_cov2",
-      "loinc_code": "94500-6",
-      "site": "CISSSCA",
-      "reviewed_by": [
-        "Johann"
-      ],
-      "loinc_reference_url": "https://loinc.org/94500-6"
-    },
-    {
-      "raw_string_lower": "covre",
-      "display_string": "sars_cov2",
-      "loinc_code": "94500-6",
-      "site": "CISSSCA",
-      "reviewed_by": [
-        "Johann"
-      ],
-      "loinc_reference_url": "https://loinc.org/94500-6"
-    }
-  ],
-  "drugName": [],
-  "observationNameUnit": [],
   "imagingName": [
     {
       "raw_string_lower": "8309",
@@ -5300,5 +4953,352 @@
       "site": "CISSSCA",
       "raw_description": "TDM BIOPSIE/CYTOLOGIE ABDOMEN"
     }
-  ]
+  ],
+  "unitType": [],
+  "pcrResultStatus": [
+    {
+      "raw_string_lower": "annulée ?parti simplexa ?parti simplexa :",
+      "site": "CISSSCA"
+    },
+    {
+      "raw_string_lower": "n  non détecté",
+      "site": "CISSSCA"
+    },
+    {
+      "raw_string_lower": ": résultat indéterminé",
+      "site": "CISSSCA"
+    },
+    {
+      "raw_string_lower": "indéterminé",
+      "result_display_string": "n/a",
+      "status_display_string": "unspecified",
+      "result_snomed_code": "82334004",
+      "status_fhir_code": "unknown",
+      "fhir_reference_url": "https://www.hl7.org/fhir/valueset-observation-status.html",
+      "site": "CISSSCA",
+      "reviewed_by": [
+        "Johann"
+      ],
+      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/82334004"
+    },
+    {
+      "raw_string_lower": "recherche de sars-cov-2 (agent de la covid-19): résultat",
+      "site": "CISSSCA"
+    },
+    {
+      "raw_string_lower": "non détecté",
+      "site": "CISSSCA"
+    },
+    {
+      "raw_string_lower": "no  non détecté",
+      "site": "CISSSCA"
+    },
+    {
+      "raw_string_lower": "resultat",
+      "site": "CISSSCA"
+    },
+    {
+      "raw_string_lower": "détecté",
+      "result_display_string": "positive",
+      "status_display_string": "resulted",
+      "result_snomed_code": "10828004",
+      "status_fhir_code": "final",
+      "fhir_reference_url": "https://www.hl7.org/fhir/valueset-observation-status.html",
+      "site": "CISSSCA",
+      "reviewed_by": [
+        "Johann"
+      ],
+      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/10828004"
+    },
+    {
+      "raw_string_lower": "non-détecté",
+      "result_display_string": "negative",
+      "status_display_string": "resulted",
+      "result_snomed_code": "260385009",
+      "status_fhir_code": "final",
+      "fhir_reference_url": "https://www.hl7.org/fhir/valueset-observation-status.html",
+      "site": "CISSSCA",
+      "reviewed_by": [
+        "Johann"
+      ],
+      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/260385009"
+    }
+  ],
+  "pcrSite": [
+    {
+      "raw_string_lower": "lavage bronchique ou bronchoalvéolaire (lba)",
+      "display_string": "bronchoalveolar_lavage",
+      "snomed_code": "258607008",
+      "site": "CISSSCA",
+      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/258607008"
+    },
+    {
+      "raw_string_lower": "nasopharynx",
+      "display_string": "nasopharyngeal_swab",
+      "snomed_code": "258500001",
+      "site": "CISSSCA",
+      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/258500001"
+    },
+    {
+      "raw_string_lower": "écouvillonnage nasopharynx et oropharyngé ",
+      "display_string": "nasopharyngeal_swab",
+      "snomed_code": "258500001",
+      "site": "CISSSCA",
+      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/258500001"
+    },
+    {
+      "raw_string_lower": "gorge/nez",
+      "display_string": "nasopharyngeal_swab",
+      "snomed_code": "258500001",
+      "site": "CISSSCA",
+      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/258500001"
+    },
+    {
+      "raw_string_lower": "lavage nasopharyngé",
+      "display_string": "nasopharyngeal_lavage",
+      "snomed_code": "258411007",
+      "site": "CISSSCA",
+      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/258411007"
+    },
+    {
+      "raw_string_lower": "non-indiqué",
+      "display_string": "unspecified",
+      "snomed_code": "n/a",
+      "site": "CISSSCA"
+    },
+    {
+      "raw_string_lower": "sécrétions endotrachéales",
+      "display_string": "endotracheal_aspirate",
+      "snomed_code": "445447003",
+      "site": "CISSSCA",
+      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/445447003"
+    },
+    {
+      "raw_string_lower": "s endetrachiale",
+      "display_string": "endotracheal_aspirate",
+      "snomed_code": "445447003",
+      "site": "CISSSCA",
+      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/445447003"
+    },
+    {
+      "raw_string_lower": "gargarisme",
+      "display_string": "gargle",
+      "site": "CISSSCA"
+    },
+    {
+      "raw_string_lower": "non spécifié",
+      "display_string": "unspecified",
+      "snomed_code": "n/a",
+      "site": "CISSSCA"
+    },
+    {
+      "raw_string_lower": "non fourni",
+      "display_string": "unspecified",
+      "snomed_code": "n/a",
+      "site": "CISSSCA"
+    },
+    {
+      "raw_string_lower": "non mentionné",
+      "display_string": "unspecified",
+      "snomed_code": "n/a",
+      "site": "CISSSCA"
+    },
+    {
+      "raw_string_lower": "endotracheal",
+      "display_string": "endotracheal_aspirate",
+      "snomed_code": "445447003",
+      "site": "CISSSCA",
+      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/445447003"
+    },
+    {
+      "raw_string_lower": "gorge/nasoph",
+      "display_string": "nasopharyngeal_swab",
+      "snomed_code": "258500001",
+      "site": "CISSSCA",
+      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/258500001"
+    },
+    {
+      "raw_string_lower": "autre",
+      "display_string": "other",
+      "snomed_code": "n/a",
+      "site": "CISSSCA"
+    },
+    {
+      "raw_string_lower": "écouvillonnage nasopharynx et oropharyngé",
+      "display_string": "nasopharyngeal_swab",
+      "snomed_code": "258500001",
+      "site": "CISSSCA",
+      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/258500001"
+    },
+    {
+      "raw_string_lower": "expectorations",
+      "display_string": "expectorated_sputum",
+      "snomed_code": "119334006",
+      "site": "CISSSCA",
+      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/119334006"
+    },
+    {
+      "raw_string_lower": "non indiqué",
+      "display_string": "unspecified",
+      "snomed_code": "n/a",
+      "site": "CISSSCA"
+    },
+    {
+      "raw_string_lower": "gorge/naso",
+      "display_string": "nasopharyngeal_swab",
+      "snomed_code": "258500001",
+      "site": "CISSSCA",
+      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/258500001"
+    },
+    {
+      "raw_string_lower": "¸gorge/nez",
+      "display_string": "nasopharyngeal_swab",
+      "snomed_code": "258500001",
+      "site": "CISSSCA",
+      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/258500001"
+    },
+    {
+      "raw_string_lower": "endothrachéale",
+      "display_string": "endotracheal_aspirate",
+      "snomed_code": "445447003",
+      "site": "CISSSCA",
+      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/445447003"
+    },
+    {
+      "raw_string_lower": "non indique.",
+      "display_string": "unspecified",
+      "snomed_code": "n/a",
+      "site": "CISSSCA"
+    },
+    {
+      "raw_string_lower": "gorge",
+      "display_string": "oropharyngeal_swab",
+      "snomed_code": "461911000124106",
+      "site": "CISSSCA",
+      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/461911000124106"
+    },
+    {
+      "raw_string_lower": "non-précisé",
+      "display_string": "unspecified",
+      "snomed_code": "n/a",
+      "site": "CISSSCA"
+    },
+    {
+      "raw_string_lower": "endotrachéal",
+      "display_string": "endotracheal_aspirate",
+      "snomed_code": "445447003",
+      "site": "CISSSCA",
+      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/445447003"
+    },
+    {
+      "raw_string_lower": "non indique",
+      "display_string": "unspecified",
+      "snomed_code": "n/a",
+      "site": "CISSSCA"
+    },
+    {
+      "raw_string_lower": "nez",
+      "display_string": "nasopharyngeal_swab",
+      "snomed_code": "258500001",
+      "site": "CISSSCA",
+      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/258500001"
+    },
+    {
+      "raw_string_lower": "naso",
+      "display_string": "nasal_swab",
+      "snomed_code": "871810001",
+      "site": "CISSSCA",
+      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/871810001"
+    },
+    {
+      "raw_string_lower": "non-spécifié",
+      "display_string": "unspecified",
+      "snomed_code": "n/a",
+      "site": "CISSSCA"
+    },
+    {
+      "raw_string_lower": "gorge/nasoph.",
+      "display_string": "nasopharyngeal_swab",
+      "snomed_code": "258500001",
+      "site": "CISSSCA",
+      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/258500001"
+    },
+    {
+      "raw_string_lower": "¸gorge/nasoph.",
+      "display_string": "nasopharyngeal_swab",
+      "snomed_code": "258500001",
+      "site": "CISSSCA",
+      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/258500001"
+    }
+  ],
+  "cultureResultStatus": [],
+  "drugFrequency": [],
+  "labSite": [],
+  "labName": [],
+  "cultureName": [],
+  "observationNameUnit": [],
+  "pcrName": [
+    {
+      "raw_string_lower": "cov9",
+      "display_string": "sars_cov2",
+      "loinc_code": "94500-6",
+      "site": "CISSSCA",
+      "reviewed_by": [
+        "Johann"
+      ],
+      "loinc_reference_url": "https://loinc.org/94500-6"
+    },
+    {
+      "raw_string_lower": "covid",
+      "display_string": "sars_cov2",
+      "loinc_code": "94500-6",
+      "site": "CISSSCA",
+      "reviewed_by": [
+        "Johann"
+      ],
+      "loinc_reference_url": "https://loinc.org/94500-6"
+    },
+    {
+      "raw_string_lower": "cov",
+      "display_string": "sars_cov2",
+      "loinc_code": "94500-6",
+      "site": "CISSSCA",
+      "reviewed_by": [
+        "Johann"
+      ],
+      "loinc_reference_url": "https://loinc.org/94500-6"
+    },
+    {
+      "raw_string_lower": "sars-cov-2",
+      "display_string": "sars_cov2",
+      "loinc_code": "94500-6",
+      "site": "CISSSCA",
+      "reviewed_by": [
+        "Johann"
+      ],
+      "loinc_reference_url": "https://loinc.org/94500-6"
+    },
+    {
+      "raw_string_lower": "cov1",
+      "display_string": "sars_cov2",
+      "loinc_code": "94500-6",
+      "site": "CISSSCA",
+      "reviewed_by": [
+        "Johann"
+      ],
+      "loinc_reference_url": "https://loinc.org/94500-6"
+    },
+    {
+      "raw_string_lower": "covre",
+      "display_string": "sars_cov2",
+      "loinc_code": "94500-6",
+      "site": "CISSSCA",
+      "reviewed_by": [
+        "Johann"
+      ],
+      "loinc_reference_url": "https://loinc.org/94500-6"
+    }
+  ],
+  "drugName": [],
+  "drugRoute": []
 }
