@@ -39,7 +39,7 @@ const getSiteMappings = async (siteName) => {
     let table = tables[tableName]
     
     filteredTables[tableName] = table.filter( (rec) => 
-      rec.fields.site && rec.fields.site.includes(siteName)  )
+      (rec.fields.site && ( rec.fields.site.includes(siteName) || rec.fields.site.includes('ALL') )  ))
   }
   
   const mappedTables = {}

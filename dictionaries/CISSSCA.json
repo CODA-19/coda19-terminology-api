@@ -1,286 +1,6 @@
 {
   "labSite": [],
-  "observationNameUnit": [],
-  "labName": [],
-  "pcrResultStatus": [
-    {
-      "raw_string_lower": "annulée ?parti simplexa ?parti simplexa :",
-      "site": "CISSSCA"
-    },
-    {
-      "raw_string_lower": "n  non détecté",
-      "site": "CISSSCA"
-    },
-    {
-      "raw_string_lower": ": résultat indéterminé",
-      "site": "CISSSCA"
-    },
-    {
-      "raw_string_lower": "indéterminé",
-      "result_display_string": "n/a",
-      "status_display_string": "unspecified",
-      "result_snomed_code": "82334004",
-      "status_fhir_code": "unknown",
-      "fhir_reference_url": "https://www.hl7.org/fhir/valueset-observation-status.html",
-      "site": "CISSSCA",
-      "reviewed_by": [
-        "Johann"
-      ],
-      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/82334004"
-    },
-    {
-      "raw_string_lower": "recherche de sars-cov-2 (agent de la covid-19): résultat",
-      "site": "CISSSCA"
-    },
-    {
-      "raw_string_lower": "non détecté",
-      "site": "CISSSCA"
-    },
-    {
-      "raw_string_lower": "no  non détecté",
-      "site": "CISSSCA"
-    },
-    {
-      "raw_string_lower": "resultat",
-      "site": "CISSSCA"
-    },
-    {
-      "raw_string_lower": "détecté",
-      "result_display_string": "positive",
-      "status_display_string": "resulted",
-      "result_snomed_code": "10828004",
-      "status_fhir_code": "final",
-      "fhir_reference_url": "https://www.hl7.org/fhir/valueset-observation-status.html",
-      "site": "CISSSCA",
-      "reviewed_by": [
-        "Johann"
-      ],
-      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/10828004"
-    },
-    {
-      "raw_string_lower": "non-détecté",
-      "result_display_string": "negative",
-      "status_display_string": "resulted",
-      "result_snomed_code": "260385009",
-      "status_fhir_code": "final",
-      "fhir_reference_url": "https://www.hl7.org/fhir/valueset-observation-status.html",
-      "site": "CISSSCA",
-      "reviewed_by": [
-        "Johann"
-      ],
-      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/260385009"
-    }
-  ],
-  "drugName": [],
-  "unitType": [],
-  "pcrSite": [
-    {
-      "raw_string_lower": "lavage bronchique ou bronchoalvéolaire (lba)",
-      "display_string": "bronchoalveolar_lavage",
-      "snomed_code": "258607008",
-      "site": "CISSSCA",
-      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/258607008"
-    },
-    {
-      "raw_string_lower": "nasopharynx",
-      "display_string": "nasopharyngeal_swab",
-      "snomed_code": "258500001",
-      "site": "CISSSCA",
-      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/258500001"
-    },
-    {
-      "raw_string_lower": "écouvillonnage nasopharynx et oropharyngé ",
-      "display_string": "nasopharyngeal_swab",
-      "snomed_code": "258500001",
-      "site": "CISSSCA",
-      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/258500001"
-    },
-    {
-      "raw_string_lower": "gorge/nez",
-      "display_string": "nasopharyngeal_swab",
-      "snomed_code": "258500001",
-      "site": "CISSSCA",
-      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/258500001"
-    },
-    {
-      "raw_string_lower": "lavage nasopharyngé",
-      "display_string": "nasopharyngeal_lavage",
-      "snomed_code": "258411007",
-      "site": "CISSSCA",
-      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/258411007"
-    },
-    {
-      "raw_string_lower": "non-indiqué",
-      "display_string": "unspecified",
-      "snomed_code": "n/a",
-      "site": "CISSSCA"
-    },
-    {
-      "raw_string_lower": "sécrétions endotrachéales",
-      "display_string": "endotracheal_aspirate",
-      "snomed_code": "445447003",
-      "site": "CISSSCA",
-      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/445447003"
-    },
-    {
-      "raw_string_lower": "s endetrachiale",
-      "display_string": "endotracheal_aspirate",
-      "snomed_code": "445447003",
-      "site": "CISSSCA",
-      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/445447003"
-    },
-    {
-      "raw_string_lower": "gargarisme",
-      "display_string": "gargle",
-      "site": "CISSSCA"
-    },
-    {
-      "raw_string_lower": "non spécifié",
-      "display_string": "unspecified",
-      "snomed_code": "n/a",
-      "site": "CISSSCA"
-    },
-    {
-      "raw_string_lower": "non fourni",
-      "display_string": "unspecified",
-      "snomed_code": "n/a",
-      "site": "CISSSCA"
-    },
-    {
-      "raw_string_lower": "non mentionné",
-      "display_string": "unspecified",
-      "snomed_code": "n/a",
-      "site": "CISSSCA"
-    },
-    {
-      "raw_string_lower": "endotracheal",
-      "display_string": "endotracheal_aspirate",
-      "snomed_code": "445447003",
-      "site": "CISSSCA",
-      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/445447003"
-    },
-    {
-      "raw_string_lower": "gorge/nasoph",
-      "display_string": "nasopharyngeal_swab",
-      "snomed_code": "258500001",
-      "site": "CISSSCA",
-      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/258500001"
-    },
-    {
-      "raw_string_lower": "autre",
-      "display_string": "other",
-      "snomed_code": "n/a",
-      "site": "CISSSCA"
-    },
-    {
-      "raw_string_lower": "écouvillonnage nasopharynx et oropharyngé",
-      "display_string": "nasopharyngeal_swab",
-      "snomed_code": "258500001",
-      "site": "CISSSCA",
-      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/258500001"
-    },
-    {
-      "raw_string_lower": "expectorations",
-      "display_string": "expectorated_sputum",
-      "snomed_code": "119334006",
-      "site": "CISSSCA",
-      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/119334006"
-    },
-    {
-      "raw_string_lower": "non indiqué",
-      "display_string": "unspecified",
-      "snomed_code": "n/a",
-      "site": "CISSSCA"
-    },
-    {
-      "raw_string_lower": "gorge/naso",
-      "display_string": "nasopharyngeal_swab",
-      "snomed_code": "258500001",
-      "site": "CISSSCA",
-      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/258500001"
-    },
-    {
-      "raw_string_lower": "¸gorge/nez",
-      "display_string": "nasopharyngeal_swab",
-      "snomed_code": "258500001",
-      "site": "CISSSCA",
-      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/258500001"
-    },
-    {
-      "raw_string_lower": "endothrachéale",
-      "display_string": "endotracheal_aspirate",
-      "snomed_code": "445447003",
-      "site": "CISSSCA",
-      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/445447003"
-    },
-    {
-      "raw_string_lower": "non indique.",
-      "display_string": "unspecified",
-      "snomed_code": "n/a",
-      "site": "CISSSCA"
-    },
-    {
-      "raw_string_lower": "gorge",
-      "display_string": "oropharyngeal_swab",
-      "snomed_code": "461911000124106",
-      "site": "CISSSCA",
-      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/461911000124106"
-    },
-    {
-      "raw_string_lower": "non-précisé",
-      "display_string": "unspecified",
-      "snomed_code": "n/a",
-      "site": "CISSSCA"
-    },
-    {
-      "raw_string_lower": "endotrachéal",
-      "display_string": "endotracheal_aspirate",
-      "snomed_code": "445447003",
-      "site": "CISSSCA",
-      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/445447003"
-    },
-    {
-      "raw_string_lower": "non indique",
-      "display_string": "unspecified",
-      "snomed_code": "n/a",
-      "site": "CISSSCA"
-    },
-    {
-      "raw_string_lower": "nez",
-      "display_string": "nasopharyngeal_swab",
-      "snomed_code": "258500001",
-      "site": "CISSSCA",
-      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/258500001"
-    },
-    {
-      "raw_string_lower": "naso",
-      "display_string": "nasal_swab",
-      "snomed_code": "871810001",
-      "site": "CISSSCA",
-      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/871810001"
-    },
-    {
-      "raw_string_lower": "non-spécifié",
-      "display_string": "unspecified",
-      "snomed_code": "n/a",
-      "site": "CISSSCA"
-    },
-    {
-      "raw_string_lower": "gorge/nasoph.",
-      "display_string": "nasopharyngeal_swab",
-      "snomed_code": "258500001",
-      "site": "CISSSCA",
-      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/258500001"
-    },
-    {
-      "raw_string_lower": "¸gorge/nasoph.",
-      "display_string": "nasopharyngeal_swab",
-      "snomed_code": "258500001",
-      "site": "CISSSCA",
-      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/258500001"
-    }
-  ],
-  "cultureResultStatus": [],
+  "drugRoute": [],
   "imagingName": [
     {
       "raw_string_lower": "8309",
@@ -5298,8 +5018,1444 @@
       "loinc_reference_url": "https://loinc.org/94500-6"
     }
   ],
-  "drugRoute": [],
-  "drugCodes": [],
+  "drugName": [],
+  "pcrSite": [
+    {
+      "raw_string_lower": "lavage bronchique ou bronchoalvéolaire (lba)",
+      "display_string": "bronchoalveolar_lavage",
+      "snomed_code": "258607008",
+      "site": "CISSSCA",
+      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/258607008"
+    },
+    {
+      "raw_string_lower": "nasopharynx",
+      "display_string": "nasopharyngeal_swab",
+      "snomed_code": "258500001",
+      "site": "CISSSCA",
+      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/258500001"
+    },
+    {
+      "raw_string_lower": "écouvillonnage nasopharynx et oropharyngé ",
+      "display_string": "nasopharyngeal_swab",
+      "snomed_code": "258500001",
+      "site": "CISSSCA",
+      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/258500001"
+    },
+    {
+      "raw_string_lower": "gorge/nez",
+      "display_string": "nasopharyngeal_swab",
+      "snomed_code": "258500001",
+      "site": "CISSSCA",
+      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/258500001"
+    },
+    {
+      "raw_string_lower": "lavage nasopharyngé",
+      "display_string": "nasopharyngeal_lavage",
+      "snomed_code": "258411007",
+      "site": "CISSSCA",
+      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/258411007"
+    },
+    {
+      "raw_string_lower": "non-indiqué",
+      "display_string": "unspecified",
+      "snomed_code": "n/a",
+      "site": "CISSSCA"
+    },
+    {
+      "raw_string_lower": "sécrétions endotrachéales",
+      "display_string": "endotracheal_aspirate",
+      "snomed_code": "445447003",
+      "site": "CISSSCA",
+      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/445447003"
+    },
+    {
+      "raw_string_lower": "s endetrachiale",
+      "display_string": "endotracheal_aspirate",
+      "snomed_code": "445447003",
+      "site": "CISSSCA",
+      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/445447003"
+    },
+    {
+      "raw_string_lower": "gargarisme",
+      "display_string": "gargle",
+      "site": "CISSSCA"
+    },
+    {
+      "raw_string_lower": "non spécifié",
+      "display_string": "unspecified",
+      "snomed_code": "n/a",
+      "site": "CISSSCA"
+    },
+    {
+      "raw_string_lower": "non fourni",
+      "display_string": "unspecified",
+      "snomed_code": "n/a",
+      "site": "CISSSCA"
+    },
+    {
+      "raw_string_lower": "non mentionné",
+      "display_string": "unspecified",
+      "snomed_code": "n/a",
+      "site": "CISSSCA"
+    },
+    {
+      "raw_string_lower": "endotracheal",
+      "display_string": "endotracheal_aspirate",
+      "snomed_code": "445447003",
+      "site": "CISSSCA",
+      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/445447003"
+    },
+    {
+      "raw_string_lower": "gorge/nasoph",
+      "display_string": "nasopharyngeal_swab",
+      "snomed_code": "258500001",
+      "site": "CISSSCA",
+      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/258500001"
+    },
+    {
+      "raw_string_lower": "autre",
+      "display_string": "other",
+      "snomed_code": "n/a",
+      "site": "CISSSCA"
+    },
+    {
+      "raw_string_lower": "écouvillonnage nasopharynx et oropharyngé",
+      "display_string": "nasopharyngeal_swab",
+      "snomed_code": "258500001",
+      "site": "CISSSCA",
+      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/258500001"
+    },
+    {
+      "raw_string_lower": "expectorations",
+      "display_string": "expectorated_sputum",
+      "snomed_code": "119334006",
+      "site": "CISSSCA",
+      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/119334006"
+    },
+    {
+      "raw_string_lower": "non indiqué",
+      "display_string": "unspecified",
+      "snomed_code": "n/a",
+      "site": "CISSSCA"
+    },
+    {
+      "raw_string_lower": "gorge/naso",
+      "display_string": "nasopharyngeal_swab",
+      "snomed_code": "258500001",
+      "site": "CISSSCA",
+      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/258500001"
+    },
+    {
+      "raw_string_lower": "¸gorge/nez",
+      "display_string": "nasopharyngeal_swab",
+      "snomed_code": "258500001",
+      "site": "CISSSCA",
+      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/258500001"
+    },
+    {
+      "raw_string_lower": "endothrachéale",
+      "display_string": "endotracheal_aspirate",
+      "snomed_code": "445447003",
+      "site": "CISSSCA",
+      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/445447003"
+    },
+    {
+      "raw_string_lower": "non indique.",
+      "display_string": "unspecified",
+      "snomed_code": "n/a",
+      "site": "CISSSCA"
+    },
+    {
+      "raw_string_lower": "gorge",
+      "display_string": "oropharyngeal_swab",
+      "snomed_code": "461911000124106",
+      "site": "CISSSCA",
+      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/461911000124106"
+    },
+    {
+      "raw_string_lower": "non-précisé",
+      "display_string": "unspecified",
+      "snomed_code": "n/a",
+      "site": "CISSSCA"
+    },
+    {
+      "raw_string_lower": "endotrachéal",
+      "display_string": "endotracheal_aspirate",
+      "snomed_code": "445447003",
+      "site": "CISSSCA",
+      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/445447003"
+    },
+    {
+      "raw_string_lower": "non indique",
+      "display_string": "unspecified",
+      "snomed_code": "n/a",
+      "site": "CISSSCA"
+    },
+    {
+      "raw_string_lower": "nez",
+      "display_string": "nasopharyngeal_swab",
+      "snomed_code": "258500001",
+      "site": "CISSSCA",
+      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/258500001"
+    },
+    {
+      "raw_string_lower": "naso",
+      "display_string": "nasal_swab",
+      "snomed_code": "871810001",
+      "site": "CISSSCA",
+      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/871810001"
+    },
+    {
+      "raw_string_lower": "non-spécifié",
+      "display_string": "unspecified",
+      "snomed_code": "n/a",
+      "site": "CISSSCA"
+    },
+    {
+      "raw_string_lower": "gorge/nasoph.",
+      "display_string": "nasopharyngeal_swab",
+      "snomed_code": "258500001",
+      "site": "CISSSCA",
+      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/258500001"
+    },
+    {
+      "raw_string_lower": "¸gorge/nasoph.",
+      "display_string": "nasopharyngeal_swab",
+      "snomed_code": "258500001",
+      "site": "CISSSCA",
+      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/258500001"
+    }
+  ],
+  "drugCodes": [
+    {
+      "code": "68:20.05",
+      "description": "Dipeptidyl Peptidase IV (DDP-4) Inhibitors",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "28:16.04.20",
+      "description": "Selective-serotonin Reuptake Inhibitors",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "28:16.08",
+      "description": "Antipsychotics",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "28:36.20.08",
+      "description": "Nonergot-derivative Dopamine Receptor Agonists",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "68:22.92",
+      "description": "Antihypoglycemic Agents, Miscellaneous*8:30.04 Somatotropin Agonists",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "48:12.04.08",
+      "description": "Non-selective -Adrenergic Agonists*",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "8:12.18",
+      "description": "Quinolones",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "48:10.08.08",
+      "description": "Orally Inhaled Preparations*",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "20:12.04.08",
+      "description": "Coumarin Derivatives",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "84:04.92",
+      "description": "Local Anti-infectives, Miscellaneous84:24.04 Basic Lotions and Liniments*",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "8:14.16",
+      "description": "Echinocandins",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "28:16.08.04",
+      "description": "Atypical Antipsychotics",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "28:12.16",
+      "description": "Oxazolidinediones*",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "24:04.04.24",
+      "description": "Class IV Antiarrhythmics",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "8:18.92",
+      "description": "Antivirals, Miscellaneous:30.04 Amebicides",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "24:32.40",
+      "description": "Renin Inhibitors8:04.04 Barbiturates",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "8:12.12.04",
+      "description": "Erythromycins",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "4:04.20",
+      "description": "Propylamine Derivatives",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "36:88.40",
+      "description": "Sugar*0:18.16 Sodium-removing Agents*",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "12:20.20",
+      "description": "Neuromuscular Blocking Agents",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "48:12.12",
+      "description": "Xanthine Derivatives*52:04.04 Antibacterials",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "28:16.08.92",
+      "description": "Antipsychotics, Miscellaneous",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "8:12.06",
+      "description": "Cephalosporins",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "48:04.08",
+      "description": "Second Generation Antihistamines*48:10.08 Corticosteroids*",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "8:12.06.16",
+      "description": "Fourth Generation Cephalosporins",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "68:20.28",
+      "description": "Thiazolidinediones",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "24:32.20",
+      "description": "Mineralocorticoid (Aldosterone) Receptor Antagonists",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "8:12.08",
+      "description": "Chloramphenicol",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "12:20.12",
+      "description": "GABA-derivative Skeletal Muscle Relaxants",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "4:04.04",
+      "description": "Ethanolamine Derivatives",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "24:08.24.20",
+      "description": "Thiazide Diuretics*",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "8:18.08.04",
+      "description": "HIV Fusion Inhibitors",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "8:12.28.32",
+      "description": "Streptogramins",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "28:36.20.04",
+      "description": "Ergot-derivative Dopamine Receptor Agonists",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "20:12.20",
+      "description": "Thrombolytic Agents0:28.08 Antiheparin Agents",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "28:16.04.24",
+      "description": "Serotonin Modulators",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "28:08.92",
+      "description": "Analgesics and Antipyretics, Miscellaneous28:12.04 Barbiturates",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "24:08.24",
+      "description": "Diuretics*",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "84:04.06",
+      "description": "Antivirals",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "8:12.07.04",
+      "description": "Carbacephems",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "8:12.28.30",
+      "description": "Rifamycins",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "28:16.04.28",
+      "description": "Tricyclics and Other Norepinephrine-reuptake Inhibitors",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "24:08.44.04",
+      "description": "Angiotensin-Converting Enzyme Inhibitors*",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "24:04.08",
+      "description": "Cardiotonic Agents",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "28:12.08",
+      "description": "Benzodiazepines",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "28:24.08",
+      "description": "Benzodiazepines",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "24:08.24.04",
+      "description": "Carbonic Anhydrase Inhibitors*",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "84:04.08.32",
+      "description": "Pyrimidines*",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "24:08.24.12",
+      "description": "Osmotic Diuretics*",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "84:04.08",
+      "description": "Antifungals",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "24:04.92",
+      "description": "Cardiac Drugs, Miscellaneous4:06.04 Bile Acid Sequestrants",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "8:12.24",
+      "description": "Tetracyclines",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "52:40.28",
+      "description": "Prostaglandin Analogs",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "40:28.20",
+      "description": "Thiazide Diuretics",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "28:20.92",
+      "description": "Anorexigenic Agents and Respiratory and Cerebral Stimulants, Miscellaneous8:24.04 Barbiturates",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "48:10.08.04",
+      "description": "Nasal Preparations*",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "8:14.32",
+      "description": "Pyrimidines",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "8:18.08.20",
+      "description": "Nucleoside and Nucleotide Reverse Transcriptase Inhibitors",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "40:28.92",
+      "description": "Diuretics, Miscellaneous8:04.04 First Generation Antihistamines*",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "20:12.04.16",
+      "description": "Heparins",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "8:12.06.12",
+      "description": "Third Generation Cephalosporins",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "40:28.28",
+      "description": "Vasopressin Antagonists",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "24:06.05",
+      "description": "Cholesterol Absorption Inhibitors",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "8:14.92",
+      "description": "Antifungals, Miscellaneous:16.04 Antituberculosis Agents",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "24:04.04.16",
+      "description": "Class II Antiarrhythmics*",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "8:12.16.08",
+      "description": "Aminopenicillins",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "28:32.92",
+      "description": "Antimigraine Agents, Miscellaneous*8:36.04 Adamantanes",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "28:04.16",
+      "description": "Inhalation Anesthetics*",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "40:28.16",
+      "description": "Potassium-sparing Diuretics",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "68:20.04",
+      "description": "Biguanides",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "48:12.08",
+      "description": "Anticholinergic Agents*",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "24:08.20",
+      "description": "Direct Vasodilators",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "52:40.12",
+      "description": "Carbonic Anhydrase Inhibitors",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "68:36.08",
+      "description": "Antithyroid Agents4:04.04 Antibacterials",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "28:36.32",
+      "description": "Monoamine Oxidase B Inhibitors36:88.12 Ketones*",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "28:12.92",
+      "description": "Anticonvulsants, Miscellaneous8:16.04 Antidepressants",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "24:08.16",
+      "description": "Central -Agonists",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "28:24.92",
+      "description": "Anxiolytics, Sedatives, and Hypnotics; Miscellaneous28:32.28 Selective Serotonin Agonists",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "52:04.16",
+      "description": "Antifungals",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "40:18.17",
+      "description": "Calcium-removing Agents",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "8:12.12.12",
+      "description": "Ketolides",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "8:12.28.24",
+      "description": "Oxazolidinones",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "40:28.24",
+      "description": "Thiazide-like Diuretics",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "8:14.28",
+      "description": "Polyenes",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "68:20.08",
+      "description": "Insulins",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "28:36.08",
+      "description": "Anticholinergic Agents",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "8:18.28",
+      "description": "Neuraminidase Inhibitors",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "8:12.07.12",
+      "description": "Cephamycins",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "68:20.03",
+      "description": "Amylinomimetics",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "84:04.12",
+      "description": "Scabicides and Pediculicides",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "12:16.08",
+      "description": "-Adrenergic Blocking Agents",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "28:04.92",
+      "description": "General Anesthetics, Miscellaneous8:08.04 Nonsteroidal Anti-inflammatory Agents",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "84:04.08.08",
+      "description": "Azoles",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "12:20.92",
+      "description": "Skeletal Muscle Relaxants, Miscellaneous20:04.04 Iron Preparations",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "8:12.12",
+      "description": "Macrolides",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "52:40.92",
+      "description": "Antiglaucoma Agents, Miscellaneous*56:22.08 Antihistamines",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "4:04.12",
+      "description": "Phenothiazine Derivatives",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "84:24.16",
+      "description": "Basic Powders and Demulcents*4:50.04 Depigmenting Agents",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "8:14.08",
+      "description": "Azoles",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "24:08.12.92",
+      "description": "Calcium-Channel Blocking Agents, Miscellaneous*",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "8:30.92",
+      "description": "Antiprotozoals, Miscellaneous12:08.04 Antiparkinsonian Agents*",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "52:08.92",
+      "description": "Anti-inflammatory Agents, Miscellaneous52:40.04 -Adrenergic Agonists",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "20:28.16",
+      "description": "Hemostatics24:04.04 Antiarrhythmic Agents",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "4:04.16",
+      "description": "Piperazine Derivatives",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "68:30.08",
+      "description": "Somatotropin Antagonists8:36.04 Thyroid Agents",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "8:12.16.04",
+      "description": "Natural Penicillins",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "12:16.04.12",
+      "description": "Selective 1-Adrenergic Blocking Agents",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "8:12.28.08",
+      "description": "Bacitracins",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "12:12.08",
+      "description": "-Adrenergic Agonists",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "28:36.12",
+      "description": "Catechol-O-Methyltransferase (COMT) Inhibitors",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "56:22.92",
+      "description": "Antiemetics, Miscellaneous56:28.12 Histamine H2-Antagonists",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "8:18.08.92",
+      "description": "Antiretrovirals, Miscellaneous*",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "84:04.08.92",
+      "description": "Antifungals, M iscellaneous",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "24:08.24.24",
+      "description": "Thiazide-like Diuretics*",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "24:08.32",
+      "description": "Peripheral Adrenergic Inhibitors",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "8:18.32",
+      "description": "Nucleosides and Nucleotides",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "12:08.08",
+      "description": "Antimuscarinics/Antispasmodics2:12.04 -Adrenergic Agonists",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "28:12.20",
+      "description": "Succinimides",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "8:12.16",
+      "description": "Penicillins",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "24:08.92",
+      "description": "Hypotensive Agents, Miscellaneous*4:12.08 Nitrates and Nitrites",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "20:12.14",
+      "description": "Platelet-reducing Agents",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "24:12.92",
+      "description": "Vasodilating Agents, Miscellaneous24:28.08 Dihydropyridines",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "24:04.04.04",
+      "description": "Class Ia Antiarrhythmics4:04.04.12 Class Ic Antiarrhythmics",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "28:08.04.24",
+      "description": "Salicylates",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "12:20.08",
+      "description": "Direct-acting Skeletal Muscle Relaxants",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "28:12.12",
+      "description": "Hydantoins",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "8:12.24.12",
+      "description": "Glycylcyclines",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "8:12.28.20",
+      "description": "Lincomycins",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "8:30.08",
+      "description": "Antimalarials",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "20:04.08",
+      "description": "Liver and Stomach Preparations*0:12.04 Anticoagulants",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "28:16.04.16",
+      "description": "Selective Serotonin- and Norepinephrine-reuptake Inhibitors",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "36:88.20",
+      "description": "Occult Blood*",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "4:04.92",
+      "description": "Miscellaneous Derivatives:12.02 Aminoglycosides",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "4:04.08",
+      "description": "Ethylenediamine Derivatives",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "8:12.16.12",
+      "description": "Penicillinase-resistant Penicillins",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "40:18.19",
+      "description": "Phosphate-removing Agents",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "68:20.92",
+      "description": "Antidiabetic Agents, Miscellaneous*8:22.12 Glycogenolytic Agents",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "12:16.04.04",
+      "description": "Non-selective -Adrenergic Blocking Agents",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "56:28.36",
+      "description": "Proton-pump Inhibitors68:16.04 Estrogens",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "84:50.06",
+      "description": "Pigmenting Agents",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "8:12.06.04",
+      "description": "First Generation Cephalosporins",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "20:12.04.92",
+      "description": "Anticoagulants, Miscellaneous",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "8:12.16.16",
+      "description": "Extended-spectrum Penicillins",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "84:04.08.40",
+      "description": "Thiocarbamates",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "8:12.28.12",
+      "description": "Cyclic Lipopeptides",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "24:06.06",
+      "description": "Fibric Acid Derivatives",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "24:08.44.20",
+      "description": "Mineralocorticoid (Aldosterone) Receptor Antagonists*",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "8:12.06.08",
+      "description": "Second Generation Cephalosporins",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "8:12.28.04",
+      "description": "Aminocyclitols",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "28:16.08.08",
+      "description": "Butyrophenones",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "28:08.08",
+      "description": "Opiate Agonists",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "24:12.12",
+      "description": "Phosphodiesterase Inhibitors",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "52:40.08",
+      "description": "-Adrenergic Agents",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "24:04.04.92",
+      "description": "Antiarrhythmics, Miscellaneous*",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "68:20.16",
+      "description": "Meglitinides",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "8:18.08",
+      "description": "Antiretrovirals",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "12:12.12",
+      "description": "- and -Adrenergic Agonists2:16.04 -Adrenergic Blocking Agents",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "24:08.44.08",
+      "description": "Angiotensin II Receptor Antagonists*",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "24:08.44",
+      "description": "Renin-Angiotensin-Aldosterone System Inhibitors*",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "24:08.12.08",
+      "description": "Dihydropyridines*",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "28:16.08.24",
+      "description": "Phenothiazines",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "24:28.92",
+      "description": "Calcium-Channel Blocking Agents, Miscellaneous4:32.04 Angiotensin-Converting Enzyme Inhibitors",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "84:04.08.12",
+      "description": "Benzylamines",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "12:12.08.04",
+      "description": "Non-selective -Adrenergic Agonists",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "40:18.92",
+      "description": "Other Ion-removing Agents0:28.04 Carbonic Anhydrase Inhibitors*",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "28:16.08.32",
+      "description": "Thioxanthenes",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "8:12.20",
+      "description": "Sulfonamides",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "56:28.32",
+      "description": "Protectants",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "28:16.92",
+      "description": "Psychotherapeutic Agents, Miscellaneous*8:20.04 Amphetamines",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "84:04.08.04",
+      "description": "Allylamines",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "8:16.92",
+      "description": "Antimycobacterials, Miscellaneous:18.04 Adamantanes",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "68:16.12",
+      "description": "Estrogen Agonist-Antagonists68:20.02 -Glucosidase Inhibitors",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "56:22.20",
+      "description": "5-HT3 Receptor Antagonists",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "8:12.07.16",
+      "description": "Monobactams",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "48:10.24",
+      "description": "Leukotriene Modifiers",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "20:12.04.12",
+      "description": "Direct Thrombin Inhibitors",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "8:18.24",
+      "description": "Monoclonal Antibodies",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "24:08.24.92",
+      "description": "Diuretics, Miscellaneous*",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "68:20.06",
+      "description": "Incretin Mimetics",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "24:04.04.20",
+      "description": "Class III Antiarrhythmics",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "12:16.04.08",
+      "description": "Non-selective 1-Adrenergic Blocking Agents",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "8:12.28.28",
+      "description": "Polymyxins",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "28:16.04.12",
+      "description": "Monoamine Oxidase Inhibitors",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "84:04.08.16",
+      "description": "Echinocandins*",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "84:04.08.28",
+      "description": "Polyenes",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "24:32.08",
+      "description": "Angiotensin II Receptor Antagonists",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "12:12.08.12",
+      "description": "Selective 2-Adrenergic Agonists",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "8:12.07",
+      "description": "Miscellaneous Beta-Lactams",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "8:18.08.16",
+      "description": "Nonnucleoside Reverse Transcriptase Inhibitors",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "12:16.08.08",
+      "description": "Selective -Adrenergic Blocking Agents2:20.04 Centrally Acting Skeletal Muscle Relaxants",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "24:06.08",
+      "description": "HMG-CoA Reductase Inhibitors",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "28:16.04.92",
+      "description": "Antidepressants, M iscellaneous",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "40:28.12",
+      "description": "Osmotic Diuretics",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "8:12.12.92",
+      "description": "Other Macrolides",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "28:08.04.92",
+      "description": "Other Nonsteroidal Anti-inflammatory Agents",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "28:36.16",
+      "description": "Dopamine Precursors",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "24:08.12",
+      "description": "Calcium-Channel Blocking Agents*",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "28:36.20",
+      "description": "Dopamine Receptor Agonists",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "40:18.18",
+      "description": "Potassium-removing Agents",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "8:18.20",
+      "description": "Interferons",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "28:08.12",
+      "description": "Opiate Partial Agonists",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "56:28.28",
+      "description": "Prostaglandins",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "84:24.08",
+      "description": "Basic Oils and Other Solvents*",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "52:40.20",
+      "description": "Miotics",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "8:12.28.16",
+      "description": "Glycopeptides",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "20:12.18",
+      "description": "Platelet-aggregation Inhibitors",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "68:20.20",
+      "description": "Sulfonylureas",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "12:16.08.04",
+      "description": "Non-selective -Adrenergic Blocking Agents",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "52:04.20",
+      "description": "Antivirals",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "12:12.08.08",
+      "description": "Selective 1-Adrenergic Agonists",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "24:06.92",
+      "description": "Antilipemic Agents, Miscellaneous4:08.04 -Adrenergic Blocking Agents*",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "52:08.20",
+      "description": "Nonsteroidal Anti-inflammatory Agents",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "84:04.08.20",
+      "description": "Hydroxypyridones",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "8:12.28",
+      "description": "Antibacterials, Miscellaneous",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "84:24.12",
+      "description": "Basic Ointments and Protectants*",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "36:88.24",
+      "description": "pH*",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "40:28.08",
+      "description": "Loop Diuretics",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "48:12.04.16",
+      "description": "- and -Adrenergic Agonists*",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "8:12.28.92",
+      "description": "Other Miscellaneous Antibacterials*:14.04 Allylamines",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "52:40.24",
+      "description": "Osmotic Agents*",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "24:08.24.16",
+      "description": "Potassium-sparing Diuretics*",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "24:08.08",
+      "description": "-Adrenergic Blocking Agents*",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "8:18.08.12",
+      "description": "Integrase Inhibitors",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "52:04.92",
+      "description": "Anti-infectives, Miscellaneous2:08.08 Corticosteroids",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "48:10.32",
+      "description": "Mast-cell Stabilizers8:12.04 Adrenergic Agents*",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "28:08.04.08",
+      "description": "Cyclooxygenase-2 (COX-2) Inhibitors",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "24:08.24.08",
+      "description": "Loop Diuretics*",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "36:88.28",
+      "description": "Protein*",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "8:12.07.08",
+      "description": "Carbapenems",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "48:12.04.12",
+      "description": "Selective 2-Adrenergic Agonists*",
+      "site": "CISSSCA"
+    },
+    {
+      "code": "8:18.08.08",
+      "description": "HIV Protease Inhibitors",
+      "site": "CISSSCA"
+    }
+  ],
   "drugFrequency": [],
-  "cultureName": []
+  "cultureName": [],
+  "observationNameUnit": [],
+  "cultureResultStatus": [],
+  "unitType": [],
+  "pcrResultStatus": [
+    {
+      "raw_string_lower": "annulée ?parti simplexa ?parti simplexa :",
+      "site": "CISSSCA"
+    },
+    {
+      "raw_string_lower": "n  non détecté",
+      "site": "CISSSCA"
+    },
+    {
+      "raw_string_lower": ": résultat indéterminé",
+      "site": "CISSSCA"
+    },
+    {
+      "raw_string_lower": "indéterminé",
+      "result_display_string": "n/a",
+      "status_display_string": "unspecified",
+      "result_snomed_code": "82334004",
+      "status_fhir_code": "unknown",
+      "fhir_reference_url": "https://www.hl7.org/fhir/valueset-observation-status.html",
+      "site": "CISSSCA",
+      "reviewed_by": [
+        "Johann"
+      ],
+      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/82334004"
+    },
+    {
+      "raw_string_lower": "recherche de sars-cov-2 (agent de la covid-19): résultat",
+      "site": "CISSSCA"
+    },
+    {
+      "raw_string_lower": "non détecté",
+      "site": "CISSSCA"
+    },
+    {
+      "raw_string_lower": "no  non détecté",
+      "site": "CISSSCA"
+    },
+    {
+      "raw_string_lower": "resultat",
+      "site": "CISSSCA"
+    },
+    {
+      "raw_string_lower": "détecté",
+      "result_display_string": "positive",
+      "status_display_string": "resulted",
+      "result_snomed_code": "10828004",
+      "status_fhir_code": "final",
+      "fhir_reference_url": "https://www.hl7.org/fhir/valueset-observation-status.html",
+      "site": "CISSSCA",
+      "reviewed_by": [
+        "Johann"
+      ],
+      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/10828004"
+    },
+    {
+      "raw_string_lower": "non-détecté",
+      "result_display_string": "negative",
+      "status_display_string": "resulted",
+      "result_snomed_code": "260385009",
+      "status_fhir_code": "final",
+      "fhir_reference_url": "https://www.hl7.org/fhir/valueset-observation-status.html",
+      "site": "CISSSCA",
+      "reviewed_by": [
+        "Johann"
+      ],
+      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/260385009"
+    }
+  ],
+  "labName": []
 }
