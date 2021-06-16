@@ -1,63 +1,650 @@
 {
-  "drugName": [],
-  "pcrName": [
+  "unitType": [
     {
-      "raw_string_lower": "mcovi",
-      "display_string": "sars_cov2",
-      "loinc_code": "94500-6",
-      "site": "CHUQ",
-      "loinc_reference_url": "https://loinc.org/94500-6"
+      "raw_string_lower": "1c",
+      "display_string": "inpatient_ward",
+      "fhir_code": "HU",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUQ"
     },
     {
-      "raw_string_lower": "coidn",
-      "display_string": "sars_cov2",
-      "loinc_code": "94500-6",
-      "site": "CHUQ",
-      "loinc_reference_url": "https://loinc.org/94500-6"
+      "raw_string_lower": "a150",
+      "display_string": "inpatient_ward",
+      "fhir_code": "HU",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUQ"
     },
     {
-      "raw_string_lower": "covco",
-      "display_string": "sars_cov2",
-      "loinc_code": "94500-6",
-      "site": "CHUQ",
-      "reviewed_by": [
-        "Johann"
-      ],
-      "loinc_reference_url": "https://loinc.org/94500-6"
+      "raw_string_lower": "si",
+      "display_string": "intensive_care_unit",
+      "fhir_code": "ICU",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUQ"
     },
     {
-      "raw_string_lower": "xcovi",
-      "display_string": "sars_cov2",
-      "loinc_code": "94500-6",
-      "site": "CHUQ",
-      "reviewed_by": [
-        "Johann"
-      ],
-      "loinc_reference_url": "https://loinc.org/94500-6"
+      "raw_string_lower": "e500",
+      "display_string": "inpatient_ward",
+      "fhir_code": "HU",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUQ"
     },
     {
-      "raw_string_lower": "covid",
-      "display_string": "sars_cov2",
-      "loinc_code": "94500-6",
-      "site": "CHUQ",
-      "reviewed_by": [
-        "Johann"
-      ],
-      "loinc_reference_url": "https://loinc.org/94500-6"
+      "raw_string_lower": "doud",
+      "display_string": "intensive_care_unit",
+      "fhir_code": "ICU",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUQ"
     },
     {
-      "raw_string_lower": "xxcov",
-      "display_string": "sars_cov2",
-      "loinc_code": "94500-6",
-      "site": "CHUQ",
-      "reviewed_by": [
-        "Johann"
-      ],
-      "loinc_reference_url": "https://loinc.org/94500-6"
+      "raw_string_lower": "3c",
+      "display_string": "inpatient_ward",
+      "fhir_code": "HU",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUQ"
+    },
+    {
+      "raw_string_lower": "b7",
+      "display_string": "inpatient_ward",
+      "fhir_code": "HU",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUQ"
+    },
+    {
+      "raw_string_lower": "24",
+      "display_string": "inpatient_ward",
+      "fhir_code": "HU",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUQ"
+    },
+    {
+      "raw_string_lower": "45",
+      "display_string": "intensive_care_unit",
+      "fhir_code": "ICU",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUQ"
+    },
+    {
+      "raw_string_lower": "simc",
+      "display_string": "intensive_care_unit",
+      "fhir_code": "ICU",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUQ"
+    },
+    {
+      "raw_string_lower": "triq",
+      "display_string": "inpatient_ward",
+      "fhir_code": "HU",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUQ"
+    },
+    {
+      "raw_string_lower": "b7ce",
+      "display_string": "inpatient_ward",
+      "fhir_code": "HU",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUQ"
+    },
+    {
+      "raw_string_lower": "3seb",
+      "display_string": "inpatient_ward",
+      "fhir_code": "HU",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUQ"
+    },
+    {
+      "raw_string_lower": "3n",
+      "display_string": "inpatient_ward",
+      "fhir_code": "HU",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUQ"
+    },
+    {
+      "raw_string_lower": "4se",
+      "display_string": "inpatient_ward",
+      "fhir_code": "HU",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUQ"
+    },
+    {
+      "raw_string_lower": "95",
+      "display_string": "inpatient_ward",
+      "fhir_code": "HU",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUQ"
+    },
+    {
+      "raw_string_lower": "a300",
+      "display_string": "inpatient_ward",
+      "fhir_code": "HU",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUQ"
+    },
+    {
+      "raw_string_lower": "d7d8",
+      "display_string": "inpatient_ward",
+      "fhir_code": "HU",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUQ"
+    },
+    {
+      "raw_string_lower": "e400",
+      "display_string": "coronary_care_unit",
+      "fhir_code": "CCU",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUQ"
+    },
+    {
+      "raw_string_lower": "a6-o",
+      "display_string": "inpatient_ward",
+      "fhir_code": "HU",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUQ"
+    },
+    {
+      "raw_string_lower": "usic",
+      "display_string": "coronary_care_unit",
+      "fhir_code": "CCU",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUQ"
+    },
+    {
+      "raw_string_lower": "pger",
+      "display_string": "inpatient_ward",
+      "fhir_code": "HU",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUQ"
+    },
+    {
+      "raw_string_lower": "urg",
+      "display_string": "emergency_room",
+      "fhir_code": "ER",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUQ"
+    },
+    {
+      "raw_string_lower": "b400",
+      "display_string": "inpatient_ward",
+      "fhir_code": "HU",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUQ"
+    },
+    {
+      "raw_string_lower": "b6jr",
+      "display_string": "inpatient_ward",
+      "fhir_code": "HU",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUQ"
+    },
+    {
+      "raw_string_lower": "usad",
+      "display_string": "inpatient_ward",
+      "fhir_code": "HU",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUQ"
+    },
+    {
+      "raw_string_lower": "755",
+      "display_string": "inpatient_ward",
+      "fhir_code": "HU",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUQ"
+    },
+    {
+      "raw_string_lower": "ucdg",
+      "display_string": "inpatient_ward",
+      "fhir_code": "HU",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUQ"
+    },
+    {
+      "raw_string_lower": "p200",
+      "display_string": "intensive_care_unit",
+      "fhir_code": "ICU",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUQ"
+    },
+    {
+      "raw_string_lower": "e200",
+      "display_string": "inpatient_ward",
+      "fhir_code": "HU",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUQ"
+    },
+    {
+      "raw_string_lower": "c1et",
+      "display_string": "inpatient_ward",
+      "fhir_code": "HU",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUQ"
+    },
+    {
+      "raw_string_lower": "3e",
+      "display_string": "inpatient_ward",
+      "fhir_code": "HU",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUQ"
+    },
+    {
+      "raw_string_lower": "b5cs",
+      "display_string": "inpatient_ward",
+      "fhir_code": "HU",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUQ"
+    },
+    {
+      "raw_string_lower": "p400",
+      "display_string": "inpatient_ward",
+      "fhir_code": "HU",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUQ"
+    },
+    {
+      "raw_string_lower": "b1sc",
+      "display_string": "coronary_care_unit",
+      "fhir_code": "CCU",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUQ"
+    },
+    {
+      "raw_string_lower": "chjr",
+      "display_string": "day_surgery_unit",
+      "fhir_code": "HU",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUQ"
+    },
+    {
+      "raw_string_lower": "sldv",
+      "display_string": "inpatient_ward",
+      "fhir_code": "HU",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUQ"
+    },
+    {
+      "raw_string_lower": "umj",
+      "display_string": "inpatient_ward",
+      "fhir_code": "HU",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUQ"
+    },
+    {
+      "raw_string_lower": "a250",
+      "display_string": "inpatient_ward",
+      "fhir_code": "HU",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUQ"
+    },
+    {
+      "raw_string_lower": "cjmd",
+      "display_string": "day_surgery_unit",
+      "fhir_code": "HU",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUQ"
+    },
+    {
+      "raw_string_lower": "115",
+      "display_string": "inpatient_ward",
+      "fhir_code": "HU",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUQ"
+    },
+    {
+      "raw_string_lower": "a240",
+      "display_string": "inpatient_ward",
+      "fhir_code": "HU",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUQ"
+    },
+    {
+      "raw_string_lower": "b4p",
+      "display_string": "inpatient_ward",
+      "fhir_code": "HU",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUQ"
+    },
+    {
+      "raw_string_lower": "444",
+      "display_string": "inpatient_ward",
+      "fhir_code": "HU",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUQ"
+    },
+    {
+      "raw_string_lower": "5r",
+      "display_string": "inpatient_ward",
+      "fhir_code": "HU",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUQ"
+    },
+    {
+      "raw_string_lower": "a4-o",
+      "display_string": "inpatient_ward",
+      "fhir_code": "HU",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUQ"
+    },
+    {
+      "raw_string_lower": "1se",
+      "display_string": "inpatient_ward",
+      "fhir_code": "HU",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUQ"
+    },
+    {
+      "raw_string_lower": "c200",
+      "display_string": "inpatient_ward",
+      "fhir_code": "HU",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUQ"
+    },
+    {
+      "raw_string_lower": "sic",
+      "display_string": "coronary_care_unit",
+      "fhir_code": "CCU",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUQ"
+    },
+    {
+      "raw_string_lower": "a160",
+      "display_string": "inpatient_ward",
+      "fhir_code": "HU",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUQ"
+    },
+    {
+      "raw_string_lower": "c4a4",
+      "display_string": "inpatient_ward",
+      "fhir_code": "HU",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUQ"
+    },
+    {
+      "raw_string_lower": "b500",
+      "display_string": "inpatient_ward",
+      "fhir_code": "HU",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUQ"
+    },
+    {
+      "raw_string_lower": "usap",
+      "display_string": "inpatient_ward",
+      "fhir_code": "HU",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUQ"
+    },
+    {
+      "raw_string_lower": "c300",
+      "display_string": "inpatient_ward",
+      "fhir_code": "HU",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUQ"
+    },
+    {
+      "raw_string_lower": "b5",
+      "display_string": "inpatient_ward",
+      "fhir_code": "HU",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUQ"
+    },
+    {
+      "raw_string_lower": "b1",
+      "display_string": "inpatient_ward",
+      "fhir_code": "HU",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUQ"
+    },
+    {
+      "raw_string_lower": "b4",
+      "display_string": "inpatient_ward",
+      "fhir_code": "HU",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUQ"
+    },
+    {
+      "raw_string_lower": "4y",
+      "display_string": "inpatient_ward",
+      "fhir_code": "HU",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUQ"
+    },
+    {
+      "raw_string_lower": "85",
+      "display_string": "inpatient_ward",
+      "fhir_code": "HU",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUQ"
+    },
+    {
+      "raw_string_lower": "a5-e",
+      "display_string": "inpatient_ward",
+      "fhir_code": "HU",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUQ"
+    },
+    {
+      "raw_string_lower": "a6-e",
+      "display_string": "inpatient_ward",
+      "fhir_code": "HU",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUQ"
+    },
+    {
+      "raw_string_lower": "2so",
+      "display_string": "inpatient_ward",
+      "fhir_code": "HU",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUQ"
+    },
+    {
+      "raw_string_lower": "a110",
+      "display_string": "inpatient_ward",
+      "fhir_code": "HU",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUQ"
+    },
+    {
+      "raw_string_lower": "grfm",
+      "display_string": "inpatient_ward",
+      "fhir_code": "HU",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUQ"
+    },
+    {
+      "raw_string_lower": "e300",
+      "display_string": "inpatient_ward",
+      "fhir_code": "HU",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUQ"
+    },
+    {
+      "raw_string_lower": "b8",
+      "display_string": "inpatient_ward",
+      "fhir_code": "HU",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUQ"
+    },
+    {
+      "raw_string_lower": "trau",
+      "display_string": "inpatient_ward",
+      "fhir_code": "HU",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUQ"
+    },
+    {
+      "raw_string_lower": "c1j",
+      "display_string": "inpatient_ward",
+      "fhir_code": "HU",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUQ"
+    },
+    {
+      "raw_string_lower": "b3  ",
+      "display_string": "inpatient_ward",
+      "fhir_code": "HU",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUQ"
+    },
+    {
+      "raw_string_lower": "a260",
+      "display_string": "inpatient_ward",
+      "fhir_code": "HU",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUQ"
+    },
+    {
+      "raw_string_lower": "34",
+      "display_string": "intensive_care_unit",
+      "fhir_code": "ICU",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUQ"
+    },
+    {
+      "raw_string_lower": "2e",
+      "display_string": "inpatient_ward",
+      "fhir_code": "HU",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUQ"
+    },
+    {
+      "raw_string_lower": "2c",
+      "display_string": "inpatient_ward",
+      "fhir_code": "HU",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUQ"
+    },
+    {
+      "raw_string_lower": "a040",
+      "display_string": "inpatient_ward",
+      "fhir_code": "HU",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUQ"
+    },
+    {
+      "raw_string_lower": "c500",
+      "display_string": "inpatient_ward",
+      "fhir_code": "HU",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUQ"
+    },
+    {
+      "raw_string_lower": "135",
+      "display_string": "inpatient_ward",
+      "fhir_code": "HU",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUQ"
+    },
+    {
+      "raw_string_lower": "poup",
+      "display_string": "inpatient_ward",
+      "fhir_code": "HU",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUQ"
+    },
+    {
+      "raw_string_lower": "udsr",
+      "display_string": "inpatient_ward",
+      "fhir_code": "HU",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUQ"
+    },
+    {
+      "raw_string_lower": "a010",
+      "display_string": "inpatient_ward",
+      "fhir_code": "HU",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUQ"
+    },
+    {
+      "raw_string_lower": "b6",
+      "display_string": "inpatient_ward",
+      "fhir_code": "HU",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUQ"
+    },
+    {
+      "raw_string_lower": "p300",
+      "display_string": "inpatient_ward",
+      "fhir_code": "HU",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUQ"
+    },
+    {
+      "raw_string_lower": "a190",
+      "display_string": "intensive_care_unit",
+      "fhir_code": "ICU",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUQ"
+    },
+    {
+      "raw_string_lower": "a210",
+      "display_string": "pediatric_neonatal_care_unit",
+      "fhir_code": "PEDNICU",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUQ"
+    },
+    {
+      "raw_string_lower": "4so",
+      "display_string": "inpatient_ward",
+      "fhir_code": "HU",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUQ"
+    },
+    {
+      "raw_string_lower": "a4c4",
+      "display_string": "inpatient_ward",
+      "fhir_code": "HU",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUQ"
+    },
+    {
+      "raw_string_lower": "247",
+      "display_string": "coronary_care_unit",
+      "fhir_code": "CCU",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUQ"
+    },
+    {
+      "raw_string_lower": "sit",
+      "display_string": "inpatient_ward",
+      "fhir_code": "HU",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUQ"
+    },
+    {
+      "raw_string_lower": "a200",
+      "display_string": "inpatient_ward",
+      "fhir_code": "HU",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUQ"
+    },
+    {
+      "raw_string_lower": "75",
+      "display_string": "inpatient_ward",
+      "fhir_code": "HU",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUQ"
+    },
+    {
+      "raw_string_lower": "105",
+      "display_string": "inpatient_ward",
+      "fhir_code": "HU",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUQ"
+    },
+    {
+      "raw_string_lower": "2se",
+      "display_string": "inpatient_ward",
+      "fhir_code": "HU",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUQ"
+    },
+    {
+      "raw_string_lower": "cs",
+      "display_string": "inpatient_ward",
+      "fhir_code": "HU",
+      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
+      "site": "CHUQ"
     }
   ],
-  "cultureName": [],
-  "labName": [],
   "drugCodes": [
     {
       "code": "68:20.05",
@@ -1215,6 +1802,177 @@
       "site": "CHUQ"
     }
   ],
+  "pcrSite": [
+    {
+      "raw_string_lower": "salive",
+      "display_string": "Oral saliva sample",
+      "snomed_code": "258560004",
+      "site": "CHUQ",
+      "Reviewed_by": [
+        "Johann"
+      ],
+      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/258560004"
+    },
+    {
+      "raw_string_lower": "naso/orop",
+      "display_string": "Nasopharyngeal swab",
+      "snomed_code": "258500001",
+      "site": "CHUQ",
+      "Reviewed_by": [
+        "Johann"
+      ],
+      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/258500001"
+    },
+    {
+      "raw_string_lower": "tige verit",
+      "display_string": "Nasopharyngeal swab",
+      "snomed_code": "258500001",
+      "site": "CHUQ",
+      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/258500001"
+    },
+    {
+      "raw_string_lower": "séc.endotr",
+      "display_string": "Tracheal aspirate",
+      "snomed_code": "445447003",
+      "site": "CHUQ",
+      "Comments": "Johann: SHould it be 838801000000104?",
+      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/445447003"
+    },
+    {
+      "raw_string_lower": "*",
+      "display_string": "Undetermined",
+      "snomed_code": "82334004",
+      "site": "CHUQ",
+      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/82334004"
+    },
+    {
+      "raw_string_lower": "oral/nasal",
+      "display_string": "Nasopharyngeal swab",
+      "snomed_code": "258500001",
+      "site": "CHUQ",
+      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/258500001"
+    },
+    {
+      "raw_string_lower": "gargarisme",
+      "display_string": "Oromucosal solution for gargle",
+      "snomed_code": "385065007",
+      "site": "CHUQ",
+      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/385065007"
+    },
+    {
+      "raw_string_lower": "expecto",
+      "display_string": "Sputum specimen",
+      "snomed_code": "119334006",
+      "site": "CHUQ",
+      "Reviewed_by": [
+        "Johann"
+      ],
+      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/119334006"
+    },
+    {
+      "raw_string_lower": "non",
+      "display_string": "Undetermined",
+      "snomed_code": "82334004",
+      "site": "CHUQ",
+      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/82334004"
+    },
+    {
+      "raw_string_lower": "tige idnow",
+      "display_string": "Nasopharyngeal swab",
+      "snomed_code": "258500001",
+      "site": "CHUQ",
+      "Reviewed_by": [
+        "Johann"
+      ],
+      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/258500001"
+    },
+    {
+      "raw_string_lower": "lba",
+      "site": "CHUQ"
+    },
+    {
+      "raw_string_lower": "non spécif",
+      "display_string": "Undetermined",
+      "snomed_code": "82334004",
+      "site": "CHUQ",
+      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/82334004"
+    },
+    {
+      "raw_string_lower": "voir nonco",
+      "site": "CHUQ"
+    },
+    {
+      "raw_string_lower": "autre",
+      "display_string": "Undetermined",
+      "snomed_code": "82334004",
+      "site": "CHUQ",
+      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/82334004"
+    }
+  ],
+  "drugName": [],
+  "imagingName": [],
+  "drugFrequency": [],
+  "observationNameUnit": [],
+  "cultureName": [],
+  "drugRoute": [],
+  "pcrName": [
+    {
+      "raw_string_lower": "mcovi",
+      "display_string": "sars_cov2",
+      "loinc_code": "94500-6",
+      "site": "CHUQ",
+      "loinc_reference_url": "https://loinc.org/94500-6"
+    },
+    {
+      "raw_string_lower": "coidn",
+      "display_string": "sars_cov2",
+      "loinc_code": "94500-6",
+      "site": "CHUQ",
+      "loinc_reference_url": "https://loinc.org/94500-6"
+    },
+    {
+      "raw_string_lower": "covco",
+      "display_string": "sars_cov2",
+      "loinc_code": "94500-6",
+      "site": "CHUQ",
+      "reviewed_by": [
+        "Johann"
+      ],
+      "loinc_reference_url": "https://loinc.org/94500-6"
+    },
+    {
+      "raw_string_lower": "xcovi",
+      "display_string": "sars_cov2",
+      "loinc_code": "94500-6",
+      "site": "CHUQ",
+      "reviewed_by": [
+        "Johann"
+      ],
+      "loinc_reference_url": "https://loinc.org/94500-6"
+    },
+    {
+      "raw_string_lower": "covid",
+      "display_string": "sars_cov2",
+      "loinc_code": "94500-6",
+      "site": "CHUQ",
+      "reviewed_by": [
+        "Johann"
+      ],
+      "loinc_reference_url": "https://loinc.org/94500-6"
+    },
+    {
+      "raw_string_lower": "xxcov",
+      "display_string": "sars_cov2",
+      "loinc_code": "94500-6",
+      "site": "CHUQ",
+      "reviewed_by": [
+        "Johann"
+      ],
+      "loinc_reference_url": "https://loinc.org/94500-6"
+    }
+  ],
+  "labSite": [],
+  "cultureResultStatus": [],
   "pcrResultStatus": [
     {
       "raw_string_lower": "vndet",
@@ -1227,17 +1985,23 @@
       "reviewed_by": [
         "Johann"
       ],
+      "result_fhir_display_string": "Negative",
+      "fhir_result_reference_url": "http://terminology.hl7.org/CodeSystem/v3-ObservationInterpretation",
+      "result_fhir_code": "NEG",
       "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/260385009"
     },
     {
       "raw_string_lower": "ncc01",
-      "result_display_string": "n/a",
+      "result_display_string": "Undetermined",
       "status_display_string": "cancelled",
       "result_snomed_code": "82334004",
       "status_fhir_code": "cancelled",
       "fhir_reference_url": "https://www.hl7.org/fhir/valueset-observation-status.html",
       "site": "CHUQ",
       "Comments": "idem",
+      "result_fhir_display_string": "Indeterminate",
+      "fhir_result_reference_url": "http://terminology.hl7.org/CodeSystem/v3-ObservationInterpretation",
+      "result_fhir_code": "IND",
       "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/82334004"
     },
     {
@@ -1251,60 +2015,78 @@
       "reviewed_by": [
         "Johann"
       ],
+      "result_fhir_display_string": "Positive",
+      "fhir_result_reference_url": "http://terminology.hl7.org/CodeSystem/v3-ObservationInterpretation",
+      "result_fhir_code": "POS",
       "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/10828004"
     },
     {
       "raw_string_lower": "repri",
-      "result_display_string": "n/a",
+      "result_display_string": "Undetermined",
       "status_display_string": "cancelled",
       "result_snomed_code": "82334004",
       "status_fhir_code": "cancelled",
       "site": "CHUQ",
       "Comments": "idem",
+      "result_fhir_display_string": "Indeterminate",
+      "fhir_result_reference_url": "http://terminology.hl7.org/CodeSystem/v3-ObservationInterpretation",
+      "result_fhir_code": "IND",
       "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/82334004"
     },
     {
       "raw_string_lower": "ncr21",
-      "result_display_string": "n/a",
+      "result_display_string": "Undetermined",
       "status_display_string": "cancelled",
       "result_snomed_code": "82334004",
       "status_fhir_code": "cancelled",
       "fhir_reference_url": "https://www.hl7.org/fhir/valueset-observation-status.html",
       "site": "CHUQ",
       "Comments": "idem",
+      "result_fhir_display_string": "Indeterminate",
+      "fhir_result_reference_url": "http://terminology.hl7.org/CodeSystem/v3-ObservationInterpretation",
+      "result_fhir_code": "IND",
       "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/82334004"
     },
     {
       "raw_string_lower": "ncann",
-      "result_display_string": "n/a",
+      "result_display_string": "Undetermined",
       "status_display_string": "cancelled",
       "result_snomed_code": "82334004",
       "status_fhir_code": "cancelled",
       "fhir_reference_url": "https://www.hl7.org/fhir/valueset-observation-status.html",
       "site": "CHUQ",
       "Comments": "idem",
+      "result_fhir_display_string": "Indeterminate",
+      "fhir_result_reference_url": "http://terminology.hl7.org/CodeSystem/v3-ObservationInterpretation",
+      "result_fhir_code": "IND",
       "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/82334004"
     },
     {
       "raw_string_lower": "snrec",
-      "result_display_string": "n/a",
+      "result_display_string": "Undetermined",
       "status_display_string": "cancelled",
       "result_snomed_code": "82334004",
       "status_fhir_code": "cancelled",
       "fhir_reference_url": "https://www.hl7.org/fhir/valueset-observation-status.html",
       "site": "CHUQ",
       "Comments": "Idem",
+      "result_fhir_display_string": "Indeterminate",
+      "fhir_result_reference_url": "http://terminology.hl7.org/CodeSystem/v3-ObservationInterpretation",
+      "result_fhir_code": "IND",
       "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/82334004"
     },
     {
       "raw_string_lower": "vaure",
-      "result_display_string": "n/a",
+      "result_display_string": "Undetermined",
       "status_display_string": "cancelled",
       "result_snomed_code": "82334004",
       "status_fhir_code": "cancelled",
       "fhir_reference_url": "https://www.hl7.org/fhir/valueset-observation-status.html",
       "site": "CHUQ",
-      "Comments": "Johann: If cancelled, should \"result_snomed\" be 89925002? Else \"status_fhir\" should be unknown since result_snomed is \"Indeterminate'?",
+      "Comments": "Johann: If cancelled, should result_snomed be 89925002? Else status_fhir should be unknown since result_snomed is Indeterminate?",
+      "result_fhir_display_string": "Indeterminate",
+      "fhir_result_reference_url": "http://terminology.hl7.org/CodeSystem/v3-ObservationInterpretation",
+      "result_fhir_code": "IND",
       "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/82334004"
     },
     {
@@ -1323,6 +2105,9 @@
       "reviewed_by": [
         "Johann"
       ],
+      "result_fhir_display_string": "Positive",
+      "fhir_result_reference_url": "http://terminology.hl7.org/CodeSystem/v3-ObservationInterpretation",
+      "result_fhir_code": "POS",
       "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/10828004"
     },
     {
@@ -1333,29 +2118,38 @@
       "status_fhir_code": "final",
       "fhir_reference_url": "https://www.hl7.org/fhir/valueset-observation-status.html",
       "site": "CHUQ",
-      "Comments": "Johann: Shouln't the status_fhir_code be preliminary? Since Equivocal",
+      "Comments": "Johann: Shouln t the status_fhir_code be preliminary? Since Equivocal",
+      "result_fhir_display_string": "Equivocal",
+      "fhir_result_reference_url": "http://terminology.hl7.org/CodeSystem/v3-ObservationInterpretation",
+      "result_fhir_code": "E",
       "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/42425007"
     },
     {
       "raw_string_lower": "noeff",
-      "result_display_string": "n/a",
+      "result_display_string": "Undetermined",
       "status_display_string": "cancelled",
       "result_snomed_code": "82334004",
       "status_fhir_code": "cancelled",
       "fhir_reference_url": "https://www.hl7.org/fhir/valueset-observation-status.html",
       "site": "CHUQ",
-      "Comments": "Johann: If cancelled, should \"result_snomed\" be 89925002? Else \"status_fhir\" should be unknown since result_snomed is \"Indeterminate'?",
+      "Comments": "Johann: If cancelled, should result_snomed be 89925002? Else status_fhir should be unknown since result_snomed is Indeterminate?",
+      "result_fhir_display_string": "Indeterminate",
+      "fhir_result_reference_url": "http://terminology.hl7.org/CodeSystem/v3-ObservationInterpretation",
+      "result_fhir_code": "IND",
       "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/82334004"
     },
     {
       "raw_string_lower": "anexp",
-      "result_display_string": "n/a",
+      "result_display_string": "Undetermined",
       "status_display_string": "cancelled",
       "result_snomed_code": "82334004",
       "status_fhir_code": "cancelled",
       "fhir_reference_url": "https://www.hl7.org/fhir/valueset-observation-status.html",
       "site": "CHUQ",
       "Comments": "idem",
+      "result_fhir_display_string": "Indeterminate",
+      "fhir_result_reference_url": "http://terminology.hl7.org/CodeSystem/v3-ObservationInterpretation",
+      "result_fhir_code": "IND",
       "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/82334004"
     },
     {
@@ -1369,6 +2163,9 @@
       "reviewed_by": [
         "Johann"
       ],
+      "result_fhir_display_string": "Positive",
+      "fhir_result_reference_url": "http://terminology.hl7.org/CodeSystem/v3-ObservationInterpretation",
+      "result_fhir_code": "POS",
       "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/10828004"
     },
     {
@@ -1382,17 +2179,23 @@
       "reviewed_by": [
         "Johann"
       ],
+      "result_fhir_display_string": "Positive",
+      "fhir_result_reference_url": "http://terminology.hl7.org/CodeSystem/v3-ObservationInterpretation",
+      "result_fhir_code": "POS",
       "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/10828004"
     },
     {
       "raw_string_lower": "nce26",
-      "result_display_string": "n/a",
+      "result_display_string": "Undetermined",
       "status_display_string": "cancelled",
       "result_snomed_code": "82334004",
       "status_fhir_code": "cancelled",
       "fhir_reference_url": "https://www.hl7.org/fhir/valueset-observation-status.html",
       "site": "CHUQ",
       "Comments": "idem",
+      "result_fhir_display_string": "Indeterminate",
+      "fhir_result_reference_url": "http://terminology.hl7.org/CodeSystem/v3-ObservationInterpretation",
+      "result_fhir_code": "IND",
       "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/82334004"
     },
     {
@@ -1403,7 +2206,10 @@
       "status_fhir_code": "final",
       "fhir_reference_url": "https://www.hl7.org/fhir/valueset-observation-status.html",
       "site": "CHUQ",
-      "Comments": "Johann: Shouln't the status_fhir_code be preliminary? Since Equivocal",
+      "Comments": "Johann: Shouln t the status_fhir_code be preliminary? Since Equivocal",
+      "result_fhir_display_string": "Equivocal",
+      "fhir_result_reference_url": "http://terminology.hl7.org/CodeSystem/v3-ObservationInterpretation",
+      "result_fhir_code": "E",
       "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/42425007"
     },
     {
@@ -1417,6 +2223,9 @@
       "reviewed_by": [
         "Johann"
       ],
+      "result_fhir_display_string": "Negative",
+      "fhir_result_reference_url": "http://terminology.hl7.org/CodeSystem/v3-ObservationInterpretation",
+      "result_fhir_code": "NEG",
       "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/260385009"
     },
     {
@@ -1430,6 +2239,9 @@
       "reviewed_by": [
         "Johann"
       ],
+      "result_fhir_display_string": "Negative",
+      "fhir_result_reference_url": "http://terminology.hl7.org/CodeSystem/v3-ObservationInterpretation",
+      "result_fhir_code": "NEG",
       "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/260385009"
     },
     {
@@ -1443,6 +2255,9 @@
       "reviewed_by": [
         "Johann"
       ],
+      "result_fhir_display_string": "Positive",
+      "fhir_result_reference_url": "http://terminology.hl7.org/CodeSystem/v3-ObservationInterpretation",
+      "result_fhir_code": "POS",
       "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/10828004"
     },
     {
@@ -1453,773 +2268,54 @@
       "status_fhir_code": "final",
       "fhir_reference_url": "https://www.hl7.org/fhir/valueset-observation-status.html",
       "site": "CHUQ",
-      "Comments": "Johann: Shouln't the status_fhir_code be preliminary? Since Equivocal",
+      "Comments": "Johann: Shouln t the status_fhir_code be preliminary? Since Equivocal",
+      "result_fhir_display_string": "Equivocal",
+      "fhir_result_reference_url": "http://terminology.hl7.org/CodeSystem/v3-ObservationInterpretation",
+      "result_fhir_code": "E",
       "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/42425007"
     },
     {
       "raw_string_lower": "inval",
-      "result_display_string": "n/a",
+      "result_display_string": "Undetermined",
       "status_display_string": "cancelled",
       "result_snomed_code": "82334004",
       "status_fhir_code": "cancelled",
       "fhir_reference_url": "https://www.hl7.org/fhir/valueset-observation-status.html",
       "site": "CHUQ",
       "Comments": "idem",
+      "result_fhir_display_string": "Indeterminate",
+      "fhir_result_reference_url": "http://terminology.hl7.org/CodeSystem/v3-ObservationInterpretation",
+      "result_fhir_code": "IND",
       "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/82334004"
     },
     {
       "raw_string_lower": "anmed",
-      "result_display_string": "n/a",
+      "result_display_string": "Undetermined",
       "status_display_string": "cancelled",
       "result_snomed_code": "82334004",
       "status_fhir_code": "cancelled",
       "fhir_reference_url": "https://www.hl7.org/fhir/valueset-observation-status.html",
       "site": "CHUQ",
       "Comments": "idem",
+      "result_fhir_display_string": "Indeterminate",
+      "fhir_result_reference_url": "http://terminology.hl7.org/CodeSystem/v3-ObservationInterpretation",
+      "result_fhir_code": "IND",
       "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/82334004"
     },
     {
       "raw_string_lower": "ncr22",
-      "result_display_string": "n/a",
+      "result_display_string": "Undetermined",
       "status_display_string": "cancelled",
       "result_snomed_code": "82334004",
       "status_fhir_code": "cancelled",
       "fhir_reference_url": "https://www.hl7.org/fhir/valueset-observation-status.html",
       "site": "CHUQ",
       "Comments": "idem",
+      "result_fhir_display_string": "Indeterminate",
+      "fhir_result_reference_url": "http://terminology.hl7.org/CodeSystem/v3-ObservationInterpretation",
+      "result_fhir_code": "IND",
       "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/82334004"
     }
   ],
-  "drugRoute": [],
-  "observationNameUnit": [],
-  "imagingName": [],
-  "labSite": [],
-  "cultureResultStatus": [],
-  "drugFrequency": [],
-  "unitType": [
-    {
-      "raw_string_lower": "1c  ",
-      "display_string": "inpatient_ward",
-      "fhir_code": "HU",
-      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
-      "site": "CHUQ"
-    },
-    {
-      "raw_string_lower": "a150",
-      "display_string": "inpatient_ward",
-      "fhir_code": "HU",
-      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
-      "site": "CHUQ"
-    },
-    {
-      "raw_string_lower": "si  ",
-      "display_string": "intensive_care_unit",
-      "fhir_code": "ICU",
-      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
-      "site": "CHUQ"
-    },
-    {
-      "raw_string_lower": "e500",
-      "display_string": "inpatient_ward",
-      "fhir_code": "HU",
-      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
-      "site": "CHUQ"
-    },
-    {
-      "raw_string_lower": "doud",
-      "display_string": "intensive_care_unit",
-      "fhir_code": "ICU",
-      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
-      "site": "CHUQ"
-    },
-    {
-      "raw_string_lower": "3c  ",
-      "display_string": "inpatient_ward",
-      "fhir_code": "HU",
-      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
-      "site": "CHUQ"
-    },
-    {
-      "raw_string_lower": "b7  ",
-      "display_string": "inpatient_ward",
-      "fhir_code": "HU",
-      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
-      "site": "CHUQ"
-    },
-    {
-      "raw_string_lower": "24",
-      "display_string": "inpatient_ward",
-      "fhir_code": "HU",
-      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
-      "site": "CHUQ"
-    },
-    {
-      "raw_string_lower": "45",
-      "display_string": "intensive_care_unit",
-      "fhir_code": "ICU",
-      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
-      "site": "CHUQ"
-    },
-    {
-      "raw_string_lower": "simc",
-      "display_string": "intensive_care_unit",
-      "fhir_code": "ICU",
-      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
-      "site": "CHUQ"
-    },
-    {
-      "raw_string_lower": "triq",
-      "display_string": "inpatient_ward",
-      "fhir_code": "HU",
-      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
-      "site": "CHUQ"
-    },
-    {
-      "raw_string_lower": "b7ce",
-      "display_string": "inpatient_ward",
-      "fhir_code": "HU",
-      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
-      "site": "CHUQ"
-    },
-    {
-      "raw_string_lower": "3seb",
-      "display_string": "inpatient_ward",
-      "fhir_code": "HU",
-      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
-      "site": "CHUQ"
-    },
-    {
-      "raw_string_lower": "3n  ",
-      "display_string": "inpatient_ward",
-      "fhir_code": "HU",
-      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
-      "site": "CHUQ"
-    },
-    {
-      "raw_string_lower": "4se ",
-      "display_string": "inpatient_ward",
-      "fhir_code": "HU",
-      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
-      "site": "CHUQ"
-    },
-    {
-      "raw_string_lower": "95",
-      "display_string": "inpatient_ward",
-      "fhir_code": "HU",
-      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
-      "site": "CHUQ"
-    },
-    {
-      "raw_string_lower": "a300",
-      "display_string": "inpatient_ward",
-      "fhir_code": "HU",
-      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
-      "site": "CHUQ"
-    },
-    {
-      "raw_string_lower": "d7d8",
-      "display_string": "inpatient_ward",
-      "fhir_code": "HU",
-      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
-      "site": "CHUQ"
-    },
-    {
-      "raw_string_lower": "e400",
-      "display_string": "coronary_care_unit",
-      "fhir_code": "CCU",
-      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
-      "site": "CHUQ"
-    },
-    {
-      "raw_string_lower": "a6-o",
-      "display_string": "inpatient_ward",
-      "fhir_code": "HU",
-      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
-      "site": "CHUQ"
-    },
-    {
-      "raw_string_lower": "usic",
-      "display_string": "coronary_care_unit",
-      "fhir_code": "CCU",
-      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
-      "site": "CHUQ"
-    },
-    {
-      "raw_string_lower": "pger",
-      "display_string": "inpatient_ward",
-      "fhir_code": "HU",
-      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
-      "site": "CHUQ"
-    },
-    {
-      "raw_string_lower": "b400",
-      "display_string": "inpatient_ward",
-      "fhir_code": "HU",
-      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
-      "site": "CHUQ"
-    },
-    {
-      "raw_string_lower": "b6jr",
-      "display_string": "inpatient_ward",
-      "fhir_code": "HU",
-      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
-      "site": "CHUQ"
-    },
-    {
-      "raw_string_lower": "usad",
-      "display_string": "inpatient_ward",
-      "fhir_code": "HU",
-      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
-      "site": "CHUQ"
-    },
-    {
-      "raw_string_lower": "755",
-      "display_string": "inpatient_ward",
-      "fhir_code": "HU",
-      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
-      "site": "CHUQ"
-    },
-    {
-      "raw_string_lower": "ucdg",
-      "display_string": "inpatient_ward",
-      "fhir_code": "HU",
-      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
-      "site": "CHUQ"
-    },
-    {
-      "raw_string_lower": "p200",
-      "display_string": "intensive_care_unit",
-      "fhir_code": "ICU",
-      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
-      "site": "CHUQ"
-    },
-    {
-      "raw_string_lower": "e200",
-      "display_string": "inpatient_ward",
-      "fhir_code": "HU",
-      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
-      "site": "CHUQ"
-    },
-    {
-      "raw_string_lower": "c1et",
-      "display_string": "inpatient_ward",
-      "fhir_code": "HU",
-      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
-      "site": "CHUQ"
-    },
-    {
-      "raw_string_lower": "3e  ",
-      "display_string": "inpatient_ward",
-      "fhir_code": "HU",
-      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
-      "site": "CHUQ"
-    },
-    {
-      "raw_string_lower": "b5cs",
-      "display_string": "inpatient_ward",
-      "fhir_code": "HU",
-      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
-      "site": "CHUQ"
-    },
-    {
-      "raw_string_lower": "p400",
-      "display_string": "inpatient_ward",
-      "fhir_code": "HU",
-      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
-      "site": "CHUQ"
-    },
-    {
-      "raw_string_lower": "b1sc",
-      "display_string": "coronary_care_unit",
-      "fhir_code": "CCU",
-      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
-      "site": "CHUQ"
-    },
-    {
-      "raw_string_lower": "chjr",
-      "display_string": "day_surgery_unit",
-      "fhir_code": "HU",
-      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
-      "site": "CHUQ"
-    },
-    {
-      "raw_string_lower": "sldv",
-      "display_string": "inpatient_ward",
-      "fhir_code": "HU",
-      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
-      "site": "CHUQ"
-    },
-    {
-      "raw_string_lower": "umj ",
-      "display_string": "inpatient_ward",
-      "fhir_code": "HU",
-      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
-      "site": "CHUQ"
-    },
-    {
-      "raw_string_lower": "a250",
-      "display_string": "inpatient_ward",
-      "fhir_code": "HU",
-      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
-      "site": "CHUQ"
-    },
-    {
-      "raw_string_lower": "cjmd",
-      "display_string": "day_surgery_unit",
-      "fhir_code": "HU",
-      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
-      "site": "CHUQ"
-    },
-    {
-      "raw_string_lower": "115",
-      "display_string": "inpatient_ward",
-      "fhir_code": "HU",
-      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
-      "site": "CHUQ"
-    },
-    {
-      "raw_string_lower": "a240",
-      "display_string": "inpatient_ward",
-      "fhir_code": "HU",
-      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
-      "site": "CHUQ"
-    },
-    {
-      "raw_string_lower": "b4p ",
-      "display_string": "inpatient_ward",
-      "fhir_code": "HU",
-      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
-      "site": "CHUQ"
-    },
-    {
-      "raw_string_lower": "444",
-      "display_string": "inpatient_ward",
-      "fhir_code": "HU",
-      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
-      "site": "CHUQ"
-    },
-    {
-      "raw_string_lower": "5r  ",
-      "display_string": "inpatient_ward",
-      "fhir_code": "HU",
-      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
-      "site": "CHUQ"
-    },
-    {
-      "raw_string_lower": "a4-o",
-      "display_string": "inpatient_ward",
-      "fhir_code": "HU",
-      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
-      "site": "CHUQ"
-    },
-    {
-      "raw_string_lower": "1se",
-      "display_string": "inpatient_ward",
-      "fhir_code": "HU",
-      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
-      "site": "CHUQ"
-    },
-    {
-      "raw_string_lower": "c200",
-      "display_string": "inpatient_ward",
-      "fhir_code": "HU",
-      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
-      "site": "CHUQ"
-    },
-    {
-      "raw_string_lower": "sic ",
-      "display_string": "coronary_care_unit",
-      "fhir_code": "CCU",
-      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
-      "site": "CHUQ"
-    },
-    {
-      "raw_string_lower": "a160",
-      "display_string": "inpatient_ward",
-      "fhir_code": "HU",
-      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
-      "site": "CHUQ"
-    },
-    {
-      "raw_string_lower": "c4a4",
-      "display_string": "inpatient_ward",
-      "fhir_code": "HU",
-      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
-      "site": "CHUQ"
-    },
-    {
-      "raw_string_lower": "b500",
-      "display_string": "inpatient_ward",
-      "fhir_code": "HU",
-      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
-      "site": "CHUQ"
-    },
-    {
-      "raw_string_lower": "usap",
-      "display_string": "inpatient_ward",
-      "fhir_code": "HU",
-      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
-      "site": "CHUQ"
-    },
-    {
-      "raw_string_lower": "c300",
-      "display_string": "inpatient_ward",
-      "fhir_code": "HU",
-      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
-      "site": "CHUQ"
-    },
-    {
-      "raw_string_lower": "b5  ",
-      "display_string": "inpatient_ward",
-      "fhir_code": "HU",
-      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
-      "site": "CHUQ"
-    },
-    {
-      "raw_string_lower": "b1  ",
-      "display_string": "inpatient_ward",
-      "fhir_code": "HU",
-      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
-      "site": "CHUQ"
-    },
-    {
-      "raw_string_lower": "b4  ",
-      "display_string": "inpatient_ward",
-      "fhir_code": "HU",
-      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
-      "site": "CHUQ"
-    },
-    {
-      "raw_string_lower": "4y  ",
-      "display_string": "inpatient_ward",
-      "fhir_code": "HU",
-      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
-      "site": "CHUQ"
-    },
-    {
-      "raw_string_lower": "85",
-      "display_string": "inpatient_ward",
-      "fhir_code": "HU",
-      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
-      "site": "CHUQ"
-    },
-    {
-      "raw_string_lower": "a5-e",
-      "display_string": "inpatient_ward",
-      "fhir_code": "HU",
-      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
-      "site": "CHUQ"
-    },
-    {
-      "raw_string_lower": "a6-e",
-      "display_string": "inpatient_ward",
-      "fhir_code": "HU",
-      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
-      "site": "CHUQ"
-    },
-    {
-      "raw_string_lower": "2so ",
-      "display_string": "inpatient_ward",
-      "fhir_code": "HU",
-      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
-      "site": "CHUQ"
-    },
-    {
-      "raw_string_lower": "a110",
-      "display_string": "inpatient_ward",
-      "fhir_code": "HU",
-      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
-      "site": "CHUQ"
-    },
-    {
-      "raw_string_lower": "grfm",
-      "display_string": "inpatient_ward",
-      "fhir_code": "HU",
-      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
-      "site": "CHUQ"
-    },
-    {
-      "raw_string_lower": "e300",
-      "display_string": "inpatient_ward",
-      "fhir_code": "HU",
-      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
-      "site": "CHUQ"
-    },
-    {
-      "raw_string_lower": "b8  ",
-      "display_string": "inpatient_ward",
-      "fhir_code": "HU",
-      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
-      "site": "CHUQ"
-    },
-    {
-      "raw_string_lower": "trau",
-      "display_string": "inpatient_ward",
-      "fhir_code": "HU",
-      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
-      "site": "CHUQ"
-    },
-    {
-      "raw_string_lower": "c1j ",
-      "display_string": "inpatient_ward",
-      "fhir_code": "HU",
-      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
-      "site": "CHUQ"
-    },
-    {
-      "raw_string_lower": "b3  ",
-      "display_string": "inpatient_ward",
-      "fhir_code": "HU",
-      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
-      "site": "CHUQ"
-    },
-    {
-      "raw_string_lower": "a260",
-      "display_string": "inpatient_ward",
-      "fhir_code": "HU",
-      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
-      "site": "CHUQ"
-    },
-    {
-      "raw_string_lower": "34",
-      "display_string": "intensive_care_unit",
-      "fhir_code": "ICU",
-      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
-      "site": "CHUQ"
-    },
-    {
-      "raw_string_lower": "2e  ",
-      "display_string": "inpatient_ward",
-      "fhir_code": "HU",
-      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
-      "site": "CHUQ"
-    },
-    {
-      "raw_string_lower": "2c  ",
-      "display_string": "inpatient_ward",
-      "fhir_code": "HU",
-      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
-      "site": "CHUQ"
-    },
-    {
-      "raw_string_lower": "a040",
-      "display_string": "inpatient_ward",
-      "fhir_code": "HU",
-      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
-      "site": "CHUQ"
-    },
-    {
-      "raw_string_lower": "c500",
-      "display_string": "inpatient_ward",
-      "fhir_code": "HU",
-      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
-      "site": "CHUQ"
-    },
-    {
-      "raw_string_lower": "135",
-      "display_string": "inpatient_ward",
-      "fhir_code": "HU",
-      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
-      "site": "CHUQ"
-    },
-    {
-      "raw_string_lower": "poup",
-      "display_string": "inpatient_ward",
-      "fhir_code": "HU",
-      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
-      "site": "CHUQ"
-    },
-    {
-      "raw_string_lower": "udsr",
-      "display_string": "inpatient_ward",
-      "fhir_code": "HU",
-      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
-      "site": "CHUQ"
-    },
-    {
-      "raw_string_lower": "a010",
-      "display_string": "inpatient_ward",
-      "fhir_code": "HU",
-      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
-      "site": "CHUQ"
-    },
-    {
-      "raw_string_lower": "b6  ",
-      "display_string": "inpatient_ward",
-      "fhir_code": "HU",
-      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
-      "site": "CHUQ"
-    },
-    {
-      "raw_string_lower": "p300",
-      "display_string": "inpatient_ward",
-      "fhir_code": "HU",
-      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
-      "site": "CHUQ"
-    },
-    {
-      "raw_string_lower": "a190",
-      "display_string": "intensive_care_unit",
-      "fhir_code": "ICU",
-      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
-      "site": "CHUQ"
-    },
-    {
-      "raw_string_lower": "a210",
-      "display_string": "pediatric_neonatal_care_unit",
-      "fhir_code": "PEDNICU",
-      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
-      "site": "CHUQ"
-    },
-    {
-      "raw_string_lower": "4so ",
-      "display_string": "inpatient_ward",
-      "fhir_code": "HU",
-      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
-      "site": "CHUQ"
-    },
-    {
-      "raw_string_lower": "247",
-      "display_string": "coronary_care_unit",
-      "fhir_code": "CCU",
-      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
-      "site": "CHUQ"
-    },
-    {
-      "raw_string_lower": "sit ",
-      "display_string": "inpatient_ward",
-      "fhir_code": "HU",
-      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
-      "site": "CHUQ"
-    },
-    {
-      "raw_string_lower": "a200",
-      "display_string": "inpatient_ward",
-      "fhir_code": "HU",
-      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
-      "site": "CHUQ"
-    },
-    {
-      "raw_string_lower": "75",
-      "display_string": "inpatient_ward",
-      "fhir_code": "HU",
-      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
-      "site": "CHUQ"
-    },
-    {
-      "raw_string_lower": "105",
-      "display_string": "inpatient_ward",
-      "fhir_code": "HU",
-      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
-      "site": "CHUQ"
-    },
-    {
-      "raw_string_lower": "2se ",
-      "display_string": "inpatient_ward",
-      "fhir_code": "HU",
-      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
-      "site": "CHUQ"
-    },
-    {
-      "raw_string_lower": "cs  ",
-      "display_string": "inpatient_ward",
-      "fhir_code": "HU",
-      "fhir_reference_url": "https://www.hl7.org/fhir/v3/ServiceDeliveryLocationRoleType/vs.html",
-      "site": "CHUQ"
-    }
-  ],
-  "pcrSite": [
-    {
-      "raw_string_lower": "salive",
-      "display_string": "saliva",
-      "snomed_code": "258560004",
-      "site": "CHUQ",
-      "Reviewed_by": [
-        "Johann"
-      ],
-      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/258560004"
-    },
-    {
-      "raw_string_lower": "naso/orop",
-      "display_string": "nasopharyngeal_swab",
-      "snomed_code": "258500001",
-      "site": "CHUQ",
-      "Reviewed_by": [
-        "Johann"
-      ],
-      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/258500001"
-    },
-    {
-      "raw_string_lower": "séc.endotr",
-      "display_string": "endotracheal_aspirate",
-      "snomed_code": "445447003",
-      "site": "CHUQ",
-      "Comments": "Johann: SHould it be 838801000000104?",
-      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/445447003"
-    },
-    {
-      "raw_string_lower": "*",
-      "display_string": "unspecified",
-      "snomed_code": "n/a",
-      "site": "CHUQ"
-    },
-    {
-      "raw_string_lower": "oral/nasal",
-      "display_string": "nasopharyngeal_swab",
-      "snomed_code": "258500001",
-      "site": "CHUQ",
-      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/258500001"
-    },
-    {
-      "raw_string_lower": "gargarisme",
-      "display_string": "gargle",
-      "site": "CHUQ"
-    },
-    {
-      "raw_string_lower": "expecto",
-      "display_string": "expectorated_sputum",
-      "snomed_code": "119334006",
-      "site": "CHUQ",
-      "Reviewed_by": [
-        "Johann"
-      ],
-      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/119334006"
-    },
-    {
-      "raw_string_lower": "non",
-      "display_string": "unspecified",
-      "snomed_code": "n/a",
-      "site": "CHUQ"
-    },
-    {
-      "raw_string_lower": "tige idnow",
-      "display_string": "nasopharyngeal_swab",
-      "snomed_code": "258500001",
-      "site": "CHUQ",
-      "Reviewed_by": [
-        "Johann"
-      ],
-      "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/258500001"
-    },
-    {
-      "raw_string_lower": "lba",
-      "site": "CHUQ"
-    },
-    {
-      "raw_string_lower": "non spécif",
-      "display_string": "unspecified",
-      "snomed_code": "n/a",
-      "site": "CHUQ"
-    },
-    {
-      "raw_string_lower": "voir nonco",
-      "site": "CHUQ"
-    },
-    {
-      "raw_string_lower": "autre",
-      "display_string": "unspecified",
-      "snomed_code": "n/a",
-      "site": "CHUQ"
-    }
-  ]
+  "labName": []
 }
