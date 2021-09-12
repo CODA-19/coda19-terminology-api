@@ -1,6 +1,4 @@
 {
-  "labName": [],
-  "labSite": [],
   "pcrSite": [
     {
       "raw_string_lower": "salive",
@@ -108,1166 +106,2152 @@
       "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/82334004"
     }
   ],
-  "drugRoute": [],
-  "cultureResultStatus": [],
-  "drugCodes": [
-    {
-      "code": "68:20.05",
-      "description": "Dipeptidyl Peptidase IV (DDP-4) Inhibitors",
-      "site": "CHUQ"
-    },
-    {
-      "code": "28:16.04.20",
-      "description": "Selective-serotonin Reuptake Inhibitors",
-      "site": "CHUQ"
-    },
-    {
-      "code": "28:16.08",
-      "description": "Antipsychotics",
-      "site": "CHUQ"
-    },
-    {
-      "code": "28:36.20.08",
-      "description": "Nonergot-derivative Dopamine Receptor Agonists",
-      "site": "CHUQ"
-    },
-    {
-      "code": "68:22.92",
-      "description": "Antihypoglycemic Agents, Miscellaneous*8:30.04 Somatotropin Agonists",
-      "site": "CHUQ"
-    },
-    {
-      "code": "48:12.04.08",
-      "description": "Non-selective -Adrenergic Agonists*",
-      "site": "CHUQ"
-    },
-    {
-      "code": "8:12.18",
-      "description": "Quinolones",
-      "site": "CHUQ"
-    },
-    {
-      "code": "48:10.08.08",
-      "description": "Orally Inhaled Preparations*",
-      "site": "CHUQ"
-    },
-    {
-      "code": "20:12.04.08",
-      "description": "Coumarin Derivatives",
-      "site": "CHUQ"
-    },
-    {
-      "code": "84:04.92",
-      "description": "Local Anti-infectives, Miscellaneous84:24.04 Basic Lotions and Liniments*",
-      "site": "CHUQ"
-    },
-    {
-      "code": "8:14.16",
-      "description": "Echinocandins",
-      "site": "CHUQ"
-    },
-    {
-      "code": "28:16.08.04",
-      "description": "Atypical Antipsychotics",
-      "site": "CHUQ"
-    },
-    {
-      "code": "28:12.16",
-      "description": "Oxazolidinediones*",
-      "site": "CHUQ"
-    },
-    {
-      "code": "24:04.04.24",
-      "description": "Class IV Antiarrhythmics",
-      "site": "CHUQ"
-    },
-    {
-      "code": "8:18.92",
-      "description": "Antivirals, Miscellaneous:30.04 Amebicides",
-      "site": "CHUQ"
-    },
-    {
-      "code": "24:32.40",
-      "description": "Renin Inhibitors8:04.04 Barbiturates",
-      "site": "CHUQ"
-    },
-    {
-      "code": "8:12.12.04",
-      "description": "Erythromycins",
-      "site": "CHUQ"
-    },
-    {
-      "code": "4:04.20",
-      "description": "Propylamine Derivatives",
-      "site": "CHUQ"
-    },
-    {
-      "code": "36:88.40",
-      "description": "Sugar*0:18.16 Sodium-removing Agents*",
-      "site": "CHUQ"
-    },
-    {
-      "code": "12:20.20",
-      "description": "Neuromuscular Blocking Agents",
-      "site": "CHUQ"
-    },
-    {
-      "code": "48:12.12",
-      "description": "Xanthine Derivatives*52:04.04 Antibacterials",
-      "site": "CHUQ"
-    },
-    {
-      "code": "28:16.08.92",
-      "description": "Antipsychotics, Miscellaneous",
-      "site": "CHUQ"
-    },
-    {
-      "code": "8:12.06",
-      "description": "Cephalosporins",
-      "site": "CHUQ"
-    },
-    {
-      "code": "48:04.08",
-      "description": "Second Generation Antihistamines*48:10.08 Corticosteroids*",
-      "site": "CHUQ"
-    },
-    {
-      "code": "8:12.06.16",
-      "description": "Fourth Generation Cephalosporins",
-      "site": "CHUQ"
-    },
-    {
-      "code": "68:20.28",
-      "description": "Thiazolidinediones",
-      "site": "CHUQ"
-    },
-    {
-      "code": "24:32.20",
-      "description": "Mineralocorticoid (Aldosterone) Receptor Antagonists",
-      "site": "CHUQ"
-    },
-    {
-      "code": "8:12.08",
-      "description": "Chloramphenicol",
-      "site": "CHUQ"
-    },
-    {
-      "code": "12:20.12",
-      "description": "GABA-derivative Skeletal Muscle Relaxants",
-      "site": "CHUQ"
-    },
-    {
-      "code": "4:04.04",
-      "description": "Ethanolamine Derivatives",
-      "site": "CHUQ"
-    },
-    {
-      "code": "24:08.24.20",
-      "description": "Thiazide Diuretics*",
-      "site": "CHUQ"
-    },
-    {
-      "code": "8:18.08.04",
-      "description": "HIV Fusion Inhibitors",
-      "site": "CHUQ"
-    },
-    {
-      "code": "8:12.28.32",
-      "description": "Streptogramins",
-      "site": "CHUQ"
-    },
-    {
-      "code": "28:36.20.04",
-      "description": "Ergot-derivative Dopamine Receptor Agonists",
-      "site": "CHUQ"
-    },
-    {
-      "code": "20:12.20",
-      "description": "Thrombolytic Agents0:28.08 Antiheparin Agents",
-      "site": "CHUQ"
-    },
-    {
-      "code": "28:16.04.24",
-      "description": "Serotonin Modulators",
-      "site": "CHUQ"
-    },
-    {
-      "code": "28:08.92",
-      "description": "Analgesics and Antipyretics, Miscellaneous28:12.04 Barbiturates",
-      "site": "CHUQ"
-    },
-    {
-      "code": "24:08.24",
-      "description": "Diuretics*",
-      "site": "CHUQ"
-    },
-    {
-      "code": "84:04.06",
-      "description": "Antivirals",
-      "site": "CHUQ"
-    },
-    {
-      "code": "8:12.07.04",
-      "description": "Carbacephems",
-      "site": "CHUQ"
-    },
-    {
-      "code": "8:12.28.30",
-      "description": "Rifamycins",
-      "site": "CHUQ"
-    },
-    {
-      "code": "28:16.04.28",
-      "description": "Tricyclics and Other Norepinephrine-reuptake Inhibitors",
-      "site": "CHUQ"
-    },
-    {
-      "code": "24:08.44.04",
-      "description": "Angiotensin-Converting Enzyme Inhibitors*",
-      "site": "CHUQ"
-    },
-    {
-      "code": "24:04.08",
-      "description": "Cardiotonic Agents",
-      "site": "CHUQ"
-    },
-    {
-      "code": "28:12.08",
-      "description": "Benzodiazepines",
-      "site": "CHUQ"
-    },
-    {
-      "code": "28:24.08",
-      "description": "Benzodiazepines",
-      "site": "CHUQ"
-    },
-    {
-      "code": "24:08.24.04",
-      "description": "Carbonic Anhydrase Inhibitors*",
-      "site": "CHUQ"
-    },
-    {
-      "code": "84:04.08.32",
-      "description": "Pyrimidines*",
-      "site": "CHUQ"
-    },
-    {
-      "code": "24:08.24.12",
-      "description": "Osmotic Diuretics*",
-      "site": "CHUQ"
-    },
-    {
-      "code": "84:04.08",
-      "description": "Antifungals",
-      "site": "CHUQ"
-    },
-    {
-      "code": "24:04.92",
-      "description": "Cardiac Drugs, Miscellaneous4:06.04 Bile Acid Sequestrants",
-      "site": "CHUQ"
-    },
-    {
-      "code": "8:12.24",
-      "description": "Tetracyclines",
-      "site": "CHUQ"
-    },
-    {
-      "code": "52:40.28",
-      "description": "Prostaglandin Analogs",
-      "site": "CHUQ"
-    },
-    {
-      "code": "40:28.20",
-      "description": "Thiazide Diuretics",
-      "site": "CHUQ"
-    },
-    {
-      "code": "28:20.92",
-      "description": "Anorexigenic Agents and Respiratory and Cerebral Stimulants, Miscellaneous8:24.04 Barbiturates",
-      "site": "CHUQ"
-    },
-    {
-      "code": "48:10.08.04",
-      "description": "Nasal Preparations*",
-      "site": "CHUQ"
-    },
-    {
-      "code": "8:14.32",
-      "description": "Pyrimidines",
-      "site": "CHUQ"
-    },
-    {
-      "code": "8:18.08.20",
-      "description": "Nucleoside and Nucleotide Reverse Transcriptase Inhibitors",
-      "site": "CHUQ"
-    },
-    {
-      "code": "40:28.92",
-      "description": "Diuretics, Miscellaneous8:04.04 First Generation Antihistamines*",
-      "site": "CHUQ"
-    },
-    {
-      "code": "20:12.04.16",
-      "description": "Heparins",
-      "site": "CHUQ"
-    },
-    {
-      "code": "8:12.06.12",
-      "description": "Third Generation Cephalosporins",
-      "site": "CHUQ"
-    },
-    {
-      "code": "40:28.28",
-      "description": "Vasopressin Antagonists",
-      "site": "CHUQ"
-    },
-    {
-      "code": "24:06.05",
-      "description": "Cholesterol Absorption Inhibitors",
-      "site": "CHUQ"
-    },
-    {
-      "code": "8:14.92",
-      "description": "Antifungals, Miscellaneous:16.04 Antituberculosis Agents",
-      "site": "CHUQ"
-    },
-    {
-      "code": "24:04.04.16",
-      "description": "Class II Antiarrhythmics*",
-      "site": "CHUQ"
-    },
-    {
-      "code": "8:12.16.08",
-      "description": "Aminopenicillins",
-      "site": "CHUQ"
-    },
-    {
-      "code": "28:32.92",
-      "description": "Antimigraine Agents, Miscellaneous*8:36.04 Adamantanes",
-      "site": "CHUQ"
-    },
-    {
-      "code": "28:04.16",
-      "description": "Inhalation Anesthetics*",
-      "site": "CHUQ"
-    },
-    {
-      "code": "40:28.16",
-      "description": "Potassium-sparing Diuretics",
-      "site": "CHUQ"
-    },
-    {
-      "code": "68:20.04",
-      "description": "Biguanides",
-      "site": "CHUQ"
-    },
-    {
-      "code": "48:12.08",
-      "description": "Anticholinergic Agents*",
-      "site": "CHUQ"
-    },
-    {
-      "code": "24:08.20",
-      "description": "Direct Vasodilators",
-      "site": "CHUQ"
-    },
-    {
-      "code": "52:40.12",
-      "description": "Carbonic Anhydrase Inhibitors",
-      "site": "CHUQ"
-    },
-    {
-      "code": "68:36.08",
-      "description": "Antithyroid Agents4:04.04 Antibacterials",
-      "site": "CHUQ"
-    },
-    {
-      "code": "28:36.32",
-      "description": "Monoamine Oxidase B Inhibitors36:88.12 Ketones*",
-      "site": "CHUQ"
-    },
-    {
-      "code": "28:12.92",
-      "description": "Anticonvulsants, Miscellaneous8:16.04 Antidepressants",
-      "site": "CHUQ"
-    },
-    {
-      "code": "24:08.16",
-      "description": "Central -Agonists",
-      "site": "CHUQ"
-    },
-    {
-      "code": "28:24.92",
-      "description": "Anxiolytics, Sedatives, and Hypnotics; Miscellaneous28:32.28 Selective Serotonin Agonists",
-      "site": "CHUQ"
-    },
-    {
-      "code": "52:04.16",
-      "description": "Antifungals",
-      "site": "CHUQ"
-    },
-    {
-      "code": "40:18.17",
-      "description": "Calcium-removing Agents",
-      "site": "CHUQ"
-    },
-    {
-      "code": "8:12.12.12",
-      "description": "Ketolides",
-      "site": "CHUQ"
-    },
-    {
-      "code": "8:12.28.24",
-      "description": "Oxazolidinones",
-      "site": "CHUQ"
-    },
-    {
-      "code": "40:28.24",
-      "description": "Thiazide-like Diuretics",
-      "site": "CHUQ"
-    },
-    {
-      "code": "8:14.28",
-      "description": "Polyenes",
-      "site": "CHUQ"
-    },
-    {
-      "code": "68:20.08",
-      "description": "Insulins",
-      "site": "CHUQ"
-    },
-    {
-      "code": "28:36.08",
-      "description": "Anticholinergic Agents",
-      "site": "CHUQ"
-    },
-    {
-      "code": "8:18.28",
-      "description": "Neuraminidase Inhibitors",
-      "site": "CHUQ"
-    },
-    {
-      "code": "8:12.07.12",
-      "description": "Cephamycins",
-      "site": "CHUQ"
-    },
-    {
-      "code": "68:20.03",
-      "description": "Amylinomimetics",
-      "site": "CHUQ"
-    },
-    {
-      "code": "84:04.12",
-      "description": "Scabicides and Pediculicides",
-      "site": "CHUQ"
-    },
-    {
-      "code": "12:16.08",
-      "description": "-Adrenergic Blocking Agents",
-      "site": "CHUQ"
-    },
-    {
-      "code": "28:04.92",
-      "description": "General Anesthetics, Miscellaneous8:08.04 Nonsteroidal Anti-inflammatory Agents",
-      "site": "CHUQ"
-    },
-    {
-      "code": "84:04.08.08",
-      "description": "Azoles",
-      "site": "CHUQ"
-    },
-    {
-      "code": "12:20.92",
-      "description": "Skeletal Muscle Relaxants, Miscellaneous20:04.04 Iron Preparations",
-      "site": "CHUQ"
-    },
-    {
-      "code": "8:12.12",
-      "description": "Macrolides",
-      "site": "CHUQ"
-    },
-    {
-      "code": "52:40.92",
-      "description": "Antiglaucoma Agents, Miscellaneous*56:22.08 Antihistamines",
-      "site": "CHUQ"
-    },
-    {
-      "code": "4:04.12",
-      "description": "Phenothiazine Derivatives",
-      "site": "CHUQ"
-    },
-    {
-      "code": "84:24.16",
-      "description": "Basic Powders and Demulcents*4:50.04 Depigmenting Agents",
-      "site": "CHUQ"
-    },
-    {
-      "code": "8:14.08",
-      "description": "Azoles",
-      "site": "CHUQ"
-    },
-    {
-      "code": "24:08.12.92",
-      "description": "Calcium-Channel Blocking Agents, Miscellaneous*",
-      "site": "CHUQ"
-    },
-    {
-      "code": "8:30.92",
-      "description": "Antiprotozoals, Miscellaneous12:08.04 Antiparkinsonian Agents*",
-      "site": "CHUQ"
-    },
-    {
-      "code": "52:08.92",
-      "description": "Anti-inflammatory Agents, Miscellaneous52:40.04 -Adrenergic Agonists",
-      "site": "CHUQ"
-    },
-    {
-      "code": "20:28.16",
-      "description": "Hemostatics24:04.04 Antiarrhythmic Agents",
-      "site": "CHUQ"
-    },
-    {
-      "code": "4:04.16",
-      "description": "Piperazine Derivatives",
-      "site": "CHUQ"
-    },
-    {
-      "code": "68:30.08",
-      "description": "Somatotropin Antagonists8:36.04 Thyroid Agents",
-      "site": "CHUQ"
-    },
-    {
-      "code": "8:12.16.04",
-      "description": "Natural Penicillins",
-      "site": "CHUQ"
-    },
-    {
-      "code": "12:16.04.12",
-      "description": "Selective 1-Adrenergic Blocking Agents",
-      "site": "CHUQ"
-    },
-    {
-      "code": "8:12.28.08",
-      "description": "Bacitracins",
-      "site": "CHUQ"
-    },
-    {
-      "code": "12:12.08",
-      "description": "-Adrenergic Agonists",
-      "site": "CHUQ"
-    },
-    {
-      "code": "28:36.12",
-      "description": "Catechol-O-Methyltransferase (COMT) Inhibitors",
-      "site": "CHUQ"
-    },
-    {
-      "code": "56:22.92",
-      "description": "Antiemetics, Miscellaneous56:28.12 Histamine H2-Antagonists",
-      "site": "CHUQ"
-    },
-    {
-      "code": "8:18.08.92",
-      "description": "Antiretrovirals, Miscellaneous*",
-      "site": "CHUQ"
-    },
-    {
-      "code": "84:04.08.92",
-      "description": "Antifungals, M iscellaneous",
-      "site": "CHUQ"
-    },
-    {
-      "code": "24:08.24.24",
-      "description": "Thiazide-like Diuretics*",
-      "site": "CHUQ"
-    },
-    {
-      "code": "24:08.32",
-      "description": "Peripheral Adrenergic Inhibitors",
-      "site": "CHUQ"
-    },
-    {
-      "code": "8:18.32",
-      "description": "Nucleosides and Nucleotides",
-      "site": "CHUQ"
-    },
-    {
-      "code": "12:08.08",
-      "description": "Antimuscarinics/Antispasmodics2:12.04 -Adrenergic Agonists",
-      "site": "CHUQ"
-    },
-    {
-      "code": "28:12.20",
-      "description": "Succinimides",
-      "site": "CHUQ"
-    },
-    {
-      "code": "8:12.16",
-      "description": "Penicillins",
-      "site": "CHUQ"
-    },
-    {
-      "code": "24:08.92",
-      "description": "Hypotensive Agents, Miscellaneous*4:12.08 Nitrates and Nitrites",
-      "site": "CHUQ"
-    },
-    {
-      "code": "20:12.14",
-      "description": "Platelet-reducing Agents",
-      "site": "CHUQ"
-    },
-    {
-      "code": "24:12.92",
-      "description": "Vasodilating Agents, Miscellaneous24:28.08 Dihydropyridines",
-      "site": "CHUQ"
-    },
-    {
-      "code": "24:04.04.04",
-      "description": "Class Ia Antiarrhythmics4:04.04.12 Class Ic Antiarrhythmics",
-      "site": "CHUQ"
-    },
-    {
-      "code": "28:08.04.24",
-      "description": "Salicylates",
-      "site": "CHUQ"
-    },
-    {
-      "code": "12:20.08",
-      "description": "Direct-acting Skeletal Muscle Relaxants",
-      "site": "CHUQ"
-    },
-    {
-      "code": "28:12.12",
-      "description": "Hydantoins",
-      "site": "CHUQ"
-    },
-    {
-      "code": "8:12.24.12",
-      "description": "Glycylcyclines",
-      "site": "CHUQ"
-    },
-    {
-      "code": "8:12.28.20",
-      "description": "Lincomycins",
-      "site": "CHUQ"
-    },
-    {
-      "code": "8:30.08",
-      "description": "Antimalarials",
-      "site": "CHUQ"
-    },
-    {
-      "code": "20:04.08",
-      "description": "Liver and Stomach Preparations*0:12.04 Anticoagulants",
-      "site": "CHUQ"
-    },
-    {
-      "code": "28:16.04.16",
-      "description": "Selective Serotonin- and Norepinephrine-reuptake Inhibitors",
-      "site": "CHUQ"
-    },
-    {
-      "code": "36:88.20",
-      "description": "Occult Blood*",
-      "site": "CHUQ"
-    },
-    {
-      "code": "4:04.92",
-      "description": "Miscellaneous Derivatives:12.02 Aminoglycosides",
-      "site": "CHUQ"
-    },
-    {
-      "code": "4:04.08",
-      "description": "Ethylenediamine Derivatives",
-      "site": "CHUQ"
-    },
-    {
-      "code": "8:12.16.12",
-      "description": "Penicillinase-resistant Penicillins",
-      "site": "CHUQ"
-    },
-    {
-      "code": "40:18.19",
-      "description": "Phosphate-removing Agents",
-      "site": "CHUQ"
-    },
-    {
-      "code": "68:20.92",
-      "description": "Antidiabetic Agents, Miscellaneous*8:22.12 Glycogenolytic Agents",
-      "site": "CHUQ"
-    },
-    {
-      "code": "12:16.04.04",
-      "description": "Non-selective -Adrenergic Blocking Agents",
-      "site": "CHUQ"
-    },
-    {
-      "code": "56:28.36",
-      "description": "Proton-pump Inhibitors68:16.04 Estrogens",
-      "site": "CHUQ"
-    },
-    {
-      "code": "84:50.06",
-      "description": "Pigmenting Agents",
-      "site": "CHUQ"
-    },
-    {
-      "code": "8:12.06.04",
-      "description": "First Generation Cephalosporins",
-      "site": "CHUQ"
-    },
-    {
-      "code": "20:12.04.92",
-      "description": "Anticoagulants, Miscellaneous",
-      "site": "CHUQ"
-    },
-    {
-      "code": "8:12.16.16",
-      "description": "Extended-spectrum Penicillins",
-      "site": "CHUQ"
-    },
-    {
-      "code": "84:04.08.40",
-      "description": "Thiocarbamates",
-      "site": "CHUQ"
-    },
-    {
-      "code": "8:12.28.12",
-      "description": "Cyclic Lipopeptides",
-      "site": "CHUQ"
-    },
-    {
-      "code": "24:06.06",
-      "description": "Fibric Acid Derivatives",
-      "site": "CHUQ"
-    },
-    {
-      "code": "24:08.44.20",
-      "description": "Mineralocorticoid (Aldosterone) Receptor Antagonists*",
-      "site": "CHUQ"
-    },
-    {
-      "code": "8:12.06.08",
-      "description": "Second Generation Cephalosporins",
-      "site": "CHUQ"
-    },
-    {
-      "code": "8:12.28.04",
-      "description": "Aminocyclitols",
-      "site": "CHUQ"
-    },
-    {
-      "code": "28:16.08.08",
-      "description": "Butyrophenones",
-      "site": "CHUQ"
-    },
-    {
-      "code": "28:08.08",
-      "description": "Opiate Agonists",
-      "site": "CHUQ"
-    },
-    {
-      "code": "24:12.12",
-      "description": "Phosphodiesterase Inhibitors",
-      "site": "CHUQ"
-    },
-    {
-      "code": "52:40.08",
-      "description": "-Adrenergic Agents",
-      "site": "CHUQ"
-    },
-    {
-      "code": "24:04.04.92",
-      "description": "Antiarrhythmics, Miscellaneous*",
-      "site": "CHUQ"
-    },
-    {
-      "code": "68:20.16",
-      "description": "Meglitinides",
-      "site": "CHUQ"
-    },
-    {
-      "code": "8:18.08",
-      "description": "Antiretrovirals",
-      "site": "CHUQ"
-    },
-    {
-      "code": "12:12.12",
-      "description": "- and -Adrenergic Agonists2:16.04 -Adrenergic Blocking Agents",
-      "site": "CHUQ"
-    },
-    {
-      "code": "24:08.44.08",
-      "description": "Angiotensin II Receptor Antagonists*",
-      "site": "CHUQ"
-    },
-    {
-      "code": "24:08.44",
-      "description": "Renin-Angiotensin-Aldosterone System Inhibitors*",
-      "site": "CHUQ"
-    },
-    {
-      "code": "24:08.12.08",
-      "description": "Dihydropyridines*",
-      "site": "CHUQ"
-    },
-    {
-      "code": "28:16.08.24",
-      "description": "Phenothiazines",
-      "site": "CHUQ"
-    },
-    {
-      "code": "24:28.92",
-      "description": "Calcium-Channel Blocking Agents, Miscellaneous4:32.04 Angiotensin-Converting Enzyme Inhibitors",
-      "site": "CHUQ"
-    },
-    {
-      "code": "84:04.08.12",
-      "description": "Benzylamines",
-      "site": "CHUQ"
-    },
-    {
-      "code": "12:12.08.04",
-      "description": "Non-selective -Adrenergic Agonists",
-      "site": "CHUQ"
-    },
-    {
-      "code": "40:18.92",
-      "description": "Other Ion-removing Agents0:28.04 Carbonic Anhydrase Inhibitors*",
-      "site": "CHUQ"
-    },
-    {
-      "code": "28:16.08.32",
-      "description": "Thioxanthenes",
-      "site": "CHUQ"
-    },
-    {
-      "code": "8:12.20",
-      "description": "Sulfonamides",
-      "site": "CHUQ"
-    },
-    {
-      "code": "56:28.32",
-      "description": "Protectants",
-      "site": "CHUQ"
-    },
-    {
-      "code": "28:16.92",
-      "description": "Psychotherapeutic Agents, Miscellaneous*8:20.04 Amphetamines",
-      "site": "CHUQ"
-    },
-    {
-      "code": "84:04.08.04",
-      "description": "Allylamines",
-      "site": "CHUQ"
-    },
-    {
-      "code": "8:16.92",
-      "description": "Antimycobacterials, Miscellaneous:18.04 Adamantanes",
-      "site": "CHUQ"
-    },
-    {
-      "code": "68:16.12",
-      "description": "Estrogen Agonist-Antagonists68:20.02 -Glucosidase Inhibitors",
-      "site": "CHUQ"
-    },
-    {
-      "code": "56:22.20",
-      "description": "5-HT3 Receptor Antagonists",
-      "site": "CHUQ"
-    },
-    {
-      "code": "8:12.07.16",
-      "description": "Monobactams",
-      "site": "CHUQ"
-    },
-    {
-      "code": "48:10.24",
-      "description": "Leukotriene Modifiers",
-      "site": "CHUQ"
-    },
-    {
-      "code": "20:12.04.12",
-      "description": "Direct Thrombin Inhibitors",
-      "site": "CHUQ"
-    },
-    {
-      "code": "8:18.24",
-      "description": "Monoclonal Antibodies",
-      "site": "CHUQ"
-    },
-    {
-      "code": "24:08.24.92",
-      "description": "Diuretics, Miscellaneous*",
-      "site": "CHUQ"
-    },
-    {
-      "code": "68:20.06",
-      "description": "Incretin Mimetics",
-      "site": "CHUQ"
-    },
-    {
-      "code": "24:04.04.20",
-      "description": "Class III Antiarrhythmics",
-      "site": "CHUQ"
-    },
-    {
-      "code": "12:16.04.08",
-      "description": "Non-selective 1-Adrenergic Blocking Agents",
-      "site": "CHUQ"
-    },
-    {
-      "code": "8:12.28.28",
-      "description": "Polymyxins",
-      "site": "CHUQ"
-    },
-    {
-      "code": "28:16.04.12",
-      "description": "Monoamine Oxidase Inhibitors",
-      "site": "CHUQ"
-    },
-    {
-      "code": "84:04.08.16",
-      "description": "Echinocandins*",
-      "site": "CHUQ"
-    },
-    {
-      "code": "84:04.08.28",
-      "description": "Polyenes",
-      "site": "CHUQ"
-    },
-    {
-      "code": "24:32.08",
-      "description": "Angiotensin II Receptor Antagonists",
-      "site": "CHUQ"
-    },
-    {
-      "code": "12:12.08.12",
-      "description": "Selective 2-Adrenergic Agonists",
-      "site": "CHUQ"
-    },
-    {
-      "code": "8:12.07",
-      "description": "Miscellaneous Beta-Lactams",
-      "site": "CHUQ"
-    },
-    {
-      "code": "8:18.08.16",
-      "description": "Nonnucleoside Reverse Transcriptase Inhibitors",
-      "site": "CHUQ"
-    },
-    {
-      "code": "12:16.08.08",
-      "description": "Selective -Adrenergic Blocking Agents2:20.04 Centrally Acting Skeletal Muscle Relaxants",
-      "site": "CHUQ"
-    },
-    {
-      "code": "24:06.08",
-      "description": "HMG-CoA Reductase Inhibitors",
-      "site": "CHUQ"
-    },
-    {
-      "code": "28:16.04.92",
-      "description": "Antidepressants, M iscellaneous",
-      "site": "CHUQ"
-    },
-    {
-      "code": "40:28.12",
-      "description": "Osmotic Diuretics",
-      "site": "CHUQ"
-    },
-    {
-      "code": "8:12.12.92",
-      "description": "Other Macrolides",
-      "site": "CHUQ"
-    },
-    {
-      "code": "28:08.04.92",
-      "description": "Other Nonsteroidal Anti-inflammatory Agents",
-      "site": "CHUQ"
-    },
-    {
-      "code": "28:36.16",
-      "description": "Dopamine Precursors",
-      "site": "CHUQ"
-    },
-    {
-      "code": "24:08.12",
-      "description": "Calcium-Channel Blocking Agents*",
-      "site": "CHUQ"
-    },
-    {
-      "code": "28:36.20",
-      "description": "Dopamine Receptor Agonists",
-      "site": "CHUQ"
-    },
-    {
-      "code": "40:18.18",
-      "description": "Potassium-removing Agents",
-      "site": "CHUQ"
-    },
-    {
-      "code": "8:18.20",
-      "description": "Interferons",
-      "site": "CHUQ"
-    },
-    {
-      "code": "28:08.12",
-      "description": "Opiate Partial Agonists",
-      "site": "CHUQ"
-    },
-    {
-      "code": "56:28.28",
-      "description": "Prostaglandins",
-      "site": "CHUQ"
-    },
-    {
-      "code": "84:24.08",
-      "description": "Basic Oils and Other Solvents*",
-      "site": "CHUQ"
-    },
-    {
-      "code": "52:40.20",
-      "description": "Miotics",
-      "site": "CHUQ"
-    },
-    {
-      "code": "8:12.28.16",
-      "description": "Glycopeptides",
-      "site": "CHUQ"
-    },
-    {
-      "code": "20:12.18",
-      "description": "Platelet-aggregation Inhibitors",
-      "site": "CHUQ"
-    },
-    {
-      "code": "68:20.20",
-      "description": "Sulfonylureas",
-      "site": "CHUQ"
-    },
-    {
-      "code": "12:16.08.04",
-      "description": "Non-selective -Adrenergic Blocking Agents",
-      "site": "CHUQ"
-    },
-    {
-      "code": "52:04.20",
-      "description": "Antivirals",
-      "site": "CHUQ"
-    },
-    {
-      "code": "12:12.08.08",
-      "description": "Selective 1-Adrenergic Agonists",
-      "site": "CHUQ"
-    },
-    {
-      "code": "24:06.92",
-      "description": "Antilipemic Agents, Miscellaneous4:08.04 -Adrenergic Blocking Agents*",
-      "site": "CHUQ"
-    },
-    {
-      "code": "52:08.20",
-      "description": "Nonsteroidal Anti-inflammatory Agents",
-      "site": "CHUQ"
-    },
-    {
-      "code": "84:04.08.20",
-      "description": "Hydroxypyridones",
-      "site": "CHUQ"
-    },
-    {
-      "code": "8:12.28",
-      "description": "Antibacterials, Miscellaneous",
-      "site": "CHUQ"
-    },
-    {
-      "code": "84:24.12",
-      "description": "Basic Ointments and Protectants*",
-      "site": "CHUQ"
-    },
-    {
-      "code": "36:88.24",
-      "description": "pH*",
-      "site": "CHUQ"
-    },
-    {
-      "code": "40:28.08",
-      "description": "Loop Diuretics",
-      "site": "CHUQ"
-    },
-    {
-      "code": "48:12.04.16",
-      "description": "- and -Adrenergic Agonists*",
-      "site": "CHUQ"
-    },
-    {
-      "code": "8:12.28.92",
-      "description": "Other Miscellaneous Antibacterials*:14.04 Allylamines",
-      "site": "CHUQ"
-    },
-    {
-      "code": "52:40.24",
-      "description": "Osmotic Agents*",
-      "site": "CHUQ"
-    },
-    {
-      "code": "24:08.24.16",
-      "description": "Potassium-sparing Diuretics*",
-      "site": "CHUQ"
-    },
-    {
-      "code": "24:08.08",
-      "description": "-Adrenergic Blocking Agents*",
-      "site": "CHUQ"
-    },
-    {
-      "code": "8:18.08.12",
-      "description": "Integrase Inhibitors",
-      "site": "CHUQ"
-    },
-    {
-      "code": "52:04.92",
-      "description": "Anti-infectives, Miscellaneous2:08.08 Corticosteroids",
-      "site": "CHUQ"
-    },
-    {
-      "code": "48:10.32",
-      "description": "Mast-cell Stabilizers8:12.04 Adrenergic Agents*",
-      "site": "CHUQ"
-    },
-    {
-      "code": "28:08.04.08",
-      "description": "Cyclooxygenase-2 (COX-2) Inhibitors",
-      "site": "CHUQ"
-    },
-    {
-      "code": "24:08.24.08",
-      "description": "Loop Diuretics*",
-      "site": "CHUQ"
-    },
-    {
-      "code": "36:88.28",
-      "description": "Protein*",
-      "site": "CHUQ"
-    },
-    {
-      "code": "8:12.07.08",
-      "description": "Carbapenems",
-      "site": "CHUQ"
-    },
-    {
-      "code": "48:12.04.12",
-      "description": "Selective 2-Adrenergic Agonists*",
-      "site": "CHUQ"
-    },
-    {
-      "code": "8:18.08.08",
-      "description": "HIV Protease Inhibitors",
-      "site": "CHUQ"
+  "pcrName": [
+    {
+      "raw_string_lower": "mcovi",
+      "display_string": "SARS-CoV-2 RNA Resp Ql NAA+probe",
+      "loinc_code": "94500-6",
+      "site": "CHUQ",
+      "loinc_reference_url": "https://loinc.org/94500-6"
+    },
+    {
+      "raw_string_lower": "coidn",
+      "display_string": "SARS-CoV-2 RNA Resp Ql NAA+probe",
+      "loinc_code": "94500-6",
+      "site": "CHUQ",
+      "loinc_reference_url": "https://loinc.org/94500-6"
+    },
+    {
+      "raw_string_lower": "covco",
+      "display_string": "SARS-CoV-2 RNA Resp Ql NAA+probe",
+      "loinc_code": "94500-6",
+      "site": "CHUQ",
+      "reviewed_by": [
+        "Johann"
+      ],
+      "loinc_reference_url": "https://loinc.org/94500-6"
+    },
+    {
+      "raw_string_lower": "xcovi",
+      "display_string": "SARS-CoV-2 RNA Resp Ql NAA+probe",
+      "loinc_code": "94500-6",
+      "site": "CHUQ",
+      "reviewed_by": [
+        "Johann"
+      ],
+      "loinc_reference_url": "https://loinc.org/94500-6"
+    },
+    {
+      "raw_string_lower": "covid",
+      "display_string": "SARS-CoV-2 RNA Resp Ql NAA+probe",
+      "loinc_code": "94500-6",
+      "site": "CHUQ",
+      "reviewed_by": [
+        "Johann"
+      ],
+      "loinc_reference_url": "https://loinc.org/94500-6"
+    },
+    {
+      "raw_string_lower": "xxcov",
+      "display_string": "SARS-CoV-2 RNA Resp Ql NAA+probe",
+      "loinc_code": "94500-6",
+      "site": "CHUQ",
+      "reviewed_by": [
+        "Johann"
+      ],
+      "loinc_reference_url": "https://loinc.org/94500-6"
     }
   ],
+  "drugRoute": [],
   "drugName": [],
+  "drugCodes": [
+    {
+      "code": "304015",
+      "description": "Azacitidine",
+      "site": "CHUQ",
+      "category_name": "Antineoplastic Agents",
+      "category_code": "10:00",
+      "class_code": "10:00",
+      "class_name": "Antineoplastic Agents"
+    },
+    {
+      "code": "394027",
+      "description": "Antihemophilic factor (recombinant)",
+      "site": "CHUQ",
+      "category_name": "Blood Formation / Coagulation / Thrombosis Agents",
+      "category_code": "20:00",
+      "class_code": "20:28.16",
+      "class_name": "Hemostatics"
+    },
+    {
+      "code": "308006",
+      "description": "Antithrombin iii",
+      "site": "CHUQ",
+      "category_name": "Blood Formation / Coagulation / Thrombosis Agents",
+      "category_code": "20:00",
+      "class_code": "20:12.04.92",
+      "class_name": "Anticoagulants (Miscellaneous)"
+    },
+    {
+      "code": "302040",
+      "description": "Aripiprazole",
+      "site": "CHUQ",
+      "category_name": "Central Nervous System Agents",
+      "category_code": "28:00",
+      "class_code": "28:16.08.04",
+      "class_name": "Atypical Antipsychotics"
+    },
+    {
+      "code": "379017",
+      "description": "Azficel-t",
+      "site": "CHUQ",
+      "category_name": "Cellular and Gene Therapy",
+      "category_code": "26:00",
+      "class_code": "26:04",
+      "class_name": "Cellular Therapy"
+    },
+    {
+      "code": "384031",
+      "description": "Atenolol",
+      "site": "CHUQ",
+      "category_name": "Cardiovascular Drugs",
+      "category_code": "24:00",
+      "class_code": "24:04.04.16",
+      "class_name": "Class II Antiarrhythmics"
+    },
+    {
+      "code": "382638",
+      "description": "Acetylcysteine",
+      "site": "CHUQ",
+      "category_name": "Respiratory Tract Agents",
+      "category_code": "48:00",
+      "class_code": "48:24",
+      "class_name": "Mucolytic Agents"
+    },
+    {
+      "code": "303032",
+      "description": "Atazanavir",
+      "site": "CHUQ",
+      "category_name": "Anti-infective Agents",
+      "category_code": "8:00",
+      "class_code": "8:18.08.08",
+      "class_name": "HIV Protease Inhibitors"
+    },
+    {
+      "code": "389001",
+      "description": "Alteplase",
+      "site": "CHUQ",
+      "category_name": "Enzymes",
+      "category_code": "44:00",
+      "class_code": "44:00",
+      "class_name": "Enzymes"
+    },
+    {
+      "code": "382809",
+      "description": "Bcg vaccine",
+      "site": "CHUQ",
+      "category_name": "Antitoxins / Immune Globulins / Toxoids / Vaccines",
+      "category_code": "80:00",
+      "class_code": "80:12",
+      "class_name": "Vaccines"
+    },
+    {
+      "code": "314007",
+      "description": "Afatinib",
+      "site": "CHUQ",
+      "category_name": "Antineoplastic Agents",
+      "category_code": "10:00",
+      "class_code": "10:00",
+      "class_name": "Antineoplastic Agents"
+    },
+    {
+      "code": "385025",
+      "description": "Antithymocyte globulin (equine)",
+      "site": "CHUQ",
+      "category_name": "Miscellaneous Therapeutic Agents",
+      "category_code": "92:00",
+      "class_code": "92:44",
+      "class_name": "Immunosuppressive Agents"
+    },
+    {
+      "code": "317015",
+      "description": "Anthrax immune globulin iv (human)",
+      "site": "CHUQ",
+      "category_name": "Antitoxins / Immune Globulins / Toxoids / Vaccines",
+      "category_code": "80:00",
+      "class_code": "80:04",
+      "class_name": "Antitoxins and Immune Globulins"
+    },
+    {
+      "code": "382228",
+      "description": "Ambenonium",
+      "site": "CHUQ",
+      "category_name": "Autonomic Drugs",
+      "category_code": "12:00",
+      "class_code": "12:04",
+      "class_name": "Cholinergic Agents"
+    },
+    {
+      "code": "303006",
+      "description": "Alefacept",
+      "site": "CHUQ",
+      "category_name": "Miscellaneous Therapeutic Agents",
+      "category_code": "92:00",
+      "class_code": "92:44",
+      "class_name": "Immunosuppressive Agents"
+    },
+    {
+      "code": "382344",
+      "description": "Amyl nitrite",
+      "site": "CHUQ",
+      "category_name": "Miscellaneous Therapeutic Agents",
+      "category_code": "92:00",
+      "class_code": "92:12",
+      "class_name": "Antidotes"
+    },
+    {
+      "code": "381004",
+      "description": "Acetaminophen",
+      "site": "CHUQ",
+      "category_name": "Central Nervous System Agents",
+      "category_code": "28:00",
+      "class_code": "28:08.92",
+      "class_name": "Analgesics and Antipyretics (Miscellaneous)"
+    },
+    {
+      "code": "395014",
+      "description": "Abciximab",
+      "site": "CHUQ",
+      "category_name": "Blood Formation / Coagulation / Thrombosis Agents",
+      "category_code": "20:00",
+      "class_code": "20:12.18",
+      "class_name": "Platelet-aggregation Inhibitors"
+    },
+    {
+      "code": "301014",
+      "description": "Arsenic trioxide",
+      "site": "CHUQ",
+      "category_name": "Antineoplastic Agents",
+      "category_code": "10:00",
+      "class_code": "10:00",
+      "class_name": "Antineoplastic Agents"
+    },
+    {
+      "code": "304029",
+      "description": "Alpha1-proteinase inhibitor",
+      "site": "CHUQ",
+      "category_name": "Respiratory Tract Agents",
+      "category_code": "48:00",
+      "class_code": "48:92",
+      "class_name": "Respiratory Tract Agents (Miscellaneous)"
+    },
+    {
+      "code": "300045",
+      "description": "Atorvastatin",
+      "site": "CHUQ",
+      "category_name": "Cardiovascular Drugs",
+      "category_code": "24:00",
+      "class_code": "24:06.08",
+      "class_name": "HMG-CoA Reductase Inhibitors"
+    },
+    {
+      "code": "318010",
+      "description": "Apalutamide",
+      "site": "CHUQ",
+      "category_name": "Antineoplastic Agents",
+      "category_code": "10:00",
+      "class_code": "10:00",
+      "class_name": "Antineoplastic Agents"
+    },
+    {
+      "code": "311027",
+      "description": "Abiraterone",
+      "site": "CHUQ",
+      "category_name": "Antineoplastic Agents",
+      "category_code": "10:00",
+      "class_code": "10:00",
+      "class_name": "Antineoplastic Agents"
+    },
+    {
+      "code": "382878",
+      "description": "Aspirin",
+      "site": "CHUQ",
+      "category_name": "Blood Formation / Coagulation / Thrombosis Agents",
+      "category_code": "20:00",
+      "class_code": "20:12.20",
+      "class_name": "Thrombolytic Agents"
+    },
+    {
+      "code": "305001",
+      "description": "Acamprosate",
+      "site": "CHUQ",
+      "category_name": "Central Nervous System Agents",
+      "category_code": "28:00",
+      "class_code": "28:92",
+      "class_name": "Central Nervous System Agents (Miscellaneous)"
+    },
+    {
+      "code": "397014",
+      "description": "Azelastine",
+      "site": "CHUQ",
+      "category_name": "Respiratory Tract Agents",
+      "category_code": "48:00",
+      "class_code": "48:04.08",
+      "class_name": "Second Generation Antihistamines"
+    },
+    {
+      "code": "382344",
+      "description": "Amyl nitrite",
+      "site": "CHUQ",
+      "category_name": "Cardiovascular Drugs",
+      "category_code": "24:00",
+      "class_code": "24:12.08",
+      "class_name": "Nitrates and Nitrites"
+    },
+    {
+      "code": "379001",
+      "description": "Acesulfame",
+      "site": "CHUQ",
+      "category_name": "Electrolytic / Caloric / Water Balance",
+      "category_code": "40:00",
+      "class_code": "40:24",
+      "class_name": "Salt and Sugar Substitutes"
+    },
+    {
+      "code": "300011",
+      "description": "Alosetron",
+      "site": "CHUQ",
+      "category_name": "Gastrointestinal Drugs",
+      "category_code": "56:00",
+      "class_code": "56:36",
+      "class_name": "Anti-inflammatory Agents"
+    },
+    {
+      "code": "399012",
+      "description": "Abacavir",
+      "site": "CHUQ",
+      "category_name": "Anti-infective Agents",
+      "category_code": "8:00",
+      "class_code": "8:18.08.20",
+      "class_name": "HIV NRTIs"
+    },
+    {
+      "code": "382113",
+      "description": "Ammonia spirit, aromatic",
+      "site": "CHUQ",
+      "category_name": "Central Nervous System Agents",
+      "category_code": "28:00",
+      "class_code": "28:20.32",
+      "class_name": "Respiratory and CNS Stimulants"
+    },
+    {
+      "code": "382145",
+      "description": "Albuterol/levalbuterol",
+      "site": "CHUQ",
+      "category_name": "Respiratory Tract Agents",
+      "category_code": "48:00",
+      "class_code": "48:12.04.12",
+      "class_name": "Selective beta-2-Adrenergic Agonists"
+    },
+    {
+      "code": "304010",
+      "description": "Adenosine",
+      "site": "CHUQ",
+      "category_name": "Cardiovascular Drugs",
+      "category_code": "24:00",
+      "class_code": "24:04.04.24",
+      "class_name": "Class IV Antiarrhythmics"
+    },
+    {
+      "code": "382240",
+      "description": "Arginine",
+      "site": "CHUQ",
+      "category_name": "Diagnostic Agents",
+      "category_code": "36:00",
+      "class_code": "36:66",
+      "class_name": "Pituitary Function"
+    },
+    {
+      "code": "379007",
+      "description": "Aluminum hydroxide",
+      "site": "CHUQ",
+      "category_name": "Gastrointestinal Drugs",
+      "category_code": "56:00",
+      "class_code": "56:04",
+      "class_name": "Antacids and Adsorbents"
+    },
+    {
+      "code": "N/A",
+      "description": "Antihemophilic factor (recombinant), Fc fusion",
+      "site": "CHUQ",
+      "category_name": "Blood Formation / Coagulation / Thrombosis Agents",
+      "category_code": "20:00",
+      "class_code": "20:28.16",
+      "class_name": "Hemostatics"
+    },
+    {
+      "code": "382762",
+      "description": "Antacids",
+      "site": "CHUQ",
+      "category_name": "Gastrointestinal Drugs",
+      "category_code": "56:00",
+      "class_code": "56:04",
+      "class_name": "Antacids and Adsorbents"
+    },
+    {
+      "code": "382146",
+      "description": "Aminosalicylic acid",
+      "site": "CHUQ",
+      "category_name": "Anti-infective Agents",
+      "category_code": "8:00",
+      "class_code": "8:16.04",
+      "class_name": "Antituberculosis Agents"
+    },
+    {
+      "code": "387010",
+      "description": "Aztreonam",
+      "site": "CHUQ",
+      "category_name": "Anti-infective Agents",
+      "category_code": "8:00",
+      "class_code": "8:12.07.16",
+      "class_name": "Monobactams"
+    },
+    {
+      "code": "387003",
+      "description": "Acebutolol",
+      "site": "CHUQ",
+      "category_name": "Autonomic Drugs",
+      "category_code": "12:00",
+      "class_code": "12:16.08.08",
+      "class_name": "Selective beta-Adrenergic Blocking Agents"
+    },
+    {
+      "code": "302036",
+      "description": "Adefovir",
+      "site": "CHUQ",
+      "category_name": "Anti-infective Agents",
+      "category_code": "8:00",
+      "class_code": "8:18.32",
+      "class_name": "Nucleosides and Nucleotides"
+    },
+    {
+      "code": "N/A",
+      "description": "Antihemophilic factor (recombinant), porcine",
+      "site": "CHUQ",
+      "category_name": "Blood Formation / Coagulation / Thrombosis Agents",
+      "category_code": "20:00",
+      "class_code": "20:28.16",
+      "class_name": "Hemostatics"
+    },
+    {
+      "code": "385001",
+      "description": "Amoxicillin",
+      "site": "CHUQ",
+      "category_name": "Anti-infective Agents",
+      "category_code": "8:00",
+      "class_code": "8:12.16.08",
+      "class_name": "Aminopenicillins"
+    },
+    {
+      "code": "307014",
+      "description": "Ambrisentan",
+      "site": "CHUQ",
+      "category_name": "Respiratory Tract Agents",
+      "category_code": "48:00",
+      "class_code": "48:48",
+      "class_name": "Vasodilating Agents"
+    },
+    {
+      "code": "382762",
+      "description": "Antacids",
+      "site": "CHUQ",
+      "category_name": "Gastrointestinal Drugs",
+      "category_code": "56:00",
+      "class_code": "56:28",
+      "class_name": "Antiulcer Agents and Acid Suppressants"
+    },
+    {
+      "code": "388017",
+      "description": "Apraclonidine",
+      "site": "CHUQ",
+      "category_name": "Eye / Ear / Nose / Throat",
+      "category_code": "52:00",
+      "class_code": "52:92",
+      "class_name": "EENT Drugs (Miscellaneous)"
+    },
+    {
+      "code": "387009",
+      "description": "Amiodarone",
+      "site": "CHUQ",
+      "category_name": "Cardiovascular Drugs",
+      "category_code": "24:00",
+      "class_code": "24:04.04.20",
+      "class_name": "Class III Antiarrhythmics"
+    },
+    {
+      "code": "379018",
+      "description": "Barium sulfate",
+      "site": "CHUQ",
+      "category_name": "Diagnostic Agents",
+      "category_code": "36:00",
+      "class_code": "36:68",
+      "class_name": "Roentgenographic and Other Imaging Agents"
+    },
+    {
+      "code": "392044",
+      "description": "Amlodipine",
+      "site": "CHUQ",
+      "category_name": "Cardiovascular Drugs",
+      "category_code": "24:00",
+      "class_code": "24:12.92",
+      "class_name": "Vasodilating Agents (Miscellaneous)"
+    },
+    {
+      "code": "382294",
+      "description": "Bacitracin",
+      "site": "CHUQ",
+      "category_name": "Eye / Ear / Nose / Throat",
+      "category_code": "52:00",
+      "class_code": "52:04.04",
+      "class_name": "Antibacterials"
+    },
+    {
+      "code": "382745",
+      "description": "Amcinonide",
+      "site": "CHUQ",
+      "category_name": "Skin and Mucous Membrane Agents",
+      "category_code": "84:00",
+      "class_code": "84:06.08",
+      "class_name": "Corticosteroids"
+    },
+    {
+      "code": "307034",
+      "description": "Acitretin",
+      "site": "CHUQ",
+      "category_name": "Skin and Mucous Membrane Agents",
+      "category_code": "84:00",
+      "class_code": "84:92",
+      "class_name": "Skin and Mucous Membrane Agents (Miscellaneous)"
+    },
+    {
+      "code": "385038",
+      "description": "Auranofin",
+      "site": "CHUQ",
+      "category_name": "Gold Compounds",
+      "category_code": "60:00",
+      "class_code": "60:00",
+      "class_name": "Gold Compounds"
+    },
+    {
+      "code": "312023",
+      "description": "Asparaginase",
+      "site": "CHUQ",
+      "category_name": "Enzymes",
+      "category_code": "44:00",
+      "class_code": "44:00",
+      "class_name": "Enzymes"
+    },
+    {
+      "code": "304022",
+      "description": "Apomorphine",
+      "site": "CHUQ",
+      "category_name": "Central Nervous System Agents",
+      "category_code": "28:00",
+      "class_code": "28:36.20.08",
+      "class_name": "Nonergot-derivative Dopamine Receptor Agonists"
+    },
+    {
+      "code": "379014",
+      "description": "Asunaprevir",
+      "site": "CHUQ",
+      "category_name": "Anti-infective Agents",
+      "category_code": "8:00",
+      "class_code": "8:18.40.20",
+      "class_name": "HCV Protease Inhibitors"
+    },
+    {
+      "code": "303023",
+      "description": "Agalsidase beta",
+      "site": "CHUQ",
+      "category_name": "Enzymes",
+      "category_code": "44:00",
+      "class_code": "44:00",
+      "class_name": "Enzymes"
+    },
+    {
+      "code": "379002",
+      "description": "Alcohol, isopropyl",
+      "site": "CHUQ",
+      "category_name": "Skin and Mucous Membrane Agents",
+      "category_code": "84:00",
+      "class_code": "84:04.92",
+      "class_name": "Local Anti-Infectives (Miscellaneous)"
+    },
+    {
+      "code": "382878",
+      "description": "Aspirin",
+      "site": "CHUQ",
+      "category_name": "Central Nervous System Agents",
+      "category_code": "28:00",
+      "class_code": "28:08.04.24",
+      "class_name": "Salicylates"
+    },
+    {
+      "code": "308015",
+      "description": "Altretamine",
+      "site": "CHUQ",
+      "category_name": "Antineoplastic Agents",
+      "category_code": "10:00",
+      "class_code": "10:00",
+      "class_name": "Antineoplastic Agents"
+    },
+    {
+      "code": "317059",
+      "description": "Acalabrutinib",
+      "site": "CHUQ",
+      "category_name": "Antineoplastic Agents",
+      "category_code": "10:00",
+      "class_code": "10:00",
+      "class_name": "Antineoplastic Agents"
+    },
+    {
+      "code": "382878",
+      "description": "Aspirin",
+      "site": "CHUQ",
+      "category_name": "Blood Formation / Coagulation / Thrombosis Agents",
+      "category_code": "20:00",
+      "class_code": "20:12.18",
+      "class_name": "Platelet-aggregation Inhibitors"
+    },
+    {
+      "code": "319003",
+      "description": "Amifampridine",
+      "site": "CHUQ",
+      "category_name": "Miscellaneous Therapeutic Agents",
+      "category_code": "92:00",
+      "class_code": "92:92",
+      "class_name": "Other Miscellaneous Therapeutic Agents"
+    },
+    {
+      "code": "397043",
+      "description": "Albendazole",
+      "site": "CHUQ",
+      "category_name": "Anti-infective Agents",
+      "category_code": "8:00",
+      "class_code": "8:08",
+      "class_name": "Anthelmintics"
+    },
+    {
+      "code": "382601",
+      "description": "Amantadine",
+      "site": "CHUQ",
+      "category_name": "Central Nervous System Agents",
+      "category_code": "28:00",
+      "class_code": "28:36.04",
+      "class_name": "Adamantanes"
+    },
+    {
+      "code": "308023",
+      "description": "Acetic acid",
+      "site": "CHUQ",
+      "category_name": "Electrolytic / Caloric / Water Balance",
+      "category_code": "40:00",
+      "class_code": "40:36",
+      "class_name": "Irrigating Solutions"
+    },
+    {
+      "code": "315003",
+      "description": "Apremilast",
+      "site": "CHUQ",
+      "category_name": "Miscellaneous Therapeutic Agents",
+      "category_code": "92:00",
+      "class_code": "92:20",
+      "class_name": "Immunomodulatory Agents"
+    },
+    {
+      "code": "308022",
+      "description": "Anagrelide",
+      "site": "CHUQ",
+      "category_name": "Blood Formation / Coagulation / Thrombosis Agents",
+      "category_code": "20:00",
+      "class_code": "20:12.14",
+      "class_name": "Platelet-reducing Agents"
+    },
+    {
+      "code": "316049",
+      "description": "Asfotase alfa",
+      "site": "CHUQ",
+      "category_name": "Enzymes",
+      "category_code": "44:00",
+      "class_code": "44:00",
+      "class_name": "Enzymes"
+    },
+    {
+      "code": "312017",
+      "description": "Axitinib",
+      "site": "CHUQ",
+      "category_name": "Antineoplastic Agents",
+      "category_code": "10:00",
+      "class_code": "10:00",
+      "class_name": "Antineoplastic Agents"
+    },
+    {
+      "code": "302042",
+      "description": "Atomoxetine",
+      "site": "CHUQ",
+      "category_name": "Central Nervous System Agents",
+      "category_code": "28:00",
+      "class_code": "28:92",
+      "class_name": "Central Nervous System Agents (Miscellaneous)"
+    },
+    {
+      "code": "300001",
+      "description": "Aminolevulinic acid",
+      "site": "CHUQ",
+      "category_name": "Skin and Mucous Membrane Agents",
+      "category_code": "84:00",
+      "class_code": "84:92",
+      "class_name": "Skin and Mucous Membrane Agents (Miscellaneous)"
+    },
+    {
+      "code": "384024",
+      "description": "Atropine",
+      "site": "CHUQ",
+      "category_name": "Miscellaneous Therapeutic Agents",
+      "category_code": "92:00",
+      "class_code": "92:12",
+      "class_name": "Antidotes"
+    },
+    {
+      "code": "397037",
+      "description": "Azithromycin",
+      "site": "CHUQ",
+      "category_name": "Anti-infective Agents",
+      "category_code": "8:00",
+      "class_code": "8:12.12.92",
+      "class_name": "Other Macrolides"
+    },
+    {
+      "code": "318006",
+      "description": "Aripiprazole",
+      "site": "CHUQ",
+      "category_name": "Central Nervous System Agents",
+      "category_code": "28:00",
+      "class_code": "28:28",
+      "class_name": "Antimanic Agents"
+    },
+    {
+      "code": "394028",
+      "description": "Anti-inhibitor coagulant complex",
+      "site": "CHUQ",
+      "category_name": "Blood Formation / Coagulation / Thrombosis Agents",
+      "category_code": "20:00",
+      "class_code": "20:28.16",
+      "class_name": "Hemostatics"
+    },
+    {
+      "code": "382526",
+      "description": "Aminohippurate",
+      "site": "CHUQ",
+      "category_name": "Diagnostic Agents",
+      "category_code": "36:00",
+      "class_code": "36:40",
+      "class_name": "Kidney Function"
+    },
+    {
+      "code": "315003",
+      "description": "Apremilast",
+      "site": "CHUQ",
+      "category_name": "Skin and Mucous Membrane Agents",
+      "category_code": "84:00",
+      "class_code": "84:92",
+      "class_name": "Skin and Mucous Membrane Agents (Miscellaneous)"
+    },
+    {
+      "code": "393003",
+      "description": "Atovaquone",
+      "site": "CHUQ",
+      "category_name": "Anti-infective Agents",
+      "category_code": "8:00",
+      "class_code": "8:30.92",
+      "class_name": "Antiprotozoals (Miscellaneous)"
+    },
+    {
+      "code": "309016",
+      "description": "Artemether and lumefantrine",
+      "site": "CHUQ",
+      "category_name": "Anti-infective Agents",
+      "category_code": "8:00",
+      "class_code": "8:30.08",
+      "class_name": "Antimalarials"
+    },
+    {
+      "code": "382756",
+      "description": "Acetazolamide",
+      "site": "CHUQ",
+      "category_name": "Central Nervous System Agents",
+      "category_code": "28:00",
+      "class_code": "28:12.92",
+      "class_name": "Anticonvulsants (Miscellaneous)"
+    },
+    {
+      "code": "302046",
+      "description": "Adalimumab",
+      "site": "CHUQ",
+      "category_name": "Gastrointestinal Drugs",
+      "category_code": "56:00",
+      "class_code": "56:92",
+      "class_name": "Ga Drugs (Miscellaneous)"
+    },
+    {
+      "code": "379013",
+      "description": "Aspartame",
+      "site": "CHUQ",
+      "category_name": "Electrolytic / Caloric / Water Balance",
+      "category_code": "40:00",
+      "class_code": "40:24",
+      "class_name": "Salt and Sugar Substitutes"
+    },
+    {
+      "code": "312025",
+      "description": "Aflibercept",
+      "site": "CHUQ",
+      "category_name": "Eye / Ear / Nose / Throat",
+      "category_code": "52:00",
+      "class_code": "52:92",
+      "class_name": "EENT Drugs (Miscellaneous)"
+    },
+    {
+      "code": "382167",
+      "description": "Azathioprine",
+      "site": "CHUQ",
+      "category_name": "Miscellaneous Therapeutic Agents",
+      "category_code": "92:00",
+      "class_code": "92:20",
+      "class_name": "Immunomodulatory Agents"
+    },
+    {
+      "code": "315003",
+      "description": "Apremilast",
+      "site": "CHUQ",
+      "category_name": "Miscellaneous Therapeutic Agents",
+      "category_code": "92:00",
+      "class_code": "92:36",
+      "class_name": "Disease-modifying Antirheumatic Drugs"
+    },
+    {
+      "code": "316020",
+      "description": "Alectinib",
+      "site": "CHUQ",
+      "category_name": "Antineoplastic Agents",
+      "category_code": "10:00",
+      "class_code": "10:00",
+      "class_name": "Antineoplastic Agents"
+    },
+    {
+      "code": "387003",
+      "description": "Acebutolol",
+      "site": "CHUQ",
+      "category_name": "Cardiovascular Drugs",
+      "category_code": "24:00",
+      "class_code": "24:04.04.16",
+      "class_name": "Class II Antiarrhythmics"
+    },
+    {
+      "code": "379016",
+      "description": "Axicabtagene ciloleucel",
+      "site": "CHUQ",
+      "category_name": "Cellular and Gene Therapy",
+      "category_code": "26:00",
+      "class_code": "26:12",
+      "class_name": "Gene Therapy"
+    },
+    {
+      "code": "382809",
+      "description": "Bcg vaccine",
+      "site": "CHUQ",
+      "category_name": "Antineoplastic Agents",
+      "category_code": "10:00",
+      "class_code": "10:00",
+      "class_name": "Antineoplastic Agents"
+    },
+    {
+      "code": "379015",
+      "description": "Allogeneic cultured keratinocytes and autologous cultured chondrocytes",
+      "site": "CHUQ",
+      "category_name": "Cellular and Gene Therapy",
+      "category_code": "26:00",
+      "class_code": "26:04",
+      "class_name": "Cellular Therapy"
+    },
+    {
+      "code": "301072",
+      "description": "Anakinra",
+      "site": "CHUQ",
+      "category_name": "Miscellaneous Therapeutic Agents",
+      "category_code": "92:00",
+      "class_code": "92:20",
+      "class_name": "Immunomodulatory Agents"
+    },
+    {
+      "code": "382292",
+      "description": "Bacitracin",
+      "site": "CHUQ",
+      "category_name": "Anti-infective Agents",
+      "category_code": "8:00",
+      "class_code": "8:12.28.08",
+      "class_name": "Bacitracins"
+    },
+    {
+      "code": "384001",
+      "description": "Alprazolam",
+      "site": "CHUQ",
+      "category_name": "Central Nervous System Agents",
+      "category_code": "28:00",
+      "class_code": "28:24.08",
+      "class_name": "Benzodiazepines"
+    },
+    {
+      "code": "381004",
+      "description": "Acetaminophen",
+      "site": "CHUQ",
+      "category_name": "Central Nervous System Agents",
+      "category_code": "28:00",
+      "class_code": "28:32.92",
+      "class_name": "Antimigraine Agents (Miscellaneous)"
+    },
+    {
+      "code": "382773",
+      "description": "Aurothioglucose/gold sodium thiomalate",
+      "site": "CHUQ",
+      "category_name": "Miscellaneous Therapeutic Agents",
+      "category_code": "92:00",
+      "class_code": "92:36",
+      "class_name": "Disease-modifying Antirheumatic Drugs"
+    },
+    {
+      "code": "306003",
+      "description": "Abatacept",
+      "site": "CHUQ",
+      "category_name": "Miscellaneous Therapeutic Agents",
+      "category_code": "92:00",
+      "class_code": "92:20",
+      "class_name": "Immunomodulatory Agents"
+    },
+    {
+      "code": "381050",
+      "description": "Beclomethasone",
+      "site": "CHUQ",
+      "category_name": "Respiratory Tract Agents",
+      "category_code": "48:00",
+      "class_code": "48:10.08.08",
+      "class_name": "Orally Inhaled Preparations"
+    },
+    {
+      "code": "313041",
+      "description": "Ado-trastuzumab",
+      "site": "CHUQ",
+      "category_name": "Antineoplastic Agents",
+      "category_code": "10:00",
+      "class_code": "10:00",
+      "class_name": "Antineoplastic Agents"
+    },
+    {
+      "code": "382093",
+      "description": "Aminocaproic acid",
+      "site": "CHUQ",
+      "category_name": "Blood Formation / Coagulation / Thrombosis Agents",
+      "category_code": "20:00",
+      "class_code": "20:28.16",
+      "class_name": "Hemostatics"
+    },
+    {
+      "code": "315048",
+      "description": "Alemtuzumab",
+      "site": "CHUQ",
+      "category_name": "Antineoplastic Agents",
+      "category_code": "10:00",
+      "class_code": "10:00",
+      "class_name": "Antineoplastic Agents"
+    },
+    {
+      "code": "384024",
+      "description": "Atropine",
+      "site": "CHUQ",
+      "category_name": "Autonomic Drugs",
+      "category_code": "12:00",
+      "class_code": "12:08.08",
+      "class_name": "Antimuscarinics/Antispasmodics"
+    },
+    {
+      "code": "379008",
+      "description": "Aluminum phosphate",
+      "site": "CHUQ",
+      "category_name": "Gastrointestinal Drugs",
+      "category_code": "56:00",
+      "class_code": "56:04",
+      "class_name": "Antacids and Adsorbents"
+    },
+    {
+      "code": "306003",
+      "description": "Abatacept",
+      "site": "CHUQ",
+      "category_name": "Miscellaneous Therapeutic Agents",
+      "category_code": "92:00",
+      "class_code": "92:36",
+      "class_name": "Disease-modifying Antirheumatic Drugs"
+    },
+    {
+      "code": "312003",
+      "description": "Azilsartan",
+      "site": "CHUQ",
+      "category_name": "Cardiovascular Drugs",
+      "category_code": "24:00",
+      "class_code": "24:32.08",
+      "class_name": "Angiotensin II Receptor Antagonists"
+    },
+    {
+      "code": "382756",
+      "description": "Acetazolamide",
+      "site": "CHUQ",
+      "category_name": "Cardiovascular Drugs",
+      "category_code": "24:00",
+      "class_code": "24:08.24.04",
+      "class_name": "Carbonic Anhydrase Inhibitors"
+    },
+    {
+      "code": "379004",
+      "description": "Allantoin",
+      "site": "CHUQ",
+      "category_name": "Skin and Mucous Membrane Agents",
+      "category_code": "84:00",
+      "class_code": "84:28",
+      "class_name": "Keratolytic Agents"
+    },
+    {
+      "code": "381045",
+      "description": "Acyclovir",
+      "site": "CHUQ",
+      "category_name": "Anti-infective Agents",
+      "category_code": "8:00",
+      "class_code": "8:18.32",
+      "class_name": "Nucleosides and Nucleotides"
+    },
+    {
+      "code": "315048",
+      "description": "Alemtuzumab",
+      "site": "CHUQ",
+      "category_name": "Miscellaneous Therapeutic Agents",
+      "category_code": "92:00",
+      "class_code": "92:20",
+      "class_name": "Immunomodulatory Agents"
+    },
+    {
+      "code": "303017",
+      "description": "Aprepitant",
+      "site": "CHUQ",
+      "category_name": "Gastrointestinal Drugs",
+      "category_code": "56:00",
+      "class_code": "56:22.32",
+      "class_name": "Neurokinin-1 Receptor Antagonists"
+    },
+    {
+      "code": "379015",
+      "description": "Autologous cultured chondrocytes",
+      "site": "CHUQ",
+      "category_name": "Cellular and Gene Therapy",
+      "category_code": "26:00",
+      "class_code": "26:04",
+      "class_name": "Cellular Therapy"
+    },
+    {
+      "code": "379003",
+      "description": "Alcohol, isopropyl",
+      "site": "CHUQ",
+      "category_name": "Eye / Ear / Nose / Throat",
+      "category_code": "52:00",
+      "class_code": "52:92",
+      "class_name": "EENT Drugs (Miscellaneous)"
+    },
+    {
+      "code": "315045",
+      "description": "Bazedoxifene",
+      "site": "CHUQ",
+      "category_name": "Hormones and Synthetic Substitutes",
+      "category_code": "68:00",
+      "class_code": "68:16.12",
+      "class_name": "Estrogen Agonists-Antagonists"
+    },
+    {
+      "code": "382074",
+      "description": "Ammonium chloride",
+      "site": "CHUQ",
+      "category_name": "Electrolytic / Caloric / Water Balance",
+      "category_code": "40:00",
+      "class_code": "40:04",
+      "class_name": "Acidifying Agents"
+    },
+    {
+      "code": "382418",
+      "description": "Amobarbital",
+      "site": "CHUQ",
+      "category_name": "Central Nervous System Agents",
+      "category_code": "28:00",
+      "class_code": "28:24.04",
+      "class_name": "Barbiturates"
+    },
+    {
+      "code": "303006",
+      "description": "Alefacept",
+      "site": "CHUQ",
+      "category_name": "Skin and Mucous Membrane Agents",
+      "category_code": "84:00",
+      "class_code": "84:92",
+      "class_name": "Skin and Mucous Membrane Agents (Miscellaneous)"
+    },
+    {
+      "code": "301034",
+      "description": "Alemtuzumab",
+      "site": "CHUQ",
+      "category_name": "Miscellaneous Therapeutic Agents",
+      "category_code": "92:00",
+      "class_code": "92:20",
+      "class_name": "Immunomodulatory Agents"
+    },
+    {
+      "code": "301062",
+      "description": "Anthrax vaccine adsorbed",
+      "site": "CHUQ",
+      "category_name": "Antitoxins / Immune Globulins / Toxoids / Vaccines",
+      "category_code": "80:00",
+      "class_code": "80:12",
+      "class_name": "Vaccines"
+    },
+    {
+      "code": "382756",
+      "description": "Acetazolamide",
+      "site": "CHUQ",
+      "category_name": "Electrolytic / Caloric / Water Balance",
+      "category_code": "40:00",
+      "class_code": "40:28.04",
+      "class_name": "Carbonic Anhydrase Inhibitors"
+    },
+    {
+      "code": "382069",
+      "description": "Amphetamine",
+      "site": "CHUQ",
+      "category_name": "Central Nervous System Agents",
+      "category_code": "28:00",
+      "class_code": "28:20.04",
+      "class_name": "Amphetamines"
+    },
+    {
+      "code": "379006",
+      "description": "Aluminum carbonate",
+      "site": "CHUQ",
+      "category_name": "Gastrointestinal Drugs",
+      "category_code": "56:00",
+      "class_code": "56:04",
+      "class_name": "Antacids and Adsorbents"
+    },
+    {
+      "code": "385002",
+      "description": "Ampicillin",
+      "site": "CHUQ",
+      "category_name": "Anti-infective Agents",
+      "category_code": "8:00",
+      "class_code": "8:12.16.08",
+      "class_name": "Aminopenicillins"
+    },
+    {
+      "code": "308028",
+      "description": "Alvimopan",
+      "site": "CHUQ",
+      "category_name": "Gastrointestinal Drugs",
+      "category_code": "56:00",
+      "class_code": "56:92",
+      "class_name": "Ga Drugs (Miscellaneous)"
+    },
+    {
+      "code": "396018",
+      "description": "Anastrozole",
+      "site": "CHUQ",
+      "category_name": "Hormones and Synthetic Substitutes",
+      "category_code": "68:00",
+      "class_code": "68:16.08",
+      "class_name": "Antiestrogens"
+    },
+    {
+      "code": "313043",
+      "description": "Alogliptin",
+      "site": "CHUQ",
+      "category_name": "Hormones and Synthetic Substitutes",
+      "category_code": "68:00",
+      "class_code": "68:20.05",
+      "class_name": "Dipeptidyl Peptidase-4 Inhibitors"
+    },
+    {
+      "code": "382605",
+      "description": "Anthraquinone laxatives",
+      "site": "CHUQ",
+      "category_name": "Gastrointestinal Drugs",
+      "category_code": "56:00",
+      "class_code": "56:12",
+      "class_name": "Cathartics and Laxatives"
+    },
+    {
+      "code": "313022",
+      "description": "Aclidinium",
+      "site": "CHUQ",
+      "category_name": "Autonomic Drugs",
+      "category_code": "12:00",
+      "class_code": "12:08.08",
+      "class_name": "Antimuscarinics/Antispasmodics"
+    },
+    {
+      "code": "302046",
+      "description": "Adalimumab",
+      "site": "CHUQ",
+      "category_name": "Miscellaneous Therapeutic Agents",
+      "category_code": "92:00",
+      "class_code": "92:20",
+      "class_name": "Immunomodulatory Agents"
+    },
+    {
+      "code": "301034",
+      "description": "Alemtuzumab",
+      "site": "CHUQ",
+      "category_name": "Antineoplastic Agents",
+      "category_code": "10:00",
+      "class_code": "10:00",
+      "class_name": "Antineoplastic Agents"
+    },
+    {
+      "code": "395022",
+      "description": "Alprostadil",
+      "site": "CHUQ",
+      "category_name": "Cardiovascular Drugs",
+      "category_code": "24:00",
+      "class_code": "24:12.92",
+      "class_name": "Vasodilating Agents (Miscellaneous)"
+    },
+    {
+      "code": "382075",
+      "description": "Antihemophilic factor (human)",
+      "site": "CHUQ",
+      "category_name": "Blood Formation / Coagulation / Thrombosis Agents",
+      "category_code": "20:00",
+      "class_code": "20:28.16",
+      "class_name": "Hemostatics"
+    },
+    {
+      "code": "302040",
+      "description": "Aripiprazole",
+      "site": "CHUQ",
+      "category_name": "Central Nervous System Agents",
+      "category_code": "28:00",
+      "class_code": "28:28",
+      "class_name": "Antimanic Agents"
+    },
+    {
+      "code": "317058",
+      "description": "Abemaciclib",
+      "site": "CHUQ",
+      "category_name": "Antineoplastic Agents",
+      "category_code": "10:00",
+      "class_code": "10:00",
+      "class_name": "Antineoplastic Agents"
+    },
+    {
+      "code": "317036",
+      "description": "Abaloparatide",
+      "site": "CHUQ",
+      "category_name": "Hormones and Synthetic Substitutes",
+      "category_code": "68:00",
+      "class_code": "68:24.08",
+      "class_name": "Parathyroid Agents"
+    },
+    {
+      "code": "384050",
+      "description": "Acetohydroxamic acid",
+      "site": "CHUQ",
+      "category_name": "Electrolytic / Caloric / Water Balance",
+      "category_code": "40:00",
+      "class_code": "40:10",
+      "class_name": "Ammonia Detoxicants"
+    },
+    {
+      "code": "301010",
+      "description": "Articaine",
+      "site": "CHUQ",
+      "category_name": "Local Anesthetics",
+      "category_code": "72:00",
+      "class_code": "72:00",
+      "class_name": "Local Anesthetics"
+    },
+    {
+      "code": "397014",
+      "description": "Azelastine",
+      "site": "CHUQ",
+      "category_name": "Eye / Ear / Nose / Throat",
+      "category_code": "52:00",
+      "class_code": "52:02",
+      "class_name": "Antiallergic Agents"
+    },
+    {
+      "code": "307010",
+      "description": "Aliskiren",
+      "site": "CHUQ",
+      "category_name": "Cardiovascular Drugs",
+      "category_code": "24:00",
+      "class_code": "24:32.40",
+      "class_name": "Renin Inhibitors"
+    },
+    {
+      "code": "317023",
+      "description": "Avelumab",
+      "site": "CHUQ",
+      "category_name": "Antineoplastic Agents",
+      "category_code": "10:00",
+      "class_code": "10:00",
+      "class_name": "Antineoplastic Agents"
+    },
+    {
+      "code": "381050",
+      "description": "Beclomethasone",
+      "site": "CHUQ",
+      "category_name": "Hormones and Synthetic Substitutes",
+      "category_code": "68:00",
+      "class_code": "68:04",
+      "class_name": "Adrenals"
+    },
+    {
+      "code": "315012",
+      "description": "Abobotulinumtoxina",
+      "site": "CHUQ",
+      "category_name": "Autonomic Drugs",
+      "category_code": "12:00",
+      "class_code": "12:20.92",
+      "class_name": "Skeletal Muscle Relaxants (Miscellaneous)"
+    },
+    {
+      "code": "308010",
+      "description": "Aluminum acetate",
+      "site": "CHUQ",
+      "category_name": "Skin and Mucous Membrane Agents",
+      "category_code": "84:00",
+      "class_code": "84:12",
+      "class_name": "Astringents"
+    },
+    {
+      "code": "382406",
+      "description": "Acetylcholine",
+      "site": "CHUQ",
+      "category_name": "Eye / Ear / Nose / Throat",
+      "category_code": "52:00",
+      "class_code": "52:40.20",
+      "class_name": "Miotics"
+    },
+    {
+      "code": "301050",
+      "description": "Basiliximab",
+      "site": "CHUQ",
+      "category_name": "Miscellaneous Therapeutic Agents",
+      "category_code": "92:00",
+      "class_code": "92:44",
+      "class_name": "Immunosuppressive Agents"
+    },
+    {
+      "code": "381036",
+      "description": "Acyclovir",
+      "site": "CHUQ",
+      "category_name": "Eye / Ear / Nose / Throat",
+      "category_code": "52:00",
+      "class_code": "52:04.20, 84:04.06",
+      "class_name": "Antivirals, Antivirals"
+    },
+    {
+      "code": "396014",
+      "description": "Amifostine",
+      "site": "CHUQ",
+      "category_name": "Miscellaneous Therapeutic Agents",
+      "category_code": "92:00",
+      "class_code": "92:56",
+      "class_name": "Protective Agents"
+    },
+    {
+      "code": "385024",
+      "description": "Amoxicillin/clavulanate",
+      "site": "CHUQ",
+      "category_name": "Anti-infective Agents",
+      "category_code": "8:00",
+      "class_code": "8:12.16.08",
+      "class_name": "Aminopenicillins"
+    },
+    {
+      "code": "315012",
+      "description": "Abobotulinumtoxina",
+      "site": "CHUQ",
+      "category_name": "Miscellaneous Therapeutic Agents",
+      "category_code": "92:00",
+      "class_code": "92:92",
+      "class_name": "Other Miscellaneous Therapeutic Agents"
+    },
+    {
+      "code": "394040",
+      "description": "Acrivastine",
+      "site": "CHUQ",
+      "category_name": "Respiratory Tract Agents",
+      "category_code": "48:00",
+      "class_code": "48:04.08",
+      "class_name": "Second Generation Antihistamines"
+    },
+    {
+      "code": "301042",
+      "description": "Antithymocyte globulin (rabbit)",
+      "site": "CHUQ",
+      "category_name": "Miscellaneous Therapeutic Agents",
+      "category_code": "92:00",
+      "class_code": "92:44",
+      "class_name": "Immunosuppressive Agents"
+    },
+    {
+      "code": "318007",
+      "description": "Angiotensin ii",
+      "site": "CHUQ",
+      "category_name": "Hormones and Synthetic Substitutes",
+      "category_code": "68:00",
+      "class_code": "68:44",
+      "class_name": "Renin-Angiotensin-Aldosterone System"
+    },
+    {
+      "code": "382643",
+      "description": "Amphotericin b",
+      "site": "CHUQ",
+      "category_name": "Anti-infective Agents",
+      "category_code": "8:00",
+      "class_code": "8:14.28",
+      "class_name": "Polyenes"
+    },
+    {
+      "code": "382487",
+      "description": "Atropine",
+      "site": "CHUQ",
+      "category_name": "Eye / Ear / Nose / Throat",
+      "category_code": "52:00",
+      "class_code": "52:24",
+      "class_name": "Mydriatics"
+    },
+    {
+      "code": "307014",
+      "description": "Ambrisentan",
+      "site": "CHUQ",
+      "category_name": "Cardiovascular Drugs",
+      "category_code": "24:00",
+      "class_code": "24:12.92",
+      "class_name": "Vasodilating Agents (Miscellaneous)"
+    },
+    {
+      "code": "382167",
+      "description": "Azathioprine",
+      "site": "CHUQ",
+      "category_name": "Miscellaneous Therapeutic Agents",
+      "category_code": "92:00",
+      "class_code": "92:36",
+      "class_name": "Disease-modifying Antirheumatic Drugs"
+    },
+    {
+      "code": "382142",
+      "description": "Albumin human",
+      "site": "CHUQ",
+      "category_name": "Blood Derivatives",
+      "category_code": "16:00",
+      "class_code": "16:00",
+      "class_name": "Blood Derivatives"
+    },
+    {
+      "code": "316009",
+      "description": "Alirocumab",
+      "site": "CHUQ",
+      "category_name": "Cardiovascular Drugs",
+      "category_code": "24:00",
+      "class_code": "24:06.24",
+      "class_name": "PCSK9 Inhibitors"
+    },
+    {
+      "code": "385001",
+      "description": "Amoxicillin",
+      "site": "CHUQ",
+      "category_name": "Gastrointestinal Drugs",
+      "category_code": "56:00",
+      "class_code": "56:28",
+      "class_name": "Antiulcer Agents and Acid Suppressants"
+    },
+    {
+      "code": "382202",
+      "description": "Amoxapine",
+      "site": "CHUQ",
+      "category_name": "Central Nervous System Agents",
+      "category_code": "28:00",
+      "class_code": "28:16.04.28",
+      "class_name": "Tricyclics and Other Norepinephrine-"
+    },
+    {
+      "code": "382781",
+      "description": "Amino acid injections",
+      "site": "CHUQ",
+      "category_name": "Electrolytic / Caloric / Water Balance",
+      "category_code": "40:00",
+      "class_code": "40:20",
+      "class_name": "Caloric Agents"
+    },
+    {
+      "code": "382759",
+      "description": "Antivenin (latrodectus mactans) (equine)",
+      "site": "CHUQ",
+      "category_name": "Miscellaneous Therapeutic Agents",
+      "category_code": "92:00",
+      "class_code": "92:12",
+      "class_name": "Antidotes"
+    },
+    {
+      "code": "393021",
+      "description": "Ampicillin/sulbactam",
+      "site": "CHUQ",
+      "category_name": "Anti-infective Agents",
+      "category_code": "8:00",
+      "class_code": "8:12.16.08",
+      "class_name": "Aminopenicillins"
+    },
+    {
+      "code": "382530",
+      "description": "Baclofen",
+      "site": "CHUQ",
+      "category_name": "Autonomic Drugs",
+      "category_code": "12:00",
+      "class_code": "12:20.12",
+      "class_name": "GABA-derivative Skeletal Muscle Relaxants"
+    },
+    {
+      "code": "395025",
+      "description": "Alendronate",
+      "site": "CHUQ",
+      "category_name": "Miscellaneous Therapeutic Agents",
+      "category_code": "92:00",
+      "class_code": "92:24",
+      "class_name": "Bone Resorption Inhibitors"
+    },
+    {
+      "code": "382583",
+      "description": "Ascorbic acid",
+      "site": "CHUQ",
+      "category_name": "Vitamins",
+      "category_code": "88:00",
+      "class_code": "88:12",
+      "class_name": "Vitamin C"
+    },
+    {
+      "code": "386017",
+      "description": "Antivenin (micrurus fulvius) (equine)",
+      "site": "CHUQ",
+      "category_name": "Miscellaneous Therapeutic Agents",
+      "category_code": "92:00",
+      "class_code": "92:12",
+      "class_name": "Antidotes"
+    },
+    {
+      "code": "382638",
+      "description": "Acetylcysteine",
+      "site": "CHUQ",
+      "category_name": "Miscellaneous Therapeutic Agents",
+      "category_code": "92:00",
+      "class_code": "92:12",
+      "class_name": "Antidotes"
+    },
+    {
+      "code": "318017",
+      "description": "Avatrombopag",
+      "site": "CHUQ",
+      "category_name": "Blood Formation / Coagulation / Thrombosis Agents",
+      "category_code": "20:00",
+      "class_code": "20:16",
+      "class_name": "Hematopoietic Agents"
+    },
+    {
+      "code": "313017",
+      "description": "Apixaban",
+      "site": "CHUQ",
+      "category_name": "Blood Formation / Coagulation / Thrombosis Agents",
+      "category_code": "20:00",
+      "class_code": "20:12.04.14",
+      "class_name": "Direct Factor Xa Inhibitors"
+    },
+    {
+      "code": "382293",
+      "description": "Bacitracin",
+      "site": "CHUQ",
+      "category_name": "Skin and Mucous Membrane Agents",
+      "category_code": "84:00",
+      "class_code": "84:04.04",
+      "class_name": "Antibacterials"
+    },
+    {
+      "code": "314021",
+      "description": "Albiglutide",
+      "site": "CHUQ",
+      "category_name": "Hormones and Synthetic Substitutes",
+      "category_code": "68:00",
+      "class_code": "68:20.06",
+      "class_name": "Incretin Mimetics"
+    },
+    {
+      "code": "379016",
+      "description": "Axicabtagene ciloleucel",
+      "site": "CHUQ",
+      "category_name": "Antineoplastic Agents",
+      "category_code": "10:00",
+      "class_code": "10:00",
+      "class_name": "Antineoplastic Agents"
+    },
+    {
+      "code": "382773",
+      "description": "Aurothioglucose/gold sodium thiomalate",
+      "site": "CHUQ",
+      "category_name": "Miscellaneous Therapeutic Agents",
+      "category_code": "92:00",
+      "class_code": "92:20",
+      "class_name": "Immunomodulatory Agents"
+    },
+    {
+      "code": "387003",
+      "description": "Acebutolol",
+      "site": "CHUQ",
+      "category_name": "Cardiovascular Drugs",
+      "category_code": "24:00",
+      "class_code": "24:08.92",
+      "class_name": "Hypotensive Agents (Miscellaneous)"
+    },
+    {
+      "code": "384031",
+      "description": "Atenolol",
+      "site": "CHUQ",
+      "category_name": "Cardiovascular Drugs",
+      "category_code": "24:00",
+      "class_code": "24:08.08",
+      "class_name": "beta-Adrenergic Blocking Agents"
+    },
+    {
+      "code": "389001",
+      "description": "Alteplase",
+      "site": "CHUQ",
+      "category_name": "Blood Formation / Coagulation / Thrombosis Agents",
+      "category_code": "20:00",
+      "class_code": "20:12.20",
+      "class_name": "Thrombolytic Agents"
+    },
+    {
+      "code": "392009",
+      "description": "Aldesleukin",
+      "site": "CHUQ",
+      "category_name": "Antineoplastic Agents",
+      "category_code": "10:00",
+      "class_code": "10:00",
+      "class_name": "Antineoplastic Agents"
+    },
+    {
+      "code": "379010",
+      "description": "Ammonium lactate",
+      "site": "CHUQ",
+      "category_name": "Skin and Mucous Membrane Agents",
+      "category_code": "84:00",
+      "class_code": "84:28",
+      "class_name": "Keratolytic Agents"
+    },
+    {
+      "code": "382167",
+      "description": "Azathioprine",
+      "site": "CHUQ",
+      "category_name": "Miscellaneous Therapeutic Agents",
+      "category_code": "92:00",
+      "class_code": "92:44",
+      "class_name": "Immunosuppressive Agents"
+    },
+    {
+      "code": "382064",
+      "description": "Amantadine",
+      "site": "CHUQ",
+      "category_name": "Central Nervous System Agents",
+      "category_code": "28:00",
+      "class_code": "28:36.04, 8:18.04",
+      "class_name": "Adamantanes, Adamantanes"
+    },
+    {
+      "code": "301047",
+      "description": "Alitretinoin",
+      "site": "CHUQ",
+      "category_name": "Skin and Mucous Membrane Agents",
+      "category_code": "84:00",
+      "class_code": "84:92",
+      "class_name": "Skin and Mucous Membrane Agents (Miscellaneous)"
+    },
+    {
+      "code": "398020",
+      "description": "Adapalene",
+      "site": "CHUQ",
+      "category_name": "Skin and Mucous Membrane Agents",
+      "category_code": "84:00",
+      "class_code": "84:92",
+      "class_name": "Skin and Mucous Membrane Agents (Miscellaneous)"
+    },
+    {
+      "code": "N/A",
+      "description": "Antihemophilic factor",
+      "site": "CHUQ",
+      "category_name": "Blood Formation / Coagulation / Thrombosis Agents",
+      "category_code": "20:00",
+      "class_code": "20:28.16",
+      "class_name": "Hemostatics"
+    },
+    {
+      "code": "318058",
+      "description": "Baloxavir",
+      "site": "CHUQ",
+      "category_name": "Anti-infective Agents",
+      "category_code": "8:00",
+      "class_code": "8:18.92",
+      "class_name": "Antivirals (Miscellaneous)"
+    },
+    {
+      "code": "318019",
+      "description": "Baricitinib",
+      "site": "CHUQ",
+      "category_name": "Miscellaneous Therapeutic Agents",
+      "category_code": "92:00",
+      "class_code": "92:36",
+      "class_name": "Disease-modifying Antirheumatic Drugs"
+    },
+    {
+      "code": "379011",
+      "description": "Amsacrine",
+      "site": "CHUQ",
+      "category_name": "Antineoplastic Agents",
+      "category_code": "10:00",
+      "class_code": "10:00",
+      "class_name": "Antineoplastic Agents"
+    },
+    {
+      "code": "310013",
+      "description": "Alglucosidase alfa",
+      "site": "CHUQ",
+      "category_name": "Enzymes",
+      "category_code": "44:00",
+      "class_code": "44:00",
+      "class_name": "Enzymes"
+    },
+    {
+      "code": "396015",
+      "description": "Acarbose",
+      "site": "CHUQ",
+      "category_name": "Hormones and Synthetic Substitutes",
+      "category_code": "68:00",
+      "class_code": "68:20.02",
+      "class_name": "Alpha-glucosidase Inhibitors"
+    },
+    {
+      "code": "387002",
+      "description": "Alclometasone",
+      "site": "CHUQ",
+      "category_name": "Skin and Mucous Membrane Agents",
+      "category_code": "84:00",
+      "class_code": "84:06.08",
+      "class_name": "Corticosteroids"
+    },
+    {
+      "code": "301039",
+      "description": "Almotriptan",
+      "site": "CHUQ",
+      "category_name": "Central Nervous System Agents",
+      "category_code": "28:00",
+      "class_code": "28:32.28",
+      "class_name": "Selective Serotonin Agonists"
+    },
+    {
+      "code": "382661",
+      "description": "Amikacin",
+      "site": "CHUQ",
+      "category_name": "Anti-infective Agents",
+      "category_code": "8:00",
+      "class_code": "8:16.04",
+      "class_name": "Antituberculosis Agents"
+    },
+    {
+      "code": "309004",
+      "description": "Antithrombin alfa",
+      "site": "CHUQ",
+      "category_name": "Blood Formation / Coagulation / Thrombosis Agents",
+      "category_code": "20:00",
+      "class_code": "20:12.04.92",
+      "class_name": "Anticoagulants (Miscellaneous)"
+    },
+    {
+      "code": "310014",
+      "description": "Asenapine",
+      "site": "CHUQ",
+      "category_name": "Central Nervous System Agents",
+      "category_code": "28:00",
+      "class_code": "28:28",
+      "class_name": "Antimanic Agents"
+    },
+    {
+      "code": "382756",
+      "description": "Acetazolamide",
+      "site": "CHUQ",
+      "category_name": "Eye / Ear / Nose / Throat",
+      "category_code": "52:00",
+      "class_code": "52:40.12",
+      "class_name": "Carbonic Anhydrase Inhibitors"
+    },
+    {
+      "code": "396018",
+      "description": "Anastrozole",
+      "site": "CHUQ",
+      "category_name": "Antineoplastic Agents",
+      "category_code": "10:00",
+      "class_code": "10:00",
+      "class_name": "Antineoplastic Agents"
+    },
+    {
+      "code": "307016",
+      "description": "Arformoterol",
+      "site": "CHUQ",
+      "category_name": "Autonomic Drugs",
+      "category_code": "12:00",
+      "class_code": "12:12.08.12",
+      "class_name": "Selective beta-2-Adrenergic Agonists"
+    },
+    {
+      "code": "381046",
+      "description": "Amiloride",
+      "site": "CHUQ",
+      "category_name": "Electrolytic / Caloric / Water Balance",
+      "category_code": "40:00",
+      "class_code": "40:28.16",
+      "class_name": "Potassium-sparing Diuretics"
+    },
+    {
+      "code": "301006",
+      "description": "Argatroban",
+      "site": "CHUQ",
+      "category_name": "Blood Formation / Coagulation / Thrombosis Agents",
+      "category_code": "20:00",
+      "class_code": "20:12.04.12",
+      "class_name": "Direct Thrombin Inhibitors"
+    },
+    {
+      "code": "379012",
+      "description": "Artesunate",
+      "site": "CHUQ",
+      "category_name": "Anti-infective Agents",
+      "category_code": "8:00",
+      "class_code": "8:30.08",
+      "class_name": "Antimalarials"
+    },
+    {
+      "code": "392009",
+      "description": "Aldesleukin",
+      "site": "CHUQ",
+      "category_name": "Miscellaneous Therapeutic Agents",
+      "category_code": "92:00",
+      "class_code": "92:20",
+      "class_name": "Immunomodulatory Agents"
+    },
+    {
+      "code": "306014",
+      "description": "Anidulafungin",
+      "site": "CHUQ",
+      "category_name": "Anti-infective Agents",
+      "category_code": "8:00",
+      "class_code": "8:14.16",
+      "class_name": "Echinocandins"
+    },
+    {
+      "code": "316042",
+      "description": "Avanafil",
+      "site": "CHUQ",
+      "category_name": "Cardiovascular Drugs",
+      "category_code": "24:00",
+      "class_code": "24:12.12",
+      "class_name": "Phosphodiesterase Type 5 Inhibitors"
+    },
+    {
+      "code": "317040",
+      "description": "Becaplermin",
+      "site": "CHUQ",
+      "category_name": "Skin and Mucous Membrane Agents",
+      "category_code": "84:00",
+      "class_code": "84:16",
+      "class_name": "Cell Stimulants and Proliferants"
+    },
+    {
+      "code": "385038",
+      "description": "Auranofin",
+      "site": "CHUQ",
+      "category_name": "Miscellaneous Therapeutic Agents",
+      "category_code": "92:00",
+      "class_code": "92:36",
+      "class_name": "Disease-modifying Antirheumatic Drugs"
+    },
+    {
+      "code": "302046",
+      "description": "Adalimumab",
+      "site": "CHUQ",
+      "category_name": "Miscellaneous Therapeutic Agents",
+      "category_code": "92:00",
+      "class_code": "92:36",
+      "class_name": "Disease-modifying Antirheumatic Drugs"
+    },
+    {
+      "code": "307024",
+      "description": "Aluminum chloride",
+      "site": "CHUQ",
+      "category_name": "Skin and Mucous Membrane Agents",
+      "category_code": "84:00",
+      "class_code": "84:12",
+      "class_name": "Astringents"
+    },
+    {
+      "code": "396002",
+      "description": "Azelaic acid",
+      "site": "CHUQ",
+      "category_name": "Skin and Mucous Membrane Agents",
+      "category_code": "84:00",
+      "class_code": "84:92",
+      "class_name": "Skin and Mucous Membrane Agents (Miscellaneous)"
+    },
+    {
+      "code": "382673",
+      "description": "Allopurinol",
+      "site": "CHUQ",
+      "category_name": "Miscellaneous Therapeutic Agents",
+      "category_code": "92:00",
+      "class_code": "92:16",
+      "class_name": "Antigout Agents"
+    },
+    {
+      "code": "300038",
+      "description": "Atovaquone and proguanil",
+      "site": "CHUQ",
+      "category_name": "Anti-infective Agents",
+      "category_code": "8:00",
+      "class_code": "8:30.08",
+      "class_name": "Antimalarials"
+    },
+    {
+      "code": "303030",
+      "description": "Alfuzosin",
+      "site": "CHUQ",
+      "category_name": "Autonomic Drugs",
+      "category_code": "12:00",
+      "class_code": "12:16.04.12",
+      "class_name": "Selective alpha-1-Adrenergic Blocking Agents"
+    },
+    {
+      "code": "382661",
+      "description": "Amikacin",
+      "site": "CHUQ",
+      "category_name": "Anti-infective Agents",
+      "category_code": "8:00",
+      "class_code": "8:12.02",
+      "class_name": "Aminoglycosides"
+    },
+    {
+      "code": "384024",
+      "description": "Atropine",
+      "site": "CHUQ",
+      "category_name": "Respiratory Tract Agents",
+      "category_code": "48:00",
+      "class_code": "48:12.08",
+      "class_name": "Anticholinergic Agents"
+    },
+    {
+      "code": "301025",
+      "description": "Balsalazide",
+      "site": "CHUQ",
+      "category_name": "Gastrointestinal Drugs",
+      "category_code": "56:00",
+      "class_code": "56:36",
+      "class_name": "Anti-inflammatory Agents"
+    },
+    {
+      "code": "394040",
+      "description": "Acrivastine",
+      "site": "CHUQ",
+      "category_name": "Antihistamine Drugs",
+      "category_code": "4:00",
+      "class_code": "4:08",
+      "class_name": "Second Generation Antihistamines"
+    },
+    {
+      "code": "381047",
+      "description": "Beclomethasone",
+      "site": "CHUQ",
+      "category_name": "Respiratory Tract Agents",
+      "category_code": "48:00",
+      "class_code": "48:10.08.04",
+      "class_name": "Nasal Preparations"
+    },
+    {
+      "code": "318006",
+      "description": "Aripiprazole",
+      "site": "CHUQ",
+      "category_name": "Central Nervous System Agents",
+      "category_code": "28:00",
+      "class_code": "28:16.08.04",
+      "class_name": "Atypical Antipsychotics"
+    },
+    {
+      "code": "310014",
+      "description": "Asenapine",
+      "site": "CHUQ",
+      "category_name": "Central Nervous System Agents",
+      "category_code": "28:00",
+      "class_code": "28:16.08.04",
+      "class_name": "Atypical Antipsychotics"
+    },
+    {
+      "code": "316021",
+      "description": "Atezolizumab",
+      "site": "CHUQ",
+      "category_name": "Antineoplastic Agents",
+      "category_code": "10:00",
+      "class_code": "10:00",
+      "class_name": "Antineoplastic Agents"
+    },
+    {
+      "code": "315016",
+      "description": "Adenovirus vaccine live oral",
+      "site": "CHUQ",
+      "category_name": "Antitoxins / Immune Globulins / Toxoids / Vaccines",
+      "category_code": "80:00",
+      "class_code": "80:12",
+      "class_name": "Vaccines"
+    },
+    {
+      "code": "385038",
+      "description": "Auranofin",
+      "site": "CHUQ",
+      "category_name": "Miscellaneous Therapeutic Agents",
+      "category_code": "92:00",
+      "class_code": "92:20",
+      "class_name": "Immunomodulatory Agents"
+    },
+    {
+      "code": "392044",
+      "description": "Amlodipine",
+      "site": "CHUQ",
+      "category_name": "Cardiovascular Drugs",
+      "category_code": "24:00",
+      "class_code": "24:28.08",
+      "class_name": "Dihydropyridines"
+    },
+    {
+      "code": "381046",
+      "description": "Amiloride",
+      "site": "CHUQ",
+      "category_name": "Cardiovascular Drugs",
+      "category_code": "24:00",
+      "class_code": "24:08.24.16",
+      "class_name": "Potassium-sparing Diuretics"
+    },
+    {
+      "code": "311014",
+      "description": "Alcaftadine",
+      "site": "CHUQ",
+      "category_name": "Eye / Ear / Nose / Throat",
+      "category_code": "52:00",
+      "class_code": "52:02",
+      "class_name": "Antiallergic Agents"
+    },
+    {
+      "code": "384052",
+      "description": "Atracurium",
+      "site": "CHUQ",
+      "category_name": "Autonomic Drugs",
+      "category_code": "12:00",
+      "class_code": "12:20.20",
+      "class_name": "Neuromuscular Blocking Agents"
+    },
+    {
+      "code": "384031",
+      "description": "Atenolol",
+      "site": "CHUQ",
+      "category_name": "Autonomic Drugs",
+      "category_code": "12:00",
+      "class_code": "12:16.08.08",
+      "class_name": "Selective beta-Adrenergic Blocking Agents"
+    },
+    {
+      "code": "301072",
+      "description": "Anakinra",
+      "site": "CHUQ",
+      "category_name": "Miscellaneous Therapeutic Agents",
+      "category_code": "92:00",
+      "class_code": "92:36",
+      "class_name": "Disease-modifying Antirheumatic Drugs"
+    },
+    {
+      "code": "382388",
+      "description": "Amitriptyline",
+      "site": "CHUQ",
+      "category_name": "Central Nervous System Agents",
+      "category_code": "28:00",
+      "class_code": "28:16.04.28",
+      "class_name": "Tricyclics and Other Norepinephrine-"
+    },
+    {
+      "code": "310018",
+      "description": "Armodafinil",
+      "site": "CHUQ",
+      "category_name": "Central Nervous System Agents",
+      "category_code": "28:00",
+      "class_code": "28:20.80",
+      "class_name": "Wakefulness-promoting Agents"
+    },
+    {
+      "code": "387003",
+      "description": "Acebutolol",
+      "site": "CHUQ",
+      "category_name": "Cardiovascular Drugs",
+      "category_code": "24:00",
+      "class_code": "24:24",
+      "class_name": "beta-Adrenergic Blocking Agents"
+    },
+    {
+      "code": "384031",
+      "description": "Atenolol",
+      "site": "CHUQ",
+      "category_name": "Cardiovascular Drugs",
+      "category_code": "24:00",
+      "class_code": "24:24",
+      "class_name": "beta-Adrenergic Blocking Agents"
+    },
+    {
+      "code": "382145",
+      "description": "Albuterol/levalbuterol",
+      "site": "CHUQ",
+      "category_name": "Autonomic Drugs",
+      "category_code": "12:00",
+      "class_code": "12:12.08.12",
+      "class_name": "Selective beta-2-Adrenergic Agonists"
+    }
+  ],
+  "imagingName": [],
+  "cultureName": [],
+  "labName": [],
+  "drugFrequency": [],
+  "cultureResultStatus": [],
+  "observationNameUnit": [],
+  "labSite": [],
   "pcrResultStatus": [
     {
       "raw_string_lower": "vndet",
@@ -1626,7 +2610,6 @@
       "snomed_reference_url": "https://snomedbrowser.com/Codes/Details/82334004"
     }
   ],
-  "observationNameUnit": [],
   "unitType": [
     {
       "raw_string_lower": "1c",
@@ -2293,64 +3276,5 @@
       "fhir_reference_url": "http://terminology.hl7.org/CodeSystem/v3-RoleCode",
       "site": "CHUQ"
     }
-  ],
-  "pcrName": [
-    {
-      "raw_string_lower": "mcovi",
-      "display_string": "SARS-CoV-2 RNA Resp Ql NAA+probe",
-      "loinc_code": "94500-6",
-      "site": "CHUQ",
-      "loinc_reference_url": "https://loinc.org/94500-6"
-    },
-    {
-      "raw_string_lower": "coidn",
-      "display_string": "SARS-CoV-2 RNA Resp Ql NAA+probe",
-      "loinc_code": "94500-6",
-      "site": "CHUQ",
-      "loinc_reference_url": "https://loinc.org/94500-6"
-    },
-    {
-      "raw_string_lower": "covco",
-      "display_string": "SARS-CoV-2 RNA Resp Ql NAA+probe",
-      "loinc_code": "94500-6",
-      "site": "CHUQ",
-      "reviewed_by": [
-        "Johann"
-      ],
-      "loinc_reference_url": "https://loinc.org/94500-6"
-    },
-    {
-      "raw_string_lower": "xcovi",
-      "display_string": "SARS-CoV-2 RNA Resp Ql NAA+probe",
-      "loinc_code": "94500-6",
-      "site": "CHUQ",
-      "reviewed_by": [
-        "Johann"
-      ],
-      "loinc_reference_url": "https://loinc.org/94500-6"
-    },
-    {
-      "raw_string_lower": "covid",
-      "display_string": "SARS-CoV-2 RNA Resp Ql NAA+probe",
-      "loinc_code": "94500-6",
-      "site": "CHUQ",
-      "reviewed_by": [
-        "Johann"
-      ],
-      "loinc_reference_url": "https://loinc.org/94500-6"
-    },
-    {
-      "raw_string_lower": "xxcov",
-      "display_string": "SARS-CoV-2 RNA Resp Ql NAA+probe",
-      "loinc_code": "94500-6",
-      "site": "CHUQ",
-      "reviewed_by": [
-        "Johann"
-      ],
-      "loinc_reference_url": "https://loinc.org/94500-6"
-    }
-  ],
-  "cultureName": [],
-  "imagingName": [],
-  "drugFrequency": []
+  ]
 }
