@@ -20,7 +20,11 @@ class Fetcher extends Airtable {
       ["DrugCodes", {}],
       ["DrugFrequency", {}],
       ["UnitType", {}],
-      ["ImagingName", {}]
+      ["ImagingName", {}],
+      ["ImagingSite", {}],
+      ["ProcedureName", {}],
+      ["Priority", {}],
+      ["ServiceType", {}]
     ]
   }
 }
