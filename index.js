@@ -24,7 +24,8 @@ class Fetcher extends Airtable {
       ["ImagingSite", {}],
       ["ProcedureName", {}],
       ["Priority", {}],
-      ["ServiceType", {}]
+      ["ServiceType", {},
+      ["ProcCancelReason", {}]
     ]
   }
 }
