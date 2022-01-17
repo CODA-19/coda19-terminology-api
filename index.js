@@ -15,6 +15,7 @@ class Fetcher extends Airtable {
       ["ObservationNameUnit", {}],
       ["CultureName", {}],
       ["CultureResultStatus", {}],
+      ["CultureSite", {}],
       ["DrugName", {}],
       ["DrugRoute", {}],
       ["DrugCodes", {}],
