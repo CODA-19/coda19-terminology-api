@@ -1,7 +1,7 @@
 const fs = require('fs')
 const Airtable = require('./Airtable')
 
-const siteNames = ['CHUM', 'CISSSCA', 'CHUQ']
+const siteNames = ['CHUM', 'CISSSCA', 'CHUQ','CIUSSSNIM']
 
 class Fetcher extends Airtable {
   constructor(...args) {
