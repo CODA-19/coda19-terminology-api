@@ -7,6 +7,7 @@ NodeJS and NPM, and install dependencies:
 
 ```bash
 npm install
+npm install lodash --save
 ```
 
 ## Export JSON
